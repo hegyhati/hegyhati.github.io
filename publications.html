@@ -1,0 +1,18 @@
+---
+layout: default
+title:  "List of Publications"
+date:   2018-01-30 13:32:18 +0100
+categories: jekyll update
+---
+
+<h2>Journal Articles</h2>
+
+<ul>
+{% for pub in site.data.articles %}
+    <li>{% include article.html %}</li>
+{% endfor %}
+</ul>
+
+<h2>Conference Presentations</h2>
+
+
