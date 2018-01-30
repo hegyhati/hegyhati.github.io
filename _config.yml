@@ -3,11 +3,10 @@ email: hegyhati.work@gmail.com
 description: > 
   Curriculum vitae, list of publications, etc. for Mate Hegyhati.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hegyhati
-github_username:  hegyhati
+url: "http://hegyhati.info" # the base hostname & protocol for your site
+
 
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-minimal
+

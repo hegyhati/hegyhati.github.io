@@ -1,4 +1,4 @@
-{% for author in pub.author %}
+<div>{% for author in pub.author %}
     {{author.given}}
     {% if author.family =="Hegyháti" or author.family =="Hegyhati" %}
         <u>{{author.family}}</u>
@@ -7,13 +7,9 @@
     {% endif %}
     {% unless forloop.last %},{% endunless %}
 {% endfor %}
-:
-{{pub.title}}
-;
-{{pub.container-title}}
-;
-{{pub.issued.date-parts[0]}} ({{pub.volume}})
--
-<a target="_blank" href="https://doi.org/{{pub.DOI}}">{{pub.DOI}}</a>
+</div>
+<div><b>{{pub.title}}</b></div>
+<div>{{pub.container-title}}; {{pub.issued.date-parts[0]}} ({{pub.volume}})</div>
+<div><a target="_blank" href="https://doi.org/{{pub.DOI}}">{{pub.DOI}}</a></div>
 
 
