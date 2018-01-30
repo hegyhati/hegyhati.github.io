@@ -9,7 +9,9 @@
 {% endfor %}
 </div>
 <div><b>{{pub.title}}</b></div>
-<div>{{pub.container-title}}; {{pub.issued.date-parts[0]}} ({{pub.volume}})</div>
-<div><a target="_blank" href="https://doi.org/{{pub.DOI}}">{{pub.DOI}}</a></div>
+<div>{{pub.container-title}}; {{pub.year}} ({{pub.volume}})</div>
+<div><a target="_blank" href="https://doi.org/{{pub.DOI}}">{{pub.DOI}}</a>
+{% if pub.year >= "2013" %} <span class="badge badge-info">new</span> {% endif %}
+</div>
 
 

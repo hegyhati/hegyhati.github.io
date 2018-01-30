@@ -34,13 +34,7 @@
       }
     ],
     "id": "Ng2013",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
+    "year": "2013",
     "title": "<span class=\"nocase\">Waste to energy for small cities: Economics versus carbon footprint</span>",
     "type": "book",
     "volume": "35"
@@ -63,13 +57,7 @@
     ],
     "container-title": "CHISA 2012 - 20th international congress of chemical and process engineering and pRES 2012 - 15th conference pRES",
     "id": "Holczinger2012",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
+    "year": "2012",
     "title": "<span class=\"nocase\">Simultaneous heat integration and batch process scheduling</span>",
     "type": "paper-conference"
   },
@@ -95,13 +83,7 @@
     ],
     "container-title": "CHISA 2012 - 20th international congress of chemical and process engineering and pRES 2012 - 15th conference pRES",
     "id": "Nemet2012",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
+    "year": "2012",
     "title": "<span class=\"nocase\">Increasing solar energy utilisation by rescheduling operations with heat and electricity demand</span>",
     "type": "paper-conference"
   },
@@ -125,13 +107,7 @@
     ],
     "container-title": "Chemical Engineering Transactions",
     "id": "Holczinger2012a",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
+    "year": "2012",
     "title": "<span class=\"nocase\">Simultaneous heat integration and batch process scheduling</span>",
     "type": "article-journal",
     "volume": "29"
@@ -160,13 +136,7 @@
     ],
     "container-title": "Chemical Engineering Transactions",
     "id": "Nemet2012a",
-    "issued": {
-      "date-parts": [
-        [
-          2012
-        ]
-      ]
-    },
+    "year": "2012",
     "title": "<span class=\"nocase\">Increasing solar energy utilisation by rescheduling operations with heat and electricity demand</span>",
     "type": "article-journal",
     "volume": "29"
@@ -194,13 +164,7 @@
     ],
     "container-title": "CHISA 2006 - 17th international congress of chemical and process engineering",
     "id": "Hegyhati2006",
-    "issued": {
-      "date-parts": [
-        [
-          2006
-        ]
-      ]
-    },
+    "year": "2006",
     "title": "<span class=\"nocase\">Demonstration program for S-graph based batch-process scheduling</span>",
     "type": "paper-conference"
   },
@@ -221,13 +185,7 @@
     "container-title": "Industrial and Engineering Chemistry Research",
     "id": "Hegyhati2011c",
     "issue": "9",
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
+    "year": "2011",
     "title": "<span class=\"nocase\">Combinatorial algorithms of the S-graph framework for batch scheduling</span>",
     "type": "article-journal",
     "volume": "50"
@@ -249,13 +207,7 @@
     "container-title": "Journal of Combinatorial Optimization",
     "id": "Hegyhati2013",
     "issue": "4",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
+    "year": "2013",
     "keyword": "Algorithmic complexity,Chromatic inversion,Hypergraph coloring,Mixed hypergraph",
     "title": "<span class=\"nocase\">Colorability of mixed hypergraphs and their chromatic inversions</span>",
     "type": "article-journal",
@@ -301,13 +253,7 @@
     ],
     "container-title": "Chemical Engineering Transactions",
     "id": "Hegyhati2011a",
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
+    "year": "2011",
     "page": "495-500",
     "title": "<span class=\"nocase\">Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time</span>",
     "type": "article-journal",
@@ -339,13 +285,7 @@
     "container-title": "Industrial & Engineering Chemistry Research",
     "id": "Hegyhati2011",
     "issue": "9",
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
+    "year": "2011",
     "page": "5169-5174",
     "publisher": "American Chemical Society",
     "title": "<span class=\"nocase\">Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling</span>",
@@ -378,13 +318,7 @@
     "container-title": "Clean Technologies and Environmental Policy",
     "id": "Lainez2010",
     "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2010
-        ]
-      ]
-    },
+    "year": "2011",
     "keyword": "S-graph,Scheduling,Uncertainty",
     "page": "105-115",
     "title": "<span class=\"nocase\">Using S-graph to address uncertainty in batch plants</span>",
@@ -417,13 +351,7 @@
     "container-title": "Chemical Engineering Science",
     "id": "Hegyhati2009",
     "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          2009
-        ]
-      ]
-    },
+    "year": "2009",
     "keyword": "Batch,Chemical process,Optimization,S-graph,Scheduling,Systems eng,Systems engineering",
     "page": "605-610",
     "title": "<span class=\"nocase\">Practical infeasibility of cross-transfer in batch plants with complex recipes: S-graph vs MILP methods</span>",
@@ -459,13 +387,7 @@
     "container-title": "Chemical Engineering Transactions",
     "id": "Aguirre2013",
     "issue": "1997",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
+    "year": "2013",
     "keyword": "automated manufacturing systems,milp-based approach,open-shop scheduling problems,real-world industrial application,sequence-dependent transferring times",
     "page": "1381-1386",
     "title": "<span class=\"nocase\">General framework for automated manufacturing systems: Multiple hoists scheduling solution</span>",
@@ -499,13 +421,7 @@
       }
     ],
     "id": "Hegyhati2011b",
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
+    "year": "2011",
     "keyword": "batch,optimization,scheduling,transfer energy",
     "page": "1979-1983",
     "publisher": "Elsevier",
@@ -536,13 +452,7 @@
     ],
     "container-title": "Chemical Engineering Transactions",
     "id": "Hegyhati2014",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
+    "year": "2014",
     "page": "433-438",
     "title": "<span class=\"nocase\">Scheduling of Automated Wet-Etch Stations</span>",
     "type": "article-journal",
@@ -561,13 +471,7 @@
     ],
     "container-title": "VOCAL optimization conference: Advanced algorithms",
     "id": "Osz2016",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
+    "year": "2016",
     "publisher-place": "Esztergom, Hungary",
     "title": "<span class=\"nocase\">A novel combinatorial approach for the resource-constrained scheduling problem</span>",
     "type": "paper-conference"
@@ -587,13 +491,7 @@
     ],
     "container-title": "Chemical Engineering Transactions",
     "id": "Hegyhati2010",
-    "issued": {
-      "date-parts": [
-        [
-          2010
-        ]
-      ]
-    },
+    "year": "2010",
     "page": "895-900",
     "title": "<span class=\"nocase\">Overview of Industrial Batch Process Scheduling</span>",
     "type": "article-journal",
@@ -635,13 +533,7 @@
       }
     ],
     "id": "Holczinger2007",
-    "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
-    },
+    "year": "2007",
     "keyword": "S-graph; batch plants; continuous-time; scheduling",
     "page": "649-654",
     "publisher": "Elsevier",
@@ -662,13 +554,7 @@
     ],
     "container-title": "Inustrial & Engineering Chemistry Research",
     "id": "Majozi2006",
-    "issued": {
-      "date-parts": [
-        [
-          2006
-        ]
-      ]
-    },
+    "year": "2006",
     "page": "6713-6720",
     "title": "<span class=\"nocase\">Maximization of throughput in a multipurpose batch plant under fixed time horizon: S-graph approach</span>",
     "type": "article-journal",
@@ -696,13 +582,7 @@
     ],
     "container-title": "21st international congress of chemical and process engineering, cHISA 2014 and 17th conference on process integration, modelling and optimisation for energy saving and pollution reduction, pRES 2014",
     "id": "Hegyhati2014a",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
+    "year": "2014",
     "title": "<span class=\"nocase\">Scheduling of automated wet-etch stations</span>",
     "type": "paper-conference",
     "volume": "4"
