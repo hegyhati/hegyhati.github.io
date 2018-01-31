@@ -1,3 +1,4 @@
+
 <div>{% for author in pub.author %}
     {{author.given}}
     {% if author.family =="Hegyháti" or author.family =="Hegyhati" %}
@@ -9,9 +10,14 @@
 {% endfor %}
 </div>
 <div><b>{{pub.title}}</b></div>
-<div>{{pub.container-title}}; {{pub.year}} ({{pub.volume}})</div>
+<div>{{pub.journal}}, {{pub.year}},
+{{pub.volume}}{% if pub.issue %}({{pub.issue}}){% endif %},
+{{pub.pages}}</div>
 <div><a target="_blank" href="https://doi.org/{{pub.DOI}}">{{pub.DOI}}</a>
-{% if pub.year >= "2013" %} <span class="badge badge-info">new</span> {% endif %}
+{% if pub.year >= "2017" %} <span class="badge badge-info">new</span> {% endif %}
+
+{% if pub.citations-self.size > 0 %} <span class="badge badge-info float-right">{{pub.citations-self.size}}</span> {% endif %}
+{% if pub.citations-independent.size > 0 %} <span class="badge badge-primary float-right">{{pub.citations-independent.size}}</span> {% endif %}
 </div>
 
 
