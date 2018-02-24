@@ -24,10 +24,14 @@ categories: jekyll update
         <div class="col-sm-6">
             <div class="card bg-basic">
                 <div class="card-header">
-                    <h4>Conference presentations</h4>
+                    <h4>Conference presentations <span class="badge badge-pill badge-dark float-right">{{site.data.presentations.size}}</span></h4>
                 </div>
                 <div class="card-body">
-                    TODO
+                    <ul class="list-group list-group-flush">
+                    {% for pres in site.data.presentations %}
+                        <li class="list-group-item">{% include presentation.html %}</li>
+                    {% endfor %}
+                    </ul>
                 </div>
             </div>
         </div>
