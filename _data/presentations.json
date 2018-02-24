@@ -109,5 +109,176 @@
         "date": "September 29 - October 2",
         "year": "2013",
         "type" : ["oral", "international", "collaborator"]
+    },
+    {
+        "author": "Hegyhati, M., A. A. Merrouni, F. Wolferstetter, A. Mrezhrab, F. Friedler",
+        "title": "The effect of cleaning strategies of CSP mirrors on the efficiency and water footprint of solar power plants",
+        "conferenceshort": "SDEWES 2013",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "date": "September 22-27",
+        "year": "2013",
+        "type": ["oral","international"]
+    },
+    {
+        "author" : "Hegyháti, M., A. Szoldatics, O. Ősz, F. Friedler",
+        "title": "Combinatorial Tool for Cyclic Scheduling of Batch Processes: S-graph Approach",
+        "conferenceshort": "VOCAL 2012",
+        "city": "Veszprém",
+        "country": "Hungary",
+        "date" : "December 11-14",
+        "year": "2012",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Holczinger, T., M. Hegyhati, F. Friedler",
+        "title": "Simultaneous heat integration and batch process scheduling",
+        "conferenceshort": "CHISA/PRES 2012",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "August 25-29",
+        "year": "2012",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Nemet, A., M. Hegyháti,  J. K. Klemeš, F. Friedler",
+        "title": "Increasing solar energy utilisation by rescheduling operations with heat and electricity demand",
+        "conferenceshort": "CHISA/PRES 2012",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "August 25-29",
+        "year": "2012",
+        "type": ["oral","international","collaborator"]
+    },
+    {
+        "author": "Nemet, A., M. Hegyhati, J. J. Klemeš, F. Friedler",
+        "title": "Increasing solar energy utilisation by rescheduling operations with heat and electricity demand",
+        "conferenceshort": "SDEWES 2012",
+        "city": "Ohrid",
+        "country": "Macedonia",
+        "date": "July 1-7",
+        "year": "2012",
+        "type": ["oral","international","collaborator"] 
+    },
+    {
+        "author": "Hegyháti, M., F. Friedler",
+        "title": "Tools of Discrete Event Systems for Batch Process Scheduling",
+        "conferenceshort": "CAPE 2012",
+        "city": "Veszprém",
+        "country": "Hungary",
+        "date": "March 26-28",
+        "year": "2012",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Hegyháti, M., T. Holczinger, F. Friedler",
+        "title": "In-Depth Study and Comparison of S-Graph Framework and Precedence Based MILP Formulations for Batch Process Scheduling",
+        "conference": "AIChE Annual Meeting 2011",
+        "conferenceshort": "AIChE AM 2011",
+        "city": "Minneapolis",
+        "country": "USA",
+        "date": "October 16-21",
+        "year": "2011",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Hegyhati, M., T. Holczinger, A. Szoldatics, F. Friedler",
+        "title": "Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time",
+        "conferenceshort": "PRES'11",
+        "city": "Florence",
+        "country": "Italy",
+        "date": "May 8-11",
+        "year": "2011",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Holczinger, T. ,M. Hegyhati, F. Friedler",
+        "title": "S-graph as an integrated modelling and optimization tool for the scheduling of industrial batch processes",
+        "conferenceshort": "VOCAL 2010",
+        "city": "Veszprem",
+        "country": "Hungary",
+        "date": "December 13-15",
+        "year": "2010",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Hegyhati, M., F. Friedler",
+        "title" : "Overview of industrial batch process scheduling",
+        "conferenceshort": "CHISA/PRES 2010",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "August 29 - September 1",
+        "year": "2010",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Hegyhati, M., T. Majozi, T. Holczinger, F. Friedler",
+        "title": "Practical feasibility of mathematical models in scheduling",
+        "conferenceshort": "VOCAL 2008",
+        "city": "Veszprem",
+        "country": "Hungary",
+        "date": "December 15-17",
+        "year": "2008",
+        "type": ["oral","international","collaborated"]
+    },
+    {
+        "author": "Hegyhati, M., T. Majozi, F. Friedler",
+        "title": "Throughput maximization in a multipurpose batch plant",
+        "conferenceshort": "CHISA/PRES 2008",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "August 24-28",
+        "year": "2008",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Majozi, T., F. Friedler, T. Holczinger, M. Hegyhati",
+        "title": "S-graph based continuous-time approach for throughput maximization in multipurpose batch plants",
+        "conferenceshort": "IFORS 2008",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "date": "July 13-18",
+        "year": "2008",
+        "type": ["oral","international","collaborated"]
+    },
+    {
+        "author": "Hegyhati M., Z. Tuza",
+        "title": "Colorability of mixed hypergraphs and their chromatic inverses",
+        "conferenceshort": "CID 2007",
+        "city": "Karpacz",
+        "country": "Poland",
+        "date": "September 16-21",
+        "year": "2007",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Holczinger, T.,T. Majozi, M. Hegyhati, F. Friedler",
+        "title": "Throughput Maximization in Multipurpose Batch Plants: S-graph vs Time Point Based Methods",
+        "conferenceshort": "PRES'07",
+        "city": "Ischia Island",
+        "country": "Italy",
+        "date": "June 24-27",
+        "year": "2007",
+        "type": ["oral","international","collaborated"]
+    },
+    {
+        "author": "Holczinger, T.,T. Majozi, M. Hegyhati, F. Friedler",
+        "title": "An Automated Algorithm for Throughput Maximization Under Fixed Time Horizon in Multipurpose Batch Plants: S-Graph Approach",
+        "conferenceshort": "ESCAPE 17",
+        "city": "Bucharest",
+        "country": "Romania",
+        "date": "May 27-30",
+        "year": "2007",
+        "type": ["oral","international","collaborated"]
+    },
+    {
+        "author": "Holczinger, T.,T. Majozi, M. Hegyhati, F. Friedler",
+        "title": "Using S-graph for Throughput Maximization in Multipurpose Batch Plants",
+        "conferenceshort": "VOCAL 2006",
+        "city": "Veszprem",
+        "country": "Hungary",
+        "date": "December 12-15",
+        "year": "2006",
+        "type": ["oral","international","collaborated"]
     }
 ]
