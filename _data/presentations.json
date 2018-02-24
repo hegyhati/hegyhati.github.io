@@ -39,5 +39,75 @@
         "date": "December 12-15",
         "year": "2016",
         "type": ["oral","international"]
+    },
+    {
+        "author": "Osz, O., M. Hegyhati M.",
+        "title": "A novel combinatorial approach for the resource-constrained scheduling problem",
+        "conferenceshort": "VOCAL 2016",
+        "city": "Esztergom",
+        "country": "Hungary",
+        "date": "December 12-15",
+        "year": "2016",
+        "type": ["oral","international","collaborator"]
+    },
+    {
+        "author": "Hegyhati, M.",
+        "title": "A combinatorial modeling tool for event-based batch process scheduling: the eS-graph",
+        "conferenceshort": "ASCONIKK & VOCAL 2014",
+        "city": "Veszprem",
+        "country": "Hungary",
+        "date": "December 14-17",
+        "year": "2014",
+        "type": ["oral","international"]
+    },
+    {
+        "author": "Hegyhati, M., A. Eles",
+        "title": "Generic software tool for the evaluation, comparison and ranking of methods for short-term batch process scheduling problems",
+        "conferenceshort": "ASCONIKK & VOCAL 2014",
+        "city": "Veszprem",
+        "country": "Hungary",
+        "date": "December 14-17",
+        "year": "2014",
+        "type": ["oral","international","collaborator"]
+    },
+    {
+        "author": "Osz, O., B. Kovacs, M. Hegyhati",
+        "title": "Combinatorial approach for the scheduling of Automated Wet-etch Stations",
+        "conferenceshort": "ASCONIKK & VOCAL 2014",
+        "city": "Veszprem",
+        "country": "Hungary",
+        "date": "December 14-17",
+        "year": "2014",
+        "type": ["oral","international","collaborator"]
+    },
+    {
+        "author": "Toth, B., M. Hegyhati",
+        "title": "Handling Limited Wait and Zero Wait policies with the S­-graph framework",
+        "conferenceshort": "ASCONIKK & VOCAL 2014",
+        "city": "Veszprem",
+        "country": "Hungary",
+        "date": "December 14-17",
+        "year": "2014",
+        "type": ["oral","international","collaborator"]
+    },
+    {
+        "author" : "Hegyhati, M., O. Osz, B. Kovacs, F. Friedler",
+        "title": "Scheduling of automated wet-etch stations",
+        "conferenceshort": "CHISA/PRES 2014",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date" : "August 23-27",
+        "year" : "2014",
+        "type" : ["oral", "international"]
+    },
+    {
+        "author" : "Ng, W. Q. P., P. S. Varbanov. J. J. Klemes, M. Hegyhati, B. Bertok, I. Heckl, H. L. Lam",
+        "title": "Waste to Energy for Small Cities: Economics vs. Carbon Footprints",
+        "conferenceshort": "PRES '13",
+        "city": "Rhodos",
+        "country": "Greece",
+        "date": "September 29 - October 2",
+        "year": "2013",
+        "type" : ["oral", "international", "collaborator"]
     }
 ]
