@@ -1,8 +1,6 @@
 
 
 <div><b>{{pres.title}}</b> - {{pres.author}}</div>
-<div>{{pres.conference}}</div>
-<div>{{pres.city}}, {{pres.country}}, {{pres.date}}, {{pres.year}}</div>
-<div>{% if pres.year >= "2017" %} <span class="badge badge-info float-right">new</span> {% endif %}</div>
+<div>{{pres.conferenceshort}} - {{pres.city}}, {{pres.country}} - {{pres.date}}, {{pres.year}}{% if pres.year >= "2017" %} <span class="badge badge-info float-right">new</span> {% endif %}</div>
 
 

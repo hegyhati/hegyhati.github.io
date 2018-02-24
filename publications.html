@@ -14,7 +14,8 @@ categories: jekyll update
                 </div>
                 <div class="card-body">
                     <ul class="list-group list-group-flush">
-                    {% for pub in site.data.articles %}
+                    {% assign articles = (site.data.articles | sort: "year") | reverse %}
+                    {% for pub in articles %}
                         <li class="list-group-item">{% include article.html %}</li>
                     {% endfor %}
                     </ul>
@@ -28,7 +29,8 @@ categories: jekyll update
                 </div>
                 <div class="card-body">
                     <ul class="list-group list-group-flush">
-                    {% for pres in site.data.presentations %}
+                    {% assign presentations = (site.data.presentations | sort: "year") | reverse %}
+                    {% for pres in  presentations %}
                         <li class="list-group-item">{% include presentation.html %}</li>
                     {% endfor %}
                     </ul>

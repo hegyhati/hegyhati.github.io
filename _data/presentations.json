@@ -1,8 +1,9 @@
 [
     {
-        "author": "Hegyhati M., T. Holczinger, T. Majozi, F. Friedler",
+        "author": "Hegyhati, M., T. Holczinger, T. Majozi, F. Friedler",
         "title": "Transforming STN based scheduling problems to S-graph representation",
         "conference": "XIX Polish Conference of Chemical and Process Engineering",
+        "conferenceshort": "PCCPE 2007",
         "city": "Rzeszów",
         "country": "Poland",
         "year": "2007",
@@ -12,11 +13,31 @@
     {
         "author" : "Hegyhati, M.",
         "title" : "Timed Automata based scheduling of automated wet-etch stations",
-        "conference": "ECCO 2017",
+        "conferenceshort": "ECCO 2017",
         "city": "Koper",
         "country": "Slovenia",
         "date": "May 3-6",
         "year": "2017",
         "type": ["oral", "international"]
+    },
+    {
+        "author": "Osz, O., M . Hegyhati",
+        "title" : "Combinatorial approach for the multi-mode resource-constrained project scheduling problem",
+        "conferenceshort": "ECCO 2017",
+        "city": "Koper",
+        "country": "Slovenia",
+        "date": "May 3-6",
+        "year": "2017",
+        "type": ["oral","international","collaborator"]
+    },
+    {
+        "author": "Hegyhati, M., Z. Nemes",
+        "title": "S-graph based reactive scheduling",
+        "conferenceshort": "VOCAL 2016",
+        "city": "Esztergom",
+        "country": "Hungary",
+        "date": "December 12-15",
+        "year": "2016",
+        "type": ["oral","international"]
     }
 ]
