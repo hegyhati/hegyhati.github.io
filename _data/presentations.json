@@ -1,4 +1,16 @@
 [
+    
+    {
+        "author": "Dávid B., M. Hegyháti, M. Krész",
+        "title": "Linearly Priced Timed Automata for the Bus Schedule Assignment Proble",
+        "conference": "GOL'2018: The 4th IEEE International Conference On Logistics Operations Management",
+        "conferenceshort": "GOL 2018",
+        "city": "Le Havre",
+        "country": "France",
+        "year": "2018",
+        "date": "April 10-12",
+        "type": ["oral", "international", "collaborator"]
+    },
     {
         "author": "Hegyhati, M., T. Holczinger, T. Majozi, F. Friedler",
         "title": "Transforming STN based scheduling problems to S-graph representation",
