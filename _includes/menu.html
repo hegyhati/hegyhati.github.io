@@ -1,11 +1,11 @@
 
 
 
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top">
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
-            <li class="nav-item"><a  class="nav-link" href="/">CV</a></li>
-            <li class="nav-item"><a  class="nav-link" href="/publications.html">List of Publications</a></li>
+            <li class="nav-item {% if page.id == 'CV' %} active {% endif %}"><a  class="nav-link" href="/">CV</a></li>
+            <li class="nav-item {% if page.id == 'publications' %} active {% endif %}"><a  class="nav-link" href="/publications.html">List of Publications</a></li>
         </ul>
     </div>
 </nav>
