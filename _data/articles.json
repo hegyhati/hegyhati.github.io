@@ -1,5 +1,28 @@
 [
     {
+        "id": "David2018",
+        "type": "incollection",
+        "title": "Linearly Priced Timed Automata for the Bus Schedule Assignment Problem",
+        "author":
+        [
+            {
+                "family": "Dávid",
+                "given": "Balázs"
+            },
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            },
+            {
+                "family": "Krész",
+                "given": "Miklós"
+            },
+        ],
+        "journal": "Proceedings GOL'2018: The 4th IEEE International Conference On Logistics Operations Management",
+        "year": "2018",
+        "pages": "430 – 436",
+    },
+    {
         "id": "Hegyhati2014",
         "type": "article",
         "title": "Scheduling of Automated Wet-Etch Stations",
