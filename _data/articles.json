@@ -1,5 +1,43 @@
 [
     {
+        "id": "Hegyhati2018",
+        "type": "incollection",
+        "title": "Modeling techniques for the eS-graph",
+        "author":
+        [
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            }
+        ],
+        "journal": "Proceedings of the 16th International Conference on Project Management and Scheduling",
+        "year": "2018",
+        "volume": "39",
+        "pages": "123 – 127",
+        "ISBN": "9788894982022"
+    },
+    {
+        "id": "Osz2018",
+        "type": "incollection",
+        "title": "Scheduling a forge with due dates and die deterioration",
+        "author":
+        [
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            }
+        ],
+        "journal": "Proceedings of the 16th International Conference on Project Management and Scheduling",
+        "year": "2018",
+        "volume": "39",
+        "pages": "276 – 280",
+        "ISBN": "9788894982022"
+    },
+    {
         "id": "David2018",
         "type": "incollection",
         "title": "Linearly Priced Timed Automata for the Bus Schedule Assignment Problem",

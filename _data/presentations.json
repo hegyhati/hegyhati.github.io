@@ -12,15 +12,26 @@
         "type": ["oral", "international", "collaborator"]
     },
     {
-        "author": "Hegyhati, M., T. Holczinger, T. Majozi, F. Friedler",
-        "title": "Transforming STN based scheduling problems to S-graph representation",
-        "conference": "XIX Polish Conference of Chemical and Process Engineering",
-        "conferenceshort": "PCCPE 2007",
-        "city": "Rzeszów",
-        "country": "Poland",
-        "year": "2007",
-        "date": "September 3-7",
-        "type": ["oral", "international", "keynote"]
+        "author" : "Hegyhati, M.",
+        "title" : "Modeling techniques for the eS-graph",
+        "conference": "16th International Conference on Project Management and Scheduling",
+        "conferenceshort": "PMS 2018",
+        "city": "Rome",
+        "country": "Italy",
+        "date": "Apr 17-20",
+        "year": "2018",
+        "type": ["oral", "international"]
+    },
+    {
+        "author" : "Osz O., M. Hegyhati",
+        "title" : "Scheduling a forge with due dates and die deterioration",
+        "conference": "16th International Conference on Project Management and Scheduling",
+        "conferenceshort": "PMS 2018",
+        "city": "Rome",
+        "country": "Italy",
+        "date": "Apr 17-20",
+        "year": "2018",
+        "type": ["oral", "international", "collaborator"]
     },
     {
         "author" : "Hegyhati, M.",
@@ -262,6 +273,17 @@
         "date": "September 16-21",
         "year": "2007",
         "type": ["oral","international"]
+    },
+    {
+        "author": "Hegyhati, M., T. Holczinger, T. Majozi, F. Friedler",
+        "title": "Transforming STN based scheduling problems to S-graph representation",
+        "conference": "XIX Polish Conference of Chemical and Process Engineering",
+        "conferenceshort": "PCCPE 2007",
+        "city": "Rzeszów",
+        "country": "Poland",
+        "year": "2007",
+        "date": "September 3-7",
+        "type": ["oral", "international", "keynote"]
     },
     {
         "author": "Holczinger, T.,T. Majozi, M. Hegyhati, F. Friedler",
