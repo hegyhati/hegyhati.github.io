@@ -33,7 +33,7 @@
         </button>
       </div>
       <div class="modal-body">
-          <textarea id="bib_{{pub.id}}" disabled style="white-space: pre-wrap; width: 100%; height: 300px">
+          <textarea readonly id="bib_{{pub.id}}" style="white-space: pre-wrap; width: 100%; height: 300px">
 @ARTICLE{ {{pub.id}},
     author = { {% for author in pub.author %}{{author.given}} {{author.family}}{% unless forloop.last %} and {% endunless %}{% endfor %} }, 
     title = { {{pub.title}} },
