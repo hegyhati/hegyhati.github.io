@@ -408,6 +408,7 @@
         "DOI": "10.3303/CET1021150",
         "citations-self" :
         [
+            "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
             "Hegyhati, M., F. Friedler, The role of energy consumption in batch process scheduling, 21st European Symposium on Computer Aided Process Engineering Elsevier, 29, 1979 - 1983 (2011)",
             "Bertok, B., Adonyi, R., Friedler, F., Fan, L.T., Superstructure Approach to Batch Process Scheduling by S-graph Representation, (2011) Computer Aided Chemical Engineering, 29, pp. 1105-1109.",
             "Hegyhati, M., T. Holczinger, A. Szoldatics, F. Friedler, Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time Chemical Engineering Transactions, Chemical Engineering Transactions, 25, 495-500 (2011). ",
