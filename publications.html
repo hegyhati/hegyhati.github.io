@@ -13,7 +13,7 @@ id: publications
                 </div>
                 <div class="card-body">
                     <ul class="list-group list-group-flush">
-                    {% assign articles = (site.data.articles | sort: "year") | reverse %}
+                    {% assign articles = (site.data.articles | reverse | sort: "year") | reverse %}
                     {% for pub in articles %}
                         <li class="list-group-item">{% include article.html %}</li>
                     {% endfor %}

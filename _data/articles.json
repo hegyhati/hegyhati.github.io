@@ -1,5 +1,32 @@
 [
     {
+        "id": "Hegyhati2018a",
+        "type": "incollection",
+        "title": "A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations",
+        "author":
+        [
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            },            
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },
+            
+            {
+                "family": "Hatwágner",
+                "given": "Miklós"
+            }
+        ],
+        "journal": "Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science",
+        "year": "2018",
+        "volume": "10841",
+        "pages": " 386-394",
+        "ISBN": "978-3-319-91252-3",
+        "DOI": "https://doi.org/10.1007/978-3-319-91253-0_36"
+    },
+    {
         "id": "Hegyhati2018",
         "type": "incollection",
         "title": "Modeling techniques for the eS-graph",
@@ -474,6 +501,7 @@
         "DOI": "10.1016/j.ces.2008.10.018",
         "citations-self" :
         [
+            "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
             "Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, DOI: 10.1021/acs.iecr.7b04865",
             "Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).",
             "Hegyhati, M., F. Friedler, Overview of Industrial Batch Process Scheduling, Chemical Engineering Transactions, 21, 895-900 (2010)."
