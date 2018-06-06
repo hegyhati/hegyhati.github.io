@@ -1,7 +1,9 @@
 
 
 
-<div>{% for author in pub.author %}
+<div>
+    {% if pub.year >= "2018" %} <span class="badge badge-info">new</span> {% endif %}
+    {% for author in pub.author %}
     {{author.given}}
     {% if author.family =="Hegyháti" or author.family =="Hegyhati" %}
         <u>{{author.family}}</u>
@@ -10,14 +12,13 @@
     {% endif %}
     {% unless forloop.last %},{% endunless %}
 {% endfor %}
+ <button type="button" class="float-right btn btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#{{pub.id}}">Bib</button>
 </div>
-<div><b>{{pub.title}}</b> <button type="button" class="btn btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#{{pub.id}}">Bib</button></div>
+<div><b>{{pub.title}}</b></div>
 <div>{{pub.journal}}, {{pub.year}},
 {{pub.volume}}{% if pub.issue %}({{pub.issue}}){% endif %},
 {{pub.pages}}</div>
 <div><a target="_blank" href="https://doi.org/{{pub.DOI}}">{{pub.DOI}}</a>
-{% if pub.year >= "2017" %} <span class="badge badge-info">new</span> {% endif %}
-
 {% if pub.citations-self.size > 0 %} <span class="badge badge-info float-right">{{pub.citations-self.size}}</span> {% endif %}
 {% if pub.citations-independent.size > 0 %} <span class="badge badge-primary float-right">{{pub.citations-independent.size}}</span> {% endif %}
 </div>
