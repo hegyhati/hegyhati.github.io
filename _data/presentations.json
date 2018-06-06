@@ -1,5 +1,15 @@
 [
-    
+    {
+        "author": "Hegyhati M., O. Osz, M. Hatwágner",
+        "title": "A study on solving single stage batch process scheduling problems with an evolutionary algorithm featuring bacterial mutations",
+        "conferenceshort": "ICAISC 2018",
+        "conference": "17th International Conference on Artificial Intelligence and Soft Computing",
+        "city": "Zakopane",
+        "country": "Poland",
+        "date": "Jun 3-7",
+        "year": "2018",
+        "type": ["poster","international"]
+    },
     {
         "author": "Dávid B., M. Hegyháti, M. Krész",
         "title": "Linearly Priced Timed Automata for the Bus Schedule Assignment Problem",
@@ -32,6 +42,28 @@
         "date": "Apr 17-20",
         "year": "2018",
         "type": ["oral", "international", "collaborator"]
+    },
+    {
+        "author": "Merrouni A. A., A. Mezrhab, M. Hegyhati",
+        "title": "Evaluation of Cleaning Strategies for Solar Power Plants in Eastern Morocco",
+        "conferenceshort": "SPIL 2017",
+        "conference": "Sustainable Process Integration Laboratory Scientific Conference",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "date": "Dec 6-7",
+        "year": "2017",
+        "type": ["poster","international"]
+    },
+    {
+        "author": "Holczinger T., O. Ősz, M. Hegyhati",
+        "title": "Scheduling of Mobile Workflows with S-graph",
+        "conferenceshort": "SPIL 2017",
+        "conference": "Sustainable Process Integration Laboratory Scientific Conference",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "date": "Dec 6-7",
+        "year": "2017",
+        "type": ["poster","international","collaborator"]
     },
     {
         "author" : "Hegyhati, M.",
@@ -144,6 +176,16 @@
         "type": ["oral","international"]
     },
     {
+        "author": "Hegyhati M., O. Osz, F. Friedler",
+        "title": "Graph based approaches for scheduling trains in railway networks",
+        "conferenceshort": "InnoRail 2013",
+        "city": "Budapest",
+        "country": "Hungary",
+        "date": "Oct 28-30",
+        "year": "2013",
+        "type": ["poster","international"]
+    },
+    {
         "author" : "Hegyháti, M., A. Szoldatics, O. Ősz, F. Friedler",
         "title": "Combinatorial Tool for Cyclic Scheduling of Batch Processes: S-graph Approach",
         "conferenceshort": "VOCAL 2012",
@@ -152,6 +194,16 @@
         "date" : "December 11-14",
         "year": "2012",
         "type": ["oral","international"]
+    },
+    {
+        "author": "Éles A., B. Kovács, B. Tóth, M. Hegyháti",
+        "title": "Empirical Analysis of Methods and Software Tools for Batch Process Scheduling",
+        "conferenceshort": "VOCAL 2012",
+        "city": "Veszprém",
+        "country": "Hungary",
+        "date": "Dec 11-14",
+        "year": "2012",
+        "type": ["poster","international","collaborator"]
     },
     {
         "author": "Holczinger, T., M. Hegyhati, F. Friedler",
@@ -172,6 +224,26 @@
         "date": "August 25-29",
         "year": "2012",
         "type": ["oral","international","collaborator"]
+    },
+    {
+        "author": "Hegyháti, M., A. Éles, F. Friedler",
+        "title": "Modeling issues of mathematical programming based approaches in batch process scheduling",
+        "conferenceshort": "PRES 2012",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "Aug 25-29",
+        "year": "2012",
+        "type": ["poster","international","collaborator"]
+    },
+    {
+        "author": "Hegyháti, M., A. Szoldatics, F. Friedler",
+        "title": "Cyclic scheduling of batch processes: S-graph algorithm",
+        "conferenceshort": "PRES 2012",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "Aug 25-29",
+        "year": "2012",
+        "type": ["poster","international"]
     },
     {
         "author": "Nemet, A., M. Hegyhati, J. J. Klemeš, F. Friedler",
@@ -205,6 +277,16 @@
         "type": ["oral","international"]
     },
     {
+        "author": "Hegyhati, M., F. Friedler",
+        "title": "The role of energy consumption in batch process scheduling",
+        "conferenceshort": "ESCAPE 21",
+        "city": "Chalkidiki",
+        "country": "Greece",
+        "date": "May 29 - June 1",
+        "year": "2011",
+        "type": ["poster","international"]
+    },
+    {
         "author": "Hegyhati, M., T. Holczinger, A. Szoldatics, F. Friedler",
         "title": "Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time",
         "conferenceshort": "PRES'11",
@@ -235,6 +317,16 @@
         "type": ["oral","international"]
     },
     {
+        "author": "Hegyhati, M., J. M. Lainez, L. Puigjaner, F. Friedler",
+        "title": "Preemptive optimization of chemical batch processes with continuous external uncertainties based on a novel S-graph branching strategy",
+        "conferenceshort": "PRES 2010",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "August 29 - September 1",
+        "year": "2010",
+        "type": ["poster","international"]
+    },
+    {
         "author": "Hegyhati, M., T. Majozi, T. Holczinger, F. Friedler",
         "title": "Practical feasibility of mathematical models in scheduling",
         "conferenceshort": "VOCAL 2008",
@@ -242,7 +334,7 @@
         "country": "Hungary",
         "date": "December 15-17",
         "year": "2008",
-        "type": ["oral","international","collaborated"]
+        "type": ["oral","international","collaborator"]
     },
     {
         "author": "Hegyhati, M., T. Majozi, F. Friedler",
@@ -255,6 +347,16 @@
         "type": ["oral","international"]
     },
     {
+        "author": "Laínez, J., M. Hegyhati, L. Pugjaner, F. Friedler",
+        "title": "Using S-graph to address uncertainty in batch plants",
+        "conferenceshort": "PRES 2008",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "August 24-28",
+        "year": "2008",
+        "type": ["poster","international"]
+    },
+    {
         "author": "Majozi, T., F. Friedler, T. Holczinger, M. Hegyhati",
         "title": "S-graph based continuous-time approach for throughput maximization in multipurpose batch plants",
         "conferenceshort": "IFORS 2008",
@@ -262,7 +364,7 @@
         "country": "South Africa",
         "date": "July 13-18",
         "year": "2008",
-        "type": ["oral","international","collaborated"]
+        "type": ["oral","international","collaborator"]
     },
     {
         "author": "Hegyhati M., Z. Tuza",
@@ -293,7 +395,7 @@
         "country": "Italy",
         "date": "June 24-27",
         "year": "2007",
-        "type": ["oral","international","collaborated"]
+        "type": ["oral","international","collaborator"]
     },
     {
         "author": "Holczinger, T.,T. Majozi, M. Hegyhati, F. Friedler",
@@ -303,7 +405,7 @@
         "country": "Romania",
         "date": "May 27-30",
         "year": "2007",
-        "type": ["oral","international","collaborated"]
+        "type": ["oral","international","collaborator"]
     },
     {
         "author": "Holczinger, T.,T. Majozi, M. Hegyhati, F. Friedler",
@@ -313,6 +415,16 @@
         "country": "Hungary",
         "date": "December 12-15",
         "year": "2006",
-        "type": ["oral","international","collaborated"]
+        "type": ["oral","international","collaborator"]
+    },
+    {
+        "author": "Hegyhati, M., R. Adonyi, T. Holczinger, F. Friedler",
+        "title": "Demonstration program for S-graph based batch-process scheduling",
+        "conferenceshort": "PRES 2006",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "August 27-31",
+        "year": "2006",
+        "type": ["poster","international"]
     }
 ]
