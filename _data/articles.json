@@ -1,5 +1,47 @@
 [
     {
+        "id": "Hegyhati2018b",
+        "type": "article",
+        "title": "Batch Process Scheduling with eS-graph: A Case Study",
+        "author":
+        [
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            }
+        ],
+        "journal": "Chemical Engineering Transactions",
+        "year": "2018",
+        "volume": "70",
+        "pages": "115 – 120",
+        "ISBN": "978-88-95608-67-9",
+        "ISSN": "2283-9216",
+        "doi": "10.3303/CET1870020"
+    },
+    {
+        "id": "Osz2018a",
+        "type": "article",
+        "title": "An S-graph Based Approach for Multi-Mode Resource-Constrained Project Scheduling with Time-Varying Resource Capacities",
+        "author":
+        [
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            }
+        ],
+        "journal": "Chemical Engineering Transactions",
+        "year": "2018",
+        "volume": "70",
+        "pages": "1165 – 1170",
+        "ISBN": "978-88-95608-67-9",
+        "ISSN": "2283-9216",
+        "doi": "10.3303/CET1870195"
+    },
+    {
         "id": "Hegyhati2018a",
         "type": "incollection",
         "title": "A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations",
