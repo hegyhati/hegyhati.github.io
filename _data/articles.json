@@ -156,7 +156,11 @@
         "year": "2014",
         "volume": "39",
         "pages": "433 – 438",
-        "DOI": "10.3303/CET1439073"
+        "DOI": "10.3303/CET1439073",
+        "citations-self" :
+        [
+            " Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 DOI:10.3303/CET1870195"
+        ]
     },
     
     
@@ -384,9 +388,13 @@
         "volume": "25",
         "pages" : "495 – 500",
         "DOI": "10.3303/CET1125083",
-        "citations-self" : [],
+        "citations-self" :
+        [
+            " Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 DOI:10.3303/CET1870195"
+        ],
         "citations-independent" :
         [
+            " Eles A., Cabezas H., Heckl I., 2018, Heuristic algorithm utilizing mixed-integer linear programming to schedule mobile workforce , Chemical Engineering Transactions, 70, 895-900 DOI:10.3303/CET1870150",
             "Carvajal, Y., Corsario, G., González, M., Vereist, H. & González, E., Methodology for a synthesis and optimal design in batch plant, Afinidad, Metodología para la síntesis y diseño óptimo de plantas discontinuas, 69, 295-300, (2012)."
         ]
     },
@@ -451,6 +459,7 @@
         "DOI": "10.3303/CET1021150",
         "citations-self" :
         [
+            " Hegyhati M., 2018, Batch process scheduling with es-graph: a case study , Chemical Engineering Transactions, 70, 115-120 DOI:10.3303/CET1870020",
             "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
             "Hegyhati, M., F. Friedler, The role of energy consumption in batch process scheduling, 21st European Symposium on Computer Aided Process Engineering Elsevier, 29, 1979 - 1983 (2011)",
             "Bertok, B., Adonyi, R., Friedler, F., Fan, L.T., Superstructure Approach to Batch Process Scheduling by S-graph Representation, (2011) Computer Aided Chemical Engineering, 29, pp. 1105-1109.",
@@ -459,6 +468,7 @@
         ],
         "citations-independent" :
         [
+            " Ning C., You F., 2017, Batch process scheduling under uncertainty using data-driven multistage adaptive robust optimization, Chemical Engineering Transactions, 61, 1567-1572 DOI:10.3303/CET1761259",
             "Aguirre, Adrián M., Carlos A. Méndez, Álvaro García-Sánchez, Miguel Ortega-Mier, Pedro M. Castro, General Framework for Automated Manufacturing Systems: Multiple Hoists Scheduling Solution, Chemical Engineering Transactions, 32, 1381-1386, (2013). ",
             "Carvajal, Y.A., Cortés, M.G., Gárciga, J.P., Suárez, E.G., Overview of batch process scheduling [Visión global sobre la planificatión de procesos discontinuos], (2011) Afinidad, 68 (553), pp. 203-209. "
         ]
