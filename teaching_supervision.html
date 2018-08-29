@@ -13,9 +13,11 @@ id: teaching_supervision
 <h4 class="p-3">Active regular courses</h4>
 
 <ul>
-  {% assign courses = site.data.teaching.regular | where: "end", "" | sort: "start" %}
+  {% assign courses = site.data.teaching.regular | sort: "start" %}
   {% for c in courses %}
+    {% unless c.end %}
       <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
+    {% endunless %}
   {% endfor %}
 </ul>
 
@@ -32,9 +34,11 @@ id: teaching_supervision
 <h4 class="p-3">Active PhD courses</h4>
 
 <ul>
-  {% assign courses = site.data.teaching.phd | where: "end", "" | sort: "start" %}
+  {% assign courses = site.data.teaching.phd | sort: "start" %}
   {% for c in courses %}
+    {% unless c.end %}
       <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
+    {% endunless %}
   {% endfor %}
 </ul>
 
