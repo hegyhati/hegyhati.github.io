@@ -29,7 +29,7 @@ id: publications
                 <div class="card-body">
                     <ul class="list-group list-group-flush">
                     <!-- assign presentationstemp = sites.data.presentations | where_exp :  "type" , "type" contains "keynote" -->
-                    {% assign presentations = (site.data.presentations | sort: "year") | reverse  %}
+                    {% assign presentations = (site.data.presentations | reverse | sort: "year") | reverse  %}
                     {% for pres in  presentations %}
                         <li class="list-group-item">{% include presentation.html %}</li>
                     {% endfor %}
