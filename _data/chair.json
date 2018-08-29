@@ -1,7 +1,37 @@
-{
-Chairing, co-chairing
-More efficient operation, PRES 2014, August 26, 2014, Prague, Czech Republic.
-Renewable electricity generation systems, SDEWES 2013, September 23, 2013, Dubrovnik, Croatia.
-Integration of renewables, biomass and energy conversion technologies, PRES'11, May 11, 2011, Florence, Italy.
-CO2 Kyoto Protocol, sequestration, minimisation, PRES 2010, August 29, 2010, Prague, Czech Republic.
-}
+[
+  {
+    "session" : "Special Session: P-graph",
+    "conference" : "PRES 2018",
+    "date": "August 26, 2018",
+    "city": "Prague",
+    "country": "Czech Republic"
+  },
+  {
+    "session" : "More efficient operation",
+    "conference" : "PRES 2014",
+    "date": "August 26, 2014",
+    "city": "Prague",
+    "country": "Czech Republic"
+  },
+  {
+    "session": "Renewable electricity generation systems",
+    "conference" : "SDEWES 2013",
+    "date": "September 23, 2013",
+    "city": "Dubrovnik",
+    "country": "Croatia"
+  },
+  {
+    "session": "Integration of renewables, biomass and energy conversion technologies",
+    "conference": "PRES'11",
+    "date": "May 11, 2011",
+    "city": "Florence",
+    "country": "Italy"
+  },
+  {
+    "session": "CO2 Kyoto Protocol, sequestration, minimisation",
+    "conference": "PRES 2010",
+    "date": "August 29, 2010",
+    "city": "Prague",
+    "country": "Czech Republic"
+  }
+]

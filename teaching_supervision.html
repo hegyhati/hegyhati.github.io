@@ -4,10 +4,60 @@ title:  "Teaching & Supervision"
 id: teaching_supervision
 ---
 
-Sorry, please come back later.
+<div class="container">
+
+<div class="alert alert-info">Sorry, unfinished page, please come back later</div>
+
+<h3 class="p-3">Teaching experience</h3>
+
+<h4 class="p-3">Active regular courses</h4>
+
+<ul>
+  {% assign courses = site.data.teaching.regular | where: "end", "" | sort: "start" %}
+  {% for c in courses %}
+      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
+  {% endfor %}
+</ul>
+
+<h4 class="p-3">Past regular courses</h4>
+<ul>
+  {% assign courses = site.data.teaching.regular | sort: "end" | reverse %}
+  {% for c in courses %}
+    {% if c.end %} 
+      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h4 class="p-3">Active PhD courses</h4>
+
+<ul>
+  {% assign courses = site.data.teaching.phd | where: "end", "" | sort: "start" %}
+  {% for c in courses %}
+      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
+  {% endfor %}
+</ul>
+
+<h4 class="p-3">Past PhD courses</h4>
+<ul>
+  {% assign courses = site.data.teaching.phd | sort: "end" | reverse %}
+  {% for c in courses %}
+    {% if c.end %} 
+      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
+<h4 class="p-3">Irregular courses</h4>
+<ul>
+  {% assign courses = site.data.teaching.irregular | sort: "year" | reverse %}
+  {% for c in courses %}
+      <li><b>{{ c.course }}</b> ({{c.type}})- {{c.where}}, {{c.year}}</li>
+  {% endfor %}
+</ul>
 
+</div>
 
 
 
