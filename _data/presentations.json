@@ -1,5 +1,25 @@
 [
     {
+        "author" : "M. Hegyhati",
+        "title" : "Batch Process Scheduling with eS-graph: A Case Study",
+        "conferenceshort": "PRES/CHISA 2018",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "Aug 26-29",
+        "year": "2018",
+        "type": ["oral", "international"]
+    },
+    {
+        "author" : "Osz O., M. Hegyhati",
+        "title" : "An S-graph Based Approach for Multi-Mode Resource-Constrained Project Scheduling with Time-Varying Resource Capacites",
+        "conferenceshort": "PRES/CHISA 2018",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "date": "Aug 26-29",
+        "year": "2018",
+        "type": ["oral", "international", "collaborator"]
+    },
+    {
         "author": "Hegyhati M., O. Osz, M. Hatwágner",
         "title": "A study on solving single stage batch process scheduling problems with an evolutionary algorithm featuring bacterial mutations",
         "conferenceshort": "ICAISC 2018",
