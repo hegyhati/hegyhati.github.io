@@ -1,4 +1,27 @@
 [
+    
+    {
+        "author": "Merrouni A. A., M. Hegyhati",
+        "title": "Recent developments on the soiling simulation of solar power plants",
+        "conferenceshort": "2nd SPIL",
+        "conference": "Sustainable Process Integration Laboratory Scientific Conference",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "date": "Aug 30-31",
+        "year": "2018",
+        "type": ["poster","international"]
+    },
+     {
+        "author": "Osz O., M. Hegyhati",
+        "title": "Production scheduling of resources with varying availability",
+        "conferenceshort": "2nd SPIL",
+        "conference": "Sustainable Process Integration Laboratory Scientific Conference",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "date": "Aug 30-31",
+        "year": "2018",
+        "type": ["poster","international","collaborator"]
+    },
     {
         "author" : "M. Hegyhati",
         "title" : "Batch Process Scheduling with eS-graph: A Case Study",
@@ -66,7 +89,7 @@
     {
         "author": "Merrouni A. A., A. Mezrhab, M. Hegyhati",
         "title": "Evaluation of Cleaning Strategies for Solar Power Plants in Eastern Morocco",
-        "conferenceshort": "SPIL 2017",
+        "conferenceshort": "1st SPIL",
         "conference": "Sustainable Process Integration Laboratory Scientific Conference",
         "city": "Brno",
         "country": "Czech Republic",
