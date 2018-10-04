@@ -1,0 +1,125 @@
+---
+title: Curriculum Vitae of Mate Hegyhati
+layout: printable
+id: CV
+---
+
+<div class="container">
+  <div class="media border my-3">
+    <img class="media-left border" width="300" alt="Image" src="assets/profile.jpg">
+    <div class="media-body p-3">    
+      <h4>Máté Hegyháti, Ph.D.</h4>
+      <p>Birth date: January 23, 1986</p>
+      <p><a href="mailto:hegyhati.work@gmail.com">hegyhati.work@gmail.com</a></p>
+      <br />
+      <dl>
+        <dt>Senior Research Fellow</dt>
+          <dd><a  href="http://sze.hu">Széchenyi István University</a></dd>
+        <dt>Software Engineer</dt>
+          <dd><a href="https://xbodyworld.com/">XBody Hungary</a></dd>
+      </dl>
+    </div>
+  </div>
+
+  <h5>Degrees</h5>
+  <ul>
+    <li><b>Bachelor in Information Technology</b>, University of Pannonia, 2008</li>
+    <li><b>Master in Information Technology</b>, University of Pannonia, 2010</li>
+    <li><b>PhD in Information Technology</b>, University of Pannonia, 2015</li>
+  </ul>
+  <h5>Languages</h5>
+  <ul>
+    <li><b>English</b> - fluent</li>
+    <li><b>German</b> - good working knowledge</li>
+    <li><b>Hungarian</b> - native</li>
+  </ul>
+  <h5>Awards</h5>
+  <ul>
+    <li>Young researcher of the Hungarian Academy of Sciences, Veszprem division, 2013</li>
+    <li>Pro Scientia Golden Medal, 2009</li>
+    <li>Zdenek Burianec Memorial Award, 2008</li>
+  </ul>
+  <h5>Grants</h5>
+  <ul>
+    <li>Apáczai Csere János scholarship, 2013</li>
+    <li>New National Excellence Program scholarship, 2016</li>
+    <li>New National Excellence Program scholarship, 2017</li>
+  </ul>
+
+
+  <h4>Research</h4> 
+  <p>Active research on the <b>scheduling</b> of batch processes since 2005.</p>
+  <p>Several collaborative works in the field of <b>sustainable energy planning</b> and <b>graph coloring</b>.</p>
+  <p><b>Erdős number:</b> 2</p>
+  <p>{{site.data.articles.size}} published papers, and {{site.data.presentations.size}} conference presentations</p>
+
+
+  <h4>Teaching & Supervision</h4>  
+  <p>Several regular courses on <b>programming, formal languages, optimization, discrete event systems</b> at several universities since 2005.</p>
+  <p>Numerous supervised diploma works and student conference projects.</p>
+
+
+  <h4>IT skills, technologies</h4>
+  <ul>
+    <li>Advanced <b>C/C++</b> developer</li>
+    <li>Moderate experience with langueages: PHP, Java, JS, lisp, bash</li>
+    <li>Experience with CI technologies: Jenkins, Travis, CircleCI, Docker</li>
+    <li>Moderate experience with webtechnologies: Symfony, Jekyll, Bootstrap</li>
+    <li>Other: Git, LaTeX, Linux, GMPL, Uppaal</li>
+  </ul>
+  
+  <h4>Former jobs</h4>
+  <ul>
+    <li><b>Lecturer and research associate</b>, University of Pannonia, 2005-2016</li>
+    <li><b>Invited lecturer</b>, Pázmány Péter Catholic University, 2008-2015</li>
+    <li><b>Invited lecturer</b>, I. Mohammed University, 2012-2015</li>
+  </ul>
+
+
+        
+        
+  <h4>Soft skills and hobbies</h4>
+  <ul>
+    <li>Experienced long distance runner, trail runner, hiker, amateur cyclist</li>
+    <li>Running related blogger: <u>runnermate.eu</u></li>
+    <li>Cello student, former founder and manager of the Symphonic Orchestra of the University of Pannonia</li>
+    <li>Supervisor of a talent care program, summer camp organizer</li>
+    <li>Former reprsentative of PhD students at several university councils</li>
+  </ul>
+
+  <h4>List of publications</h4>
+  <div class="card-body">
+      <ol>
+      {% assign articles = (site.data.articles | reverse | sort: "year") | reverse %}
+      {% for pub in articles %}
+        <li>
+          {% for author in pub.author %}
+            {{author.given}}
+            {% if author.family =="Hegyháti" or author.family =="Hegyhati" %}
+                <u>{{author.family}}</u>
+            {% else %}
+                {{author.family}}
+            {% endif %}
+            {% unless forloop.last %},{% endunless %}
+          {% endfor %}
+          -
+          <b>{{pub.title}}</b>
+          ;
+          {{pub.journal}}, {{pub.year}},
+          {{pub.volume}}{% if pub.issue %}({{pub.issue}}){% endif %},
+          {{pub.pages}}
+        </li>
+      {% endfor %}
+      </ol>
+  </div>
+
+  <h4>Conference presentations and posters</h4>
+  <ol>
+  {% assign presentations = (site.data.presentations | reverse | sort: "year") | reverse  %}
+  {% for pres in  presentations %}
+    <li>
+      <b>{{pres.title}}</b> - {{pres.author}}, persented at: <div>{{pres.conferenceshort}} - {{pres.city}}, {{pres.country}} - {{pres.date}}, {{pres.year}}
+    </li>
+  {% endfor %}
+  </ol>  
+</div>
