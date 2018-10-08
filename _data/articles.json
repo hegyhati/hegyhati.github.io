@@ -510,9 +510,11 @@
         ],
         "citations-independent" :
         [
+            "Kopanos G.M., Puigjaner L. (2019) State of the Art. In: Solving Large-Scale Production Scheduling and Planning in the Process Industries. Springer, Cham",
             "李迁, et al. 基于多承包商资源共享的混凝土拌合站的动态配置研究. 预测 2 (2013): 49-54.",
             "Gleizer, G. A., Optimal Task Scheduling for Fieldbuses Applied to FoundationTM Fieldbus, Msc thesis, UFJR, 2013",
             "Chen, Y.; Pekny, J. F. & Reklaitis, G., Integrated Planning and Optimization of Clinical Trial Supply Chain System with Risk Pooling, Ind. Eng. Chem. Res., Industrial & Engineering Chemistry Research, American Chemical Society, 2012, 52, 152-165",
+            "Avander, A., & Robertsson, E. (2011). Batch size policy : A case study of the production site in Hillerstorp  (Dissertation). Retrieved from http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-12270",
             "Kopanos, G.; PhD thesis; Techniques for the efficient solution of Large-scale production scheduling & planning problems in the process industries.; Universitat de Polytechnica de Catalunia; 2010"
         ],
         "impact-factor" : "1.120"
