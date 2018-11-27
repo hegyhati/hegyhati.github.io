@@ -35,17 +35,17 @@ id: CV
   </ul>
   <h5>Awards</h5>
   <ul>
-    <li>Young researcher of the Hungarian Academy of Sciences, Veszprem division, 2013</li>
-    <li>Pro Scientia Golden Medal, 2009</li>
-    <li>Zdenek Burianec Memorial Award, 2008</li>
+      {% assign awards = (site.data.awards | sort: "year") | reverse %}
+      {% for award in awards %}
+          <li>{{ award.name }}, {{ award.year }} - {{award.givenby}}</li>
+      {% endfor %}
   </ul>
-  <h5>Grants</h5>
+  <h5>Grants</h5>  
   <ul>
-    <li>Apáczai Csere János scholarship, 2013</li>
-    <li>New National Excellence Program scholarship, 2016</li>
-    <li>New National Excellence Program scholarship, 2017</li>
+      <li>Apáczai Csere János scholarship, 2013</li>	       
+      <li>New National Excellence Program scholarship, 2016</li>	       
+      <li>New National Excellence Program scholarship, 2017</li>
   </ul>
-
 
   <h4>Research</h4> 
   <p>Active research on the <b>scheduling</b> of batch processes since 2005.</p>
