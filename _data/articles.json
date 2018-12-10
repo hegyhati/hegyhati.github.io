@@ -1,5 +1,51 @@
 [
     {
+        "id": "Hegyhati2018c",
+        "type": "incollection",
+        "title": "Interlacing in cyclic scheduling",
+        "author":
+        [  
+            
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            },      
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            }
+        ],
+        "journal": "8th VOCAL Optimization Conference: Advanced Algorithms - Short papers",
+        "year": "2018",
+        "pages": "50 – 55",
+        "ISBN": "978-963-308-346-8"
+    },
+    {
+        "id": "Papp2018",
+        "type": "incollection",
+        "title": "Review and comparison of MILP models for cyclic scheduling of robotic cells",
+        "author":
+        [
+            {
+                "family": "Papp",
+                "given": "Ádám"
+            },            
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },
+            
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            }
+        ],
+        "journal": "8th VOCAL Optimization Conference: Advanced Algorithms - Short papers",
+        "year": "2018",
+        "pages": "79 – 84",
+        "ISBN": "978-963-308-346-8"
+    },
+    {
         "id": "Hegyhati2018b",
         "type": "article",
         "title": "Batch Process Scheduling with eS-graph: A Case Study",
