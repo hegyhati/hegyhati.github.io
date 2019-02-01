@@ -61,6 +61,27 @@ id: teaching_supervision
   {% endfor %}
 </ul>
 
+
+<h3 class="p-3">Supervision experience</h3>
+
+<h4 class="p-3">M.Sc. diploma works</h4>
+
+<ol reversed>
+  {% assign diplomas = site.data.supervision.diploma.MSc | sort: "date" | reverse %}
+  {% for d in diplomas %}
+    <li>{{d.student}}: <b>{{ d.title }}</b> - {{d.university}}, {{d.course}}, {{d.date | slice: 0, 4}}, {{d.grade}}</li>
+  {% endfor %}
+</ol>
+
+<h4 class="p-3">B.Sc. diploma works</h4>
+
+<ol reversed>
+  {% assign diplomas = site.data.supervision.diploma.BSc | sort: "date" | reverse %}
+  {% for d in diplomas %}
+    <li>{{d.student}}: <b>{{ d.title }}</b> - {{d.university}}, {{d.course}}, {{d.date | slice: 0, 4}}, {{d.grade}}</li>
+  {% endfor %}
+</ol>
+
 </div>
 
 

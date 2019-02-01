@@ -2,6 +2,13 @@
   "regular":
     [
       {
+        "course": "Compilers",
+        "university": "Szechenyi Istvan University",
+        "city": "Gyor",
+        "country": "Hungary",
+        "start": 2019
+      },
+      {
         "course": "Object-oriented programming and databases",
         "university": "Szechenyi Istvan University",
         "city": "Gyor",
