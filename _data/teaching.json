@@ -27,7 +27,8 @@
         "university": "Szechenyi Istvan University",
         "city": "Gyor",
         "country": "Hungary",
-        "start": 2016
+        "start": 2016,
+        "end": 2018
       },
       {
         "course": "Web technologies",
@@ -147,10 +148,25 @@
         "city": "Gyor",
         "country": "Hungary",
         "start": 2017
+      },
+      {
+        "course": "Methods of Practical Optimization",
+        "university": "Szechenyi Istvan University",
+        "city": "Gyor",
+        "country": "Hungary",
+        "start": 2019
       }
     ],
   "irregular":
     [
+      {
+        "course": "Practical linear optimization",
+        "type": "Erasmus Teaching visit",
+        "where": "University of Girona",
+        "city": "Girona",
+        "country": "Spain",
+        "year": 2019
+      },
       {
         "course": "Practical optimization",
         "type": "Erasmus Teaching visit",
