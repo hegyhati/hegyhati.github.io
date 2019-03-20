@@ -6,7 +6,7 @@ id: CV
 
 <div class="container">
   <div class="media border my-3">
-    <img class="media-left border" width="300" alt="Image" src="assets/profile.jpg">
+    <img class="media-left border" width="300" alt="Image" src="assets/hegyhati.jpg">
     <div class="media-body p-3">    
       <h4>Máté Hegyháti, Ph.D.</h4>
       <p>Birth date: January 23, 1986</p>
@@ -87,6 +87,12 @@ id: CV
     <li>Former reprsentative of PhD students at several university councils</li>
   </ul>
 
+
+
+
+
+<hr />
+
   <h4>List of publications</h4>
   <div class="card-body">
       <ol>
@@ -121,5 +127,82 @@ id: CV
       <b>{{pres.title}}</b> - {{pres.author}}, persented at: <div>{{pres.conferenceshort}} - {{pres.city}}, {{pres.country}} - {{pres.date}}, {{pres.year}}
     </li>
   {% endfor %}
-  </ol>  
+  </ol>
+
+<hr />
+
+<h4 class="p-3">Teaching experience</h4>
+
+<h5 class="p-3">Active regular courses</h5>
+
+<ul>
+  {% assign courses = site.data.teaching.regular | sort: "start" %}
+  {% for c in courses %}
+    {% unless c.end %}
+      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+
+<h5 class="p-3">Past regular courses</h5>
+<ul>
+  {% assign courses = site.data.teaching.regular | sort: "end" | reverse %}
+  {% for c in courses %}
+    {% if c.end %} 
+      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h5 class="p-3">Active PhD courses</h5>
+
+<ul>
+  {% assign courses = site.data.teaching.phd | sort: "start" %}
+  {% for c in courses %}
+    {% unless c.end %}
+      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+
+<!--h5 class="p-3">Past PhD courses</h5>
+<ul>
+  {% assign courses = site.data.teaching.phd | sort: "end" | reverse %}
+  {% for c in courses %}
+    {% if c.end %} 
+      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
+    {% endif %}
+  {% endfor %}
+</ul-->
+
+
+<h5 class="p-3">Irregular courses</h5>
+<ul>
+  {% assign courses = site.data.teaching.irregular | sort: "year" | reverse %}
+  {% for c in courses %}
+      <li><b>{{ c.course }}</b> ({{c.type}})- {{c.where}}, {{c.year}}</li>
+  {% endfor %}
+</ul>
+
+
+<h4 class="p-3">Supervision experience</h4>
+
+<h5 class="p-3">M.Sc. diploma works</h5>
+
+<ol reversed>
+  {% assign diplomas = site.data.supervision.diploma.MSc | sort: "date" | reverse %}
+  {% for d in diplomas %}
+    <li>{{d.student}}: <b>{{ d.title }}</b> - {{d.university}}, {{d.course}}, {{d.date | slice: 0, 4}}, {{d.grade}}</li>
+  {% endfor %}
+</ol>
+
+<h5 class="p-3">B.Sc. diploma works</h5>
+
+<ol reversed>
+  {% assign diplomas = site.data.supervision.diploma.BSc | sort: "date" | reverse %}
+  {% for d in diplomas %}
+    <li>{{d.student}}: <b>{{ d.title }}</b> - {{d.university}}, {{d.course}}, {{d.date | slice: 0, 4}}, {{d.grade}}</li>
+  {% endfor %}
+</ol>
+
 </div>
