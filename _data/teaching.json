@@ -160,6 +160,14 @@
   "irregular":
     [
       {
+        "course": "Introduction into the Modeling and Optimization of Linear Systems",
+        "type": "Collaboration visit",
+        "where": "University of Nottingham, Malaysia",
+        "city": "Szemenyih",
+        "country": "Malaysia",
+        "year": 2019
+      },
+      {
         "course": "Practical linear optimization",
         "type": "Erasmus Teaching visit",
         "where": "University of Girona",
