@@ -15,10 +15,10 @@
  <button type="button" class="float-right btn btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#{{pub.id}}">Bib</button>
 </div>
 <div><b>{{pub.title}}</b></div>
-<div>{{pub.journal}}, {{pub.year}},
-{{pub.volume}}{% if pub.issue %}({{pub.issue}}){% endif %},
-{{pub.pages}}</div>
-<div><a target="_blank" href="https://doi.org/{{pub.DOI}}">{{pub.DOI}}</a>
+<div>{{pub.journal}}, {{pub.year}}
+{% if pub.volume %},{{pub.volume}}{% if pub.issue %}({{pub.issue}}){% endif %},
+{{pub.pages}} {% endif %}</div> 
+<div><a target="_blank" href="https://doi.org/{{pub.doi}}">{{pub.doi}}</a>
 {% if pub.citations-self.size > 0 %} <span class="badge badge-info float-right">{{pub.citations-self.size}}</span> {% endif %}
 {% if pub.citations-independent.size > 0 %} <span class="badge badge-primary float-right">{{pub.citations-independent.size}}</span> {% endif %}
 </div>

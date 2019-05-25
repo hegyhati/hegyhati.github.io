@@ -1,5 +1,30 @@
 [
     {
+        "id": "Holczinger2019",
+        "type": "article",
+        "title": "Scheduling approach for on‑site jobs of service providers",
+        "author":
+        [  
+            
+            {
+                "family": "Holczinger",
+                "given": "Tibor"
+            },        
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },               
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            }
+        ],
+        "journal": "Flexible Services and Manufacturing Journal",
+        "year": "2019",
+        "doi" : "10.1007/s10696-019-09359-2",
+        "url" : "https://doi.org/10.1007/s10696-019-09359-2"
+    },
+    {
         "id": "Hegyhati2018c",
         "type": "incollection",
         "title": "Interlacing in cyclic scheduling",
@@ -111,8 +136,9 @@
         "year": "2018",
         "volume": "10841",
         "pages": " 386-394",
-        "ISBN": "978-3-319-91252-3",
-        "DOI": "https://doi.org/10.1007/978-3-319-91253-0_36"
+        "ISBN": "978-3-319-91252-3",        
+        "doi": "10.1007/978-3-319-91253-0_36",
+        "url": "https://doi.org/10.1007/978-3-319-91253-0_36"
     },
     {
         "id": "Hegyhati2018",
@@ -202,13 +228,12 @@
         "year": "2014",
         "volume": "39",
         "pages": "433 – 438",
-        "DOI": "10.3303/CET1439073",
+        "doi": "10.3303/CET1439073",
         "citations-self" :
         [
-            " Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 DOI:10.3303/CET1870195"
+            " Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 doi:10.3303/CET1870195"
         ]
     },
-    
     
     {
         "id": "Ng2013",
@@ -250,9 +275,9 @@
         "year" : "2013",
         "volume": "35",
         "pages" : "889 – 894",
-        "DOI": "10.3303/CET1335148",
+        "doi": "10.3303/CET1335148",
         "citations-self" : [
-            "Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 DOI:10.3303/CET1761001",
+            "Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 doi:10.3303/CET1761001",
             "Lim, C.H., Lam, H.L.; Biomass Demand-Resources Value Targeting; (2014) Energy Conversion and Management, 87, pp. 1202-1209."
         ],
         "citations-independent" : [
@@ -286,7 +311,7 @@
         "volume": "25",
         "issue": "4",        
         "pages" : "737 – 751",
-        "DOI": "10.1007/s10878-012-9559-7",
+        "doi": "10.1007/s10878-012-9559-7",
         "citations-self" : [],
         "citations-independent" :
         [
@@ -329,7 +354,7 @@
         "year" : "2012",
         "volume": "29",
         "pages" : "1483 – 1488",
-        "DOI": "10.3303/CET1229248",
+        "doi": "10.3303/CET1229248",
         "citations-self" : [],
         "citations-independent" :
         [
@@ -362,13 +387,13 @@
         "year" : "2012",
         "volume": "29",
         "pages" : "337 – 342",
-        "DOI": "10.3303/CET1229057",
+        "doi": "10.3303/CET1229057",
         "citations-self" : [],
         "citations-independent" :
         [
             "Suresh Jogwar, S.; Mete, S.; Mathpati, C.S. Scheduling of Energy-Integrated Batch Process Systems Using a Pattern-Based Framework. Processes 2019, 7, 103.",
             "Majozi T. (2018) Augmented Heat Integration in Multipurpose Batch Plants Using Multiple Heat Storage Vessels. In: De S., Bandyopadhyay S., Assadi M., Mukherjee D. (eds) Sustainable Energy Technology and Policies. Green Energy and Technology. Springer, Singapore, https://doi.org/10.1007/978-981-10-8393-8_8",
-            "Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 DOI:10.3303/CET1761001",
+            "Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 doi:10.3303/CET1761001",
             "Nthabiseng Sebelebele, Thokozani Majozi, Heat Integration of Multipurpose Batch Plants through Multiple Heat Storage Vessels, Computers & Chemical Engineering, Available online 7 June 2017, ISSN 0098-1354, https://doi.org/10.1016/j.compchemeng.2017.06.007.",
             "Mete, S., S. S. Jogwar; A Pattern-based method for the scheduling of Energy Integrated Batch Process Networks, Proceedings of the 11th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (2016)."
         ]
@@ -397,11 +422,11 @@
         "year" : "2011",
         "volume": "29",
         "pages" : "1979 – 1983",
-        "DOI": "10.1016/B978-0-444-54298-4.50174-4",
+        "doi": "10.1016/B978-0-444-54298-4.50174-4",
         "citations-self" : [],
         "citations-independent" :
         [
-            "Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, DOI: 10.1021/acs.iecr.7b04865"
+            "Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, doi: 10.1021/acs.iecr.7b04865"
         ]
     },
 
@@ -435,14 +460,14 @@
         "year" : "2011",
         "volume": "25",
         "pages" : "495 – 500",
-        "DOI": "10.3303/CET1125083",
+        "doi": "10.3303/CET1125083",
         "citations-self" :
         [
-            " Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 DOI:10.3303/CET1870195"
+            " Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 doi:10.3303/CET1870195"
         ],
         "citations-independent" :
         [
-            " Eles A., Cabezas H., Heckl I., 2018, Heuristic algorithm utilizing mixed-integer linear programming to schedule mobile workforce , Chemical Engineering Transactions, 70, 895-900 DOI:10.3303/CET1870150",
+            " Eles A., Cabezas H., Heckl I., 2018, Heuristic algorithm utilizing mixed-integer linear programming to schedule mobile workforce , Chemical Engineering Transactions, 70, 895-900 doi:10.3303/CET1870150",
             "Carvajal, Y., Corsario, G., González, M., Vereist, H. & González, E., Methodology for a synthesis and optimal design in batch plant, Afinidad, Metodología para la síntesis y diseño óptimo de plantas discontinuas, 69, 295-300, (2012)."
         ]
     },
@@ -470,12 +495,12 @@
         "volume": "50",        
         "issue": "9",
         "pages" : "5169 – 5174",
-        "DOI": "10.1007/s10098-009-0240-5",
+        "doi": "10.1007/s10098-009-0240-5",
         "citations-self" : [],
         "citations-independent" :
         [
             "Francesco Rossi, Daniel Casas-Orozco, Gintaras Reklaitis, Flavio Manenti, Guido Buzzi-Ferraris; A Computational Framework for Integrating Campaign Scheduling, Dynamic Optimization and Optimal Control in Multi-Unit Batch Processes, Computers & Chemical Engineering, Available online 1 June 2017",
-            "Yik Teeng Leong Jui-Yuan Lee Irene Mei leng Chew; INCORPORATING TIMESHARING SCHEME IN ECO-INDUSTRIAL MULTI-PERIOD CHILLED AND COOLING WATER NETWORK DESIGN; Ind. Eng. Chem. Res., Just Accepted Manuscript; DOI: 10.1021/acs.iecr.5b02722; Publication Date (Web): December 9, 2015",
+            "Yik Teeng Leong Jui-Yuan Lee Irene Mei leng Chew; INCORPORATING TIMESHARING SCHEME IN ECO-INDUSTRIAL MULTI-PERIOD CHILLED AND COOLING WATER NETWORK DESIGN; Ind. Eng. Chem. Res., Just Accepted Manuscript; doi: 10.1021/acs.iecr.5b02722; Publication Date (Web): December 9, 2015",
             "Schoppmeyer, C., Subbiah, S., De La Fuente Valdès, J.M., Engell, S.; Dynamic scheduling of shuttle robots in the warehouse of a polymer plant based on dynamically configured timed automata models; (2014) Industrial and Engineering Chemistry Research, 53 (44) pp. 17135-17154.",
             "Christian Schoppmeyer, Subanatarajan Subbiah, Josè Manuel De La Fuente Valdès, and Sebastian Engell, Dynamic Scheduling of Shuttle Robots in the Warehouse of a Polymer Plant Based on Dynamically Configured Timed Automata Models, Industrial & Engineering Chemistry Research",
             "Tibor Kocsis, Stéphane Negny, Pascal Floquet, Xuân Meyer, Endre Rév, Case-Based Reasoning System for Mathematical Modeling options and Resolution Methods for Production Scheduling Problems: Case representation, acquisition and retrieval, Computers & Industrial Engineering, Available online 28 September 2014, ISSN 0360-8352, http://dx.doi.org/10.1016/j.cie.2014.09.012."
@@ -504,10 +529,10 @@
         "year" : "2010",
         "volume": "21",
         "pages" : "895 – 900",
-        "DOI": "10.3303/CET1021150",
+        "doi": "10.3303/CET1021150",
         "citations-self" :
         [
-            " Hegyhati M., 2018, Batch process scheduling with es-graph: a case study , Chemical Engineering Transactions, 70, 115-120 DOI:10.3303/CET1870020",
+            " Hegyhati M., 2018, Batch process scheduling with es-graph: a case study , Chemical Engineering Transactions, 70, 115-120 doi:10.3303/CET1870020",
             "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
             "Hegyhati, M., F. Friedler, The role of energy consumption in batch process scheduling, 21st European Symposium on Computer Aided Process Engineering Elsevier, 29, 1979 - 1983 (2011)",
             "Bertok, B., Adonyi, R., Friedler, F., Fan, L.T., Superstructure Approach to Batch Process Scheduling by S-graph Representation, (2011) Computer Aided Chemical Engineering, 29, pp. 1105-1109.",
@@ -516,7 +541,7 @@
         ],
         "citations-independent" :
         [
-            " Ning C., You F., 2017, Batch process scheduling under uncertainty using data-driven multistage adaptive robust optimization, Chemical Engineering Transactions, 61, 1567-1572 DOI:10.3303/CET1761259",
+            " Ning C., You F., 2017, Batch process scheduling under uncertainty using data-driven multistage adaptive robust optimization, Chemical Engineering Transactions, 61, 1567-1572 doi:10.3303/CET1761259",
             "Aguirre, Adrián M., Carlos A. Méndez, Álvaro García-Sánchez, Miguel Ortega-Mier, Pedro M. Castro, General Framework for Automated Manufacturing Systems: Multiple Hoists Scheduling Solution, Chemical Engineering Transactions, 32, 1381-1386, (2013). ",
             "Carvajal, Y.A., Cortés, M.G., Gárciga, J.P., Suárez, E.G., Overview of batch process scheduling [Visión global sobre la planificatión de procesos discontinuos], (2011) Afinidad, 68 (553), pp. 203-209. "
         ]
@@ -551,7 +576,7 @@
         "volume": "12",
         "issue": "2",
         "pages" : "105 – 115",
-        "DOI": "10.1007/s10098-009-0240-5",
+        "doi": "10.1007/s10098-009-0240-5",
         "citations-self" :
         [
             "Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011)."
@@ -602,11 +627,11 @@
         "volume": "64",
         "issue": "3",
         "pages" : "605 – 610",
-        "DOI": "10.1016/j.ces.2008.10.018",
+        "doi": "10.1016/j.ces.2008.10.018",
         "citations-self" :
         [
             "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
-            "Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, DOI: 10.1021/acs.iecr.7b04865",
+            "Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, doi: 10.1021/acs.iecr.7b04865",
             "Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).",
             "Hegyhati, M., F. Friedler, Overview of Industrial Batch Process Scheduling, Chemical Engineering Transactions, 21, 895-900 (2010)."
         ],
@@ -650,7 +675,7 @@
         "year" : "2007",
         "volume": "24",
         "pages" : "649 – 654",
-        "DOI": "DOI: 10.1016/S1570-7946(07)80131-3",
+        "doi": "10.1016/S1570-7946(07)80131-3",
         "citations-self" :
         [
             "Hegyhati, M., T. Majozi, T. Holczinger, F. Friedler, Practical infeasibility of cross-transfer in batch plants with complex recipes: S-graph vs MILP methods, Chemical Engineering Science, 64, 605-610 (2009)."
