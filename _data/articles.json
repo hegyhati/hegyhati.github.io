@@ -1,5 +1,29 @@
 [
     {
+        "id": "Osz2019",
+        "type": "article",
+        "title": "Scheduling a forge with due dates and die deterioration",
+        "author":
+        [          
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },                 
+            {
+                "family": "Ferenczi",
+                "given": "Balázs"
+            },          
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            }
+        ],
+        "journal": "Annals of Operations Research",
+        "year": "2019",
+        "doi" : "10.1007/s10479-019-03336-6",
+        "url" : "https://doi.org/10.1007/s10479-019-03336-6"
+    },
+    {
         "id": "Holczinger2019",
         "type": "article",
         "title": "Scheduling approach for on‑site jobs of service providers",

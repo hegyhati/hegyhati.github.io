@@ -88,6 +88,15 @@
     "BSc":
     [
       {
+        "student" : "Olivér Dunár",
+        "original_title" : "S-gráf alapú várható profit maximalizálás sztochasztikus környezetben",
+        "title": "Expected profit maximization in a stochastic environment with the S-graph framework",
+        "course" : "Bachelor in Computer Science Engineering",
+        "university" : "Széchenyi István University",
+        "date" : "2019.06.28.",
+        "grade": "Excellent"
+      },    
+      {
         "student" : "Balázs Szilágyi",
         "original_title" : "Árösszehasonlító webalkalmazás hangszer vásárláshoz",
         "title": "Comparison shopping website for musical instruments",

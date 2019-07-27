@@ -19,8 +19,8 @@
 {% if pub.volume %},{{pub.volume}}{% if pub.issue %}({{pub.issue}}){% endif %},
 {{pub.pages}} {% endif %}</div> 
 <div><a target="_blank" href="https://doi.org/{{pub.doi}}">{{pub.doi}}</a>
-{% if pub.citations-self.size > 0 %} <span class="badge badge-info float-right">{{pub.citations-self.size}}</span> {% endif %}
-{% if pub.citations-independent.size > 0 %} <span class="badge badge-primary float-right">{{pub.citations-independent.size}}</span> {% endif %}
+<!-- {% if pub.citations-self.size > 0 %} <span class="badge badge-info float-right">{{pub.citations-self.size}}</span> {% endif %}
+{% if pub.citations-independent.size > 0 %} <span class="badge badge-primary float-right">{{pub.citations-independent.size}}</span> {% endif %} -->
 </div>
 
 <!-- BIB Modal -->
