@@ -2,6 +2,20 @@
   "regular":
     [
       {
+        "course": "Programming basics in Java 2",
+        "university": "University of Sopron",
+        "city": "Sopron",
+        "country": "Hungary",
+        "start": 2020
+      },
+      {
+        "course": "Web development techniques 2",
+        "university": "University of Sopron",
+        "city": "Sopron",
+        "country": "Hungary",
+        "start": 2020
+      },
+      {
         "course": "Tools for modern software development",
         "university": "Szechenyi Istvan University",
         "city": "Gyor",
@@ -171,7 +185,7 @@
         "city": "Gyor",
         "country": "Hungary",
         "start": 2019
-      }
+      },
     ],
   "irregular":
     [
