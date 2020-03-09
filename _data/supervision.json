@@ -88,6 +88,24 @@
     "BSc":
     [
       {
+        "student" : "Petra Vida",
+        "original_title" : "DFA Crush - egy automataelméleti játék",
+        "title": "DFA Crush - an automata theory game",
+        "course" : "Bachelor in Computer Science Engineering",
+        "university" : "Széchenyi István University",
+        "date" : "2020.02.05.",
+        "grade": "Excellent"
+      },    
+      {
+        "student" : "Gergő Molnár",
+        "original_title" : "Throughput maximalizálás szakaszos üzemű rendszerekben",
+        "title": "Throughput maximization in batch production systems",
+        "course" : "Bachelor in Computer Science Engineering",
+        "university" : "Széchenyi István University",
+        "date" : "2020.02.06.",
+        "grade": "Excellent"
+      },    
+      {
         "student" : "Olivér Dunár",
         "original_title" : "S-gráf alapú várható profit maximalizálás sztochasztikus környezetben",
         "title": "Expected profit maximization in a stochastic environment with the S-graph framework",
