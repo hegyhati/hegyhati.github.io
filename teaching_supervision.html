@@ -6,7 +6,7 @@ id: teaching_supervision
 
 <div class="container">
 
-<h3 class="p-3">Teaching experience</h3>
+<h3 id="teaching" class="p-3">Teaching experience</h3>
 
 <h4 class="p-3">Active regular courses</h4>
 
@@ -40,7 +40,7 @@ id: teaching_supervision
   {% endfor %}
 </ul>
 
-<h4 class="p-3">Past PhD courses</h4>
+<!--h4 class="p-3">Past PhD courses</h4>
 <ul>
   {% assign courses = site.data.teaching.phd | sort: "end" | reverse %}
   {% for c in courses %}
@@ -48,7 +48,7 @@ id: teaching_supervision
       <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
     {% endif %}
   {% endfor %}
-</ul>
+</ul-->
 
 
 <h4 class="p-3">Irregular courses</h4>
@@ -60,7 +60,12 @@ id: teaching_supervision
 </ul>
 
 
-<h3 class="p-3">Supervision experience</h3>
+<h3 class="p-3" id="supervision">Supervision experience</h3>
+
+<div class="alert alert-info" role="alert">
+  If you are interested doing a diploma work under my supervision, please read <a class="alert-link" href="/diploma.html">this</a>.
+</div>
+
 
 <h4 class="p-3">M.Sc. diploma works</h4>
 
