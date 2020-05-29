@@ -3,7 +3,7 @@
     {
         "author": "Ősz, O.,  M. Hegyhati",
         "title": "Energy usage minimization with the S-graph framework",
-        "conference": "Energy usage minimization with the S-graph framework",
+        "conference": "Middle-European Conference on Applied Theoretical Computer Science",
         "conferenceshort": "MATCOS-19",
         "city": "Koper",
         "country": "Slovenia",
@@ -21,6 +21,17 @@
         "date": "Oct 10-11",
         "year": "2019",
         "type": ["oral","international"]
+    },         
+    {
+        "author": "Ősz, O.,  M. Hegyhati",
+        "title": "A novel MILP model for cyclic scheduling with interlacing",
+        "conference": "Energy usage minimization with the S-graph framework",
+        "conferenceshort": "ECCO 2019",
+        "city": "St. Julian's",
+        "country": "Malta",
+        "date": "May 30 - June 1",
+        "year": "2019",
+        "type": ["oral","international","collaborator"]
     },            
     {
         "author": "Hegyhati, M, O. Ősz",
