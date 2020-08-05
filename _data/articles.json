@@ -1,5 +1,32 @@
 [
     {
+        "id": "Hegyhati2020",
+        "type": "article",
+        "title": "Addressing storage time restrictions in the S-graph scheduling framework",
+        "author":
+        [                       
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            },           
+            {
+                "family": "Holczinger",
+                "given": "Tibor"
+            },
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },
+        ],
+        "journal": "Optimization and Engineering",
+        "year": "2020",
+        "volume?": "?",
+        "pages?" : "??-??",
+        "ISSN": " 1573-2924",
+        "url" : "https://doi.org/10.1007/s11081-020-09548-1",
+        "doi" : "10.1007/s11081-020-09548-1"
+    },
+    {
         "id": "Osz2019a",
         "type": "article",
         "title": "Energy usage minimization with the S-graph framework",
@@ -70,6 +97,8 @@
         ],
         "journal": "Annals of Operations Research",
         "year": "2019",
+        "volume": "285",
+        "pages": "353–367",
         "doi" : "10.1007/s10479-019-03336-6",
         "url" : "https://doi.org/10.1007/s10479-019-03336-6"
     },
