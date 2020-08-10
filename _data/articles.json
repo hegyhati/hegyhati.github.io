@@ -574,6 +574,7 @@
         "doi": "10.3303/CET1125083",
         "citations-self" :
         [
+            "Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1",
             " Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 doi:10.3303/CET1870195"
         ],
         "citations-independent" :
@@ -644,6 +645,7 @@
         "doi": "10.3303/CET1021150",
         "citations-self" :
         [
+            "Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1",
             " Hegyhati M., 2018, Batch process scheduling with es-graph: a case study , Chemical Engineering Transactions, 70, 115-120 doi:10.3303/CET1870020",
             "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
             "Hegyhati, M., F. Friedler, The role of energy consumption in batch process scheduling, 21st European Symposium on Computer Aided Process Engineering Elsevier, 29, 1979 - 1983 (2011)",
@@ -742,6 +744,7 @@
         "doi": "10.1016/j.ces.2008.10.018",
         "citations-self" :
         [
+            "Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1",
             "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
             "Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, doi: 10.1021/acs.iecr.7b04865",
             "Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).",
