@@ -1,5 +1,32 @@
 [
     {
+        "id": "Osz2020",
+        "type": "article",
+        "title": "Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach",
+        "author":
+        [
+            {
+                "family": "Ősz",
+                "given": "Olivér"
+            },            
+            {
+                "family": "Foo",
+                "given": "Dominic C.Y."
+            },                  
+            {
+                "family": "Hegyháti",
+                "given": "Máté"
+            },    
+        ],
+        "journal": "Process Integration and Optimization for Sustainability",
+        "year": "2020",
+        "volume?": "?",
+        "pages?" : "??-??",
+        "ISSN": "2509-4246",
+        "url" : "https://doi.org/10.1007/s41660-020-00142-7",
+        "doi" : "10.1007/s41660-020-00142-7"
+    },
+    {
         "id": "Hegyhati2020",
         "type": "article",
         "title": "Addressing storage time restrictions in the S-graph scheduling framework",
