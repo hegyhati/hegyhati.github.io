@@ -51,7 +51,10 @@
         "pages?" : "??-??",
         "ISSN": " 1573-2924",
         "url" : "https://doi.org/10.1007/s11081-020-09548-1",
-        "doi" : "10.1007/s11081-020-09548-1"
+        "doi" : "10.1007/s11081-020-09548-1",
+        "citations-self" : [
+            "Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7",
+        ]
     },
     {
         "id": "Osz2019a",
@@ -244,6 +247,9 @@
         "citations-independent":
         [
             "Slots Start-up Synchronization with Shared Resources Dependency, Carlos G. Palacína, Carlos A. Méndezb, Cesar de Prada, CHEMICAL ENGINEERING TRANSACTIONS, VOL. 76, 2019"
+        ],
+        "citations-self": [
+          "Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7",
         ]
     },
     {
@@ -526,7 +532,9 @@
         "volume": "29",
         "pages" : "337 – 342",
         "doi": "10.3303/CET1229057",
-        "citations-self" : [],
+        "citations-self" : [
+          "Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7",
+        ],
         "citations-independent" :
         [
             "Simbarashe R. Magege, Thokozani Majozi, A comprehensive framework for synthesis and design of heat-integrated batch plants: Consideration of intermittently-available streams, Renewable and Sustainable Energy Reviews, Volume 135, 2021, 110125, ISSN 1364-0321,https://doi.org/10.1016/j.rser.2020.110125.",
@@ -772,6 +780,7 @@
         "doi": "10.1016/j.ces.2008.10.018",
         "citations-self" :
         [
+            "Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7",
             "Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1",
             "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham",
             "Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, doi: 10.1021/acs.iecr.7b04865",
