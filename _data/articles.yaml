@@ -1,0 +1,516 @@
+- id: Osz2020
+  type: article
+  title: "Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach"
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Foo
+      given: Dominic C.Y.
+    - family: Hegyháti
+      given: Máté
+  journal: Process Integration and Optimization for Sustainability
+  year: "2020"
+  volume?: "?"
+  pages?: "??-??"
+  ISSN: 2509-4246
+  url: "https://doi.org/10.1007/s41660-020-00142-7"
+  doi: 10.1007/s41660-020-00142-7
+- id: Hegyhati2020
+  type: article
+  title: Addressing storage time restrictions in the S-graph scheduling framework
+  author:
+    - family: Hegyháti
+      given: Máté
+    - family: Holczinger
+      given: Tibor
+    - family: Ősz
+      given: Olivér
+  journal: Optimization and Engineering
+  year: "2020"
+  volume?: "?"
+  pages?: "??-??"
+  ISSN: " 1573-2924"
+  url: "https://doi.org/10.1007/s11081-020-09548-1"
+  doi: 10.1007/s11081-020-09548-1
+  citations-self:
+    - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch
+      Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020).
+      https://doi.org/10.1007/s41660-020-00142-7'
+- id: Osz2019a
+  type: article
+  title: Energy usage minimization with the S-graph framework
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Hegyháti
+      given: Máté
+  journal: Information Society - Proceedings of MATCOS 2019
+  year: "2019"
+  volume: "1"
+  pages: 59-62
+  ISBN: "978-961-264-172-6"
+  ISSN: "2630-371X"
+  url: "https://matcos.iam.upr.si/en/resources/files///is2019volumei---matcos.pdf"
+- id: Hegyhati2019
+  type: article
+  title: Empirical Study of S-graph Approaches for Limited-Wait Storage Policy
+  author:
+    - family: Hegyháti
+      given: Máté
+    - family: Ősz
+      given: Olivér
+    - family: Holczinger
+      given: Tibor
+  journal: Information Society - Proceedings of MATCOS 2019
+  year: "2019"
+  volume: "1"
+  pages: 43-46
+  ISBN: " 978-961-264-172-6"
+  ISSN: " 2630-371X"
+  url: "https://matcos.iam.upr.si/en/resources/files///is2019volumei---matcos.pdf"
+- id: Osz2019
+  type: article
+  title: Scheduling a forge with due dates and die deterioration
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Ferenczi
+      given: Balázs
+    - family: Hegyháti
+      given: Máté
+  journal: Annals of Operations Research
+  year: "2019"
+  volume: "285"
+  pages: 353–367
+  doi: 10.1007/s10479-019-03336-6
+  url: "https://doi.org/10.1007/s10479-019-03336-6"
+- id: Holczinger2019
+  type: article
+  title: Scheduling approach for on‑site jobs of service providers
+  author:
+    - family: Holczinger
+      given: Tibor
+    - family: Ősz
+      given: Olivér
+    - family: Hegyháti
+      given: Máté
+  journal: Flexible Services and Manufacturing Journal
+  year: "2019"
+  doi: 10.1007/s10696-019-09359-2
+  url: "https://doi.org/10.1007/s10696-019-09359-2"
+- id: Hegyhati2018c
+  type: incollection
+  title: Interlacing in cyclic scheduling
+  author:
+    - family: Hegyháti
+      given: Máté
+    - family: Ősz
+      given: Olivér
+  journal: "8th VOCAL Optimization Conference: Advanced Algorithms - Short papers"
+  year: "2018"
+  pages: 50 – 55
+  ISBN: 978-963-308-346-8
+- id: Papp2018
+  type: incollection
+  title: Review and comparison of MILP models for cyclic scheduling of robotic cells
+  author:
+    - family: Papp
+      given: Ádám
+    - family: Ősz
+      given: Olivér
+    - family: Hegyháti
+      given: Máté
+  journal: "8th VOCAL Optimization Conference: Advanced Algorithms - Short papers"
+  year: "2018"
+  pages: 79 – 84
+  ISBN: 978-963-308-346-8
+- id: Hegyhati2018b
+  type: article
+  title: "Batch Process Scheduling with eS-graph: A Case Study"
+  author:
+    - family: Hegyháti
+      given: Máté
+  journal: Chemical Engineering Transactions
+  year: "2018"
+  volume: "70"
+  pages: 115 – 120
+  ISBN: 978-88-95608-67-9
+  ISSN: 2283-9216
+  doi: 10.3303/CET1870020
+- id: Osz2018a
+  type: article
+  title: 'An S-graph Based Approach for Multi-Mode Resource-Constrained Project
+    Scheduling with Time-Varying Resource Capacities'
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Hegyháti
+      given: Máté
+  journal: Chemical Engineering Transactions
+  year: "2018"
+  volume: "70"
+  pages: 1165 – 1170
+  ISBN: 978-88-95608-67-9
+  ISSN: 2283-9216
+  doi: 10.3303/CET1870195
+  citations-independent:
+    - 'Slots Start-up Synchronization with Shared Resources Dependency, Carlos G. Palacína, Carlos A. Méndezb, Cesar de Prada, CHEMICAL ENGINEERING TRANSACTIONS, VOL. 76, 2019'
+  citations-self:
+    - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7'
+- id: Hegyhati2018a
+  type: incollection
+  title: 'A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations'
+  author:
+    - family: Hegyháti
+      given: Máté
+    - family: Ősz
+      given: Olivér
+    - family: Hatwágner
+      given: Miklós
+  journal: 'Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science'
+  year: "2018"
+  volume: "10841"
+  pages: " 386-394"
+  ISBN: 978-3-319-91252-3
+  doi: 10.1007/978-3-319-91253-0_36
+  url: "https://doi.org/10.1007/978-3-319-91253-0_36"
+- id: Hegyhati2018
+  type: incollection
+  title: Modeling techniques for the eS-graph
+  author:
+    - family: Hegyháti
+      given: Máté
+  journal: 'Proceedings of the 16th International Conference on Project Management and Scheduling'
+  year: "2018"
+  volume: "39"
+  pages: 123 – 127
+  ISBN: "9788894982022"
+- id: Osz2018
+  type: incollection
+  title: Scheduling a forge with due dates and die deterioration
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Hegyháti
+      given: Máté
+  journal: 'Proceedings of the 16th International Conference on Project Management and Scheduling'
+  year: "2018"
+  volume: "39"
+  pages: 276 – 280
+  ISBN: "9788894982022"
+- id: David2018
+  type: incollection
+  title: Linearly Priced Timed Automata for the Bus Schedule Assignment Problem
+  author:
+    - family: Dávid
+      given: Balázs
+    - family: Hegyháti
+      given: Máté
+    - family: Krész
+      given: Miklós
+  journal: "Proceedings GOL'2018: The 4th IEEE International Conference On Logistics Operations Management"
+  year: "2018"
+  pages: 430 – 436
+  citations:
+    - 'Erik D. van der Kuil: A Data Integration Design Approach for the Planning Process of a Public Transport Operator. Master thesis at University of Twente,  17th of December, 2020. http://essay.utwente.nl/85348/1/vanderKuil_MA_EEMCS.pdf'
+- id: Hegyhati2014
+  type: article
+  title: Scheduling of Automated Wet-Etch Stations
+  author:
+    - family: Hegyháti
+      given: Máté
+    - family: Ősz
+      given: Olivér
+    - family: Kovács
+      given: Balázs
+    - family: Friedler
+      given: Ferenc
+  journal: Chemical Engineering Transactions
+  year: "2014"
+  volume: "39"
+  pages: 433 – 438
+  doi: 10.3303/CET1439073
+  citations-self:
+    - "Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 doi:10.3303/CET1870195"
+- id: Ng2013
+  type: article
+  title: "Waste to energy for small cities: Economics versus carbon footprint"
+  abstract: 'The main activities in Waste to Energy processing include waste generation, collection, separation, transportation, conversion, energy distribution, and ultimate waste disposal. Waste to Energy carries a trade-off between energy generation and the energy spent on collection, transport and treatment. Major performance indicators are cost, Waste Energy Potential Utilisation, and Carbon Footprint. This presentation analyses the potential of small cities to substitute part of their fossil fuels use by energy derived from Municipal Solid Waste. Several factors are considered in the study. The impact of waste logistics and the losses from energy distribution systems - natural gas pipeline and electricity grid are the most significant ones on the side of the supply chain. Further, the waste processing part, including the energy recovery from the waste involves the evaluation of a number of technologies linked with each other to form a distributed integrated processing system. In this study, the options for converting waste into thermal energy include (a) biogas digestion and burning and (b) waste incineration with off-gas cleaning. It is also possible to use the biogas in advanced cogeneration systems based on engines or fuel cells. The proposed procedure takes all these options into account and derives the optimal processing configuration from the waste generation to energy supply and residual waste deposition to landfill.'
+  author:
+    - family: Ng
+      given: W.P.Q.
+    - family: Varbanov
+      given: P.S.
+    - family: Klemeš
+      given: J.J.
+    - family: Hegyháti
+      given: M.
+    - family: Bertók
+      given: B.
+    - family: Heckl
+      given: I.
+    - family: Lam
+      given: H.L.
+  journal: Chemical Engineering Transactions
+  year: "2013"
+  volume: "35"
+  pages: 889 – 894
+  doi: 10.3303/CET1335148
+  citations-self:
+    - 'Ali, R.A.; Nik Ibrahim, N.N.L.; Lam, H.L. Conversion Technologies: Evaluation of Economic Performance and Environmental Impact Analysis for Municipal Solid Waste in Malaysia. Processes 2019, 7, 752.'
+    - 'Ali, Rabiatul & Ibrahim, Nik & Lam, Hon. (2019). Conversion Technologies: Evaluation of Economic Performance and Environmental Impact Analysis for Municipal Solid Waste in Malaysia. Processes. 7. 752. 10.3390/pr7100752.'
+    - 'Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 doi:10.3303/CET1761001'
+    - 'Lim, C.H., Lam, H.L.; Biomass Demand-Resources Value Targeting; (2014) Energy Conversion and Management, 87, pp. 1202-1209.'
+  citations-independent:
+    - 'Ajay Singh, Solid waste management through the applications of mathematical models, Resources, Conservation and Recycling, Volume 151, 2019, 104503, ISSN 0921-3449, https://doi.org/10.1016/j.resconrec.2019.104503.'
+    - 'Asefi, H., Lim, S., Maghrebi, M. et al. Ann Oper Res (2019) 273: 75. https://doi.org/10.1007/s10479-018-2912-1'
+    - 'Hossein Asefi, Shahrooz Shahparvari, Prem Chettri, Samsung Lim, Variable fleet size and mix VRP with fleet heterogeneity in Integrated Solid Waste Management, Journal of Cleaner Production, 2019, https://doi.org/10.1016/j.jclepro.2019.04.250'
+    - 'Asefi, H., Lim, S., Maghrebi, M. et al., Mathematical modelling and heuristic approaches to the location-routing problem of a cost-effective integrated solid waste management, Ann Oper Res (2018), 1-36. https://doi.org/10.1007/s10479-018-2912-1'
+    - 'Pintaric, Z. N., Kravanja, Z.; The Importance of using Discounted Cash Flow Methodology in Techno-economic Analyses of Energy and Chemical Production Plants; (2017) Journal of Sustainable Development of Energy, Water and Environment Systems, 5(2), pp. 163-176.'
+    - 'Wu, T. Y., S. L. Lim, P. N. Lim, K. P. Y. Shak, Biotransformation of Biodegradable Solid Wastes into Organic Fertilizers using Composting or/and Vermicomposting, Chemical Engineering Transactions, 1579-1584, 39, 2014'
+    - 'Tan, S.T., Lee, C.T., Hashim, H., Ho, W.S., Lim, J.S., Optimal process network for municipal solid waste management in Iskandar Malaysia, Journal of Cleaner Production, 71, pp. 48-58. (2014)'
+- id: Hegyhati2013
+  type: article
+  title: Colorability of mixed hypergraphs and their chromatic inversions
+  abstract: 'We solve a long-standing open problem concerning a discrete mathematical model, which has various applications in computer science and several other fields, including frequency assignment and many other problems on resource allocation. A mixed hypergraph H is a triple (X,C,D) where X is the set of vertices, and C and D are two set systems over X, the families of so-called C-edges and D-edges, respectively. A vertex coloring of a mixed hypergraph H is proper if every C-edge has two vertices with a common color and every D-edge has two vertices with different colors. A mixed hypergraph is colorable if it has at least one proper coloring; otherwise it is uncolorable. The chromatic inversion of a mixed hypergraph H = (X,C,D) is defined as Hc = (X,C,D). Since 1995, it was an open problem wether there is a correlation between the colorability properties of a hypergraph and its chromatic inversion. In this paper we answer this question in the negative, proving that there exists no polynomial-time algorithm (provided that P ≠ NP to decide whether both H and Hc are colorable, or both are uncolorable. This theorem holds already for the restricted class of 3-uniform mixed hypergraphs (i.e., where every edge has exactly three vertices). The proof is based on a new polynomial-time algorithm for coloring a special subclass of 3-uniform mixed hypergraphs. Implementation in C++ programming language has been tested. Further related decision problems are investigated, too. 2012 Springer Science+Business Media New York.'
+  author:
+    - family: Hegyháti
+      given: M.
+    - family: Tuza
+      given: Z.
+  journal: Journal of Combinatorial Optimization
+  year: "2013"
+  volume: "25"
+  issue: "4"
+  pages: 737 – 751
+  doi: 10.1007/s10878-012-9559-7
+  citations-self: []
+  citations-independent:
+    - 'Caro, Y., Lauri, J., Zarb, C.; Constrained colouring and σ-hypergraphs; (2015) Discussiones Mathematicae - Graph Theory, 35 (1), pp. 171-189.'
+    - 'Caro, Y., Lauri, J.,Non-monochromatic non-rainbow colourings of σ-hypergraphs to the memory of Lucia Gionfriddo, (2014) Discrete Mathematics, 318 (1), pp. 96-104.'
+    - 'Caro, Y., J. Lauri, C. Zarb; Constrained colouring and σ-hypergraphs; ArXiv e-prints, arXiv:1401.1920'
+    - 'Csernenszky, A., R. R. Martin, A. Pluhár; On the complexity of chooser-picker positional games; Integers, 12 (3), 427-444 (2012).'
+    - 'Cserneszky, A.; The Chooser-picker games; PhD thesis; University of Szeged, Hungary; 2011'
+    - 'Caro, Y., Lauri J.; Non-monochromatic non-rainbow colourings of σ-hypergraphs; ArXiv e-prints, arXiv:1307.6642'
+  impact-factor: 0.592(2012)
+- id: Nemet2012
+  type: article
+  title: 'Increasing solar energy utilisation by rescheduling operations with heat and electricity demand'
+  abstract: 'For the utilization of renewables, e.g., solar energy, two systems are possible, i.e., direct transfer from the capture system to the process and indirect from capture system through storage to the process with demand. Direct usage is preferable because of its higher efficiency. Mathematical programming for the rescheduling of the operations was used to maximize the direct use of renewable energy and to minimize the need for the energy storage. This reduces the consumption of utilities with a higher impact on the environment by exploiting an inherent flexibility of the processes on the demand side. Some operations can be shifted in time if the site has enough of a certain resource in stock. A flexible operation can also be rescheduled. However, the size of the stock implies a limitation for the shifting in time. The optimal solution of the operational level depends on the design parameters. A retrofit sensitivity analysis where the optimal schedule has been identified for different design conditions has been developed.'
+  author:
+    - family: Nemet
+      given: A.
+    - family: Hegyháti
+      given: M.
+    - family: Klemeš
+      given: J.J.
+    - family: Friedler
+      given: F.
+  journal: Chemical Engineering Transactions
+  year: "2012"
+  volume: "29"
+  pages: 1483 – 1488
+  doi: 10.3303/CET1229248
+  citations-self: []
+  citations-independent:
+    - 'Ampelli, C., Passalacqua, R., Genovese, C., Perathoner, S., Centi, G., Montini, T., Gombac, V., Fornasiero, P.; Solar energy and biowaste conversion into H2 on CuOx/TiO2 nanocomposites; Chemical Engineering
+      Transactions, 35, 583-588 (2013).'
+- id: Holczinger2012
+  type: article
+  title: Simultaneous heat integration and batch process scheduling
+  abstract: 'Heat integration of continuous processes is a widely studied research area, where many approaches have been developed to minimize cold and hot utility usage. Batch processes require additional consideration for the planning of the heat exchanger network: since the flows are not always present in the system, their timing has to be considered as well. Both heat integration and scheduling of batch processes are highly complex, their combination is expected to be even higher. Several papers have already addressed the integrated problem in the last decade (Majozi, 2006, Chen and Chang, 2009, Halim and Srinivasan, 2011). Adonyi et. al. (2003) has presented an algorithm to minimize the utility usage for a given time horizon. Their approach assumed, however, that heat exchangers are present for all of the hot-cold stream pairs. Moreover, each hot or cold stream was allowed to be matched with only one hot or cold stream, respectively, further heat demands of the stream had to be satisfied from utilities. The aim of this work is to present an extension of Adonyi et. al.’s approach by allowing the streams to have heat exchanges with multiple other streams. The newly presented approach also takes into account the limitation on the number of availab heat exchangers and their scheduling.'
+  author:
+    - family: Holczinger
+      given: T.
+    - family: Hegyháti
+      given: M.
+    - family: Friedler
+      given: F.
+  journal: Chemical Engineering Transactions
+  year: "2012"
+  volume: "29"
+  pages: 337 – 342
+  doi: 10.3303/CET1229057
+  citations-self:
+    - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7'
+  citations-independent:
+    - 'Simbarashe R. Magege, Thokozani Majozi, A comprehensive framework for synthesis and design of heat-integrated batch plants: Consideration of intermittently-available streams, Renewable and Sustainable Energy Reviews, Volume 135, 2021, 110125, ISSN 1364-0321,https://doi.org/10.1016/j.rser.2020.110125.'
+    - 'Suresh Jogwar, S.; Mete, S.; Mathpati, C.S. Scheduling of Energy-Integrated Batch Process Systems Using a Pattern-Based Framework. Processes 2019, 7, 103.'
+    - 'Majozi T. (2018) Augmented Heat Integration in Multipurpose Batch Plants Using Multiple Heat Storage Vessels. In: De S., Bandyopadhyay S., Assadi M., Mukherjee D. (eds) Sustainable Energy Technology and Policies. Green Energy and Technology. Springer, Singapore, https://doi.org/10.1007/978-981-10-8393-8_8'
+    - 'Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 doi:10.3303/CET1761001'
+    - 'Nthabiseng Sebelebele, Thokozani Majozi, Heat Integration of Multipurpose Batch Plants through Multiple Heat Storage Vessels, Computers & Chemical Engineering, Available online 7 June 2017, ISSN 0098-1354,
+      https://doi.org/10.1016/j.compchemeng.2017.06.007.'
+    - 'Mete, S., S. S. Jogwar; A Pattern-based method for the scheduling of Energy Integrated Batch Process Networks, Proceedings of the 11th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (2016).'
+- id: Hegyhati2011b
+  type: incollection
+  title: The role of energy consumption in batch process scheduling
+  abstract: 'Makespan minimization or throughput maximization, the most common objectives in batch process scheduling are related to economical aspects; energy consumption or sustainability are not directly taken into account (\[Mendez et al., 2006\] and \[Hegyhati and Friedler, 2010\]). Some of the published methods consider utility cost (Adonyi et al., 2003) or wastewater minimization (Halim and Srinivasan, 2010) during the optimization in addition to economical aspects, nevertheless, the overall energy requirements of a process have never been taken into account. In the present work, a scheduling method is proposed that also considers the energy demands of transfer of liquid materials. In the available mathematical models transfer of intermediate materials has impact only on the overall processing time, and does not express the energy consumption of the transfer. Transfer time of intermediate materials is usually regarded as a fixed value, however, there is an energy -time tradeoff for pumping of intermediate, raw, or product materials. The energy cost of transfer depends on the height difference between the source and destination, the cross-section area of the pipe, viscosity of the material, and the available time. The proposed method integrates pumping strategies into the general scheduling problem to tackle the transfer energy demands. Although this energy is much smaller in magnitude compared to the usual heat energy requirements, still, it is worth investing effort in its reduction, since it is in the form of electrical energy.'
+  author:
+    - family: Hegyhati
+      given: Mate
+    - family: Friedler
+      given: Ferenc
+  journal: Computer Aided Chemical Engineering
+  year: "2011"
+  volume: "29"
+  pages: 1979 – 1983
+  doi: 10.1016/B978-0-444-54298-4.50174-4
+  citations-self: []
+  citations-independent:
+    - 'Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, doi: 10.1021/acs.iecr.7b04865'
+- id: Hegyhati2011a
+  type: article
+  title: 'Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time'
+  abstract: ""
+  author:
+    - family: Hegyhati
+      given: Mate
+    - family: Holczinger
+      given: Tibor
+    - family: Szoldatics
+      given: András Andras
+    - family: Friedler
+      given: Ferenc
+  journal: Chemical Engineering Transactions
+  year: "2011"
+  volume: "25"
+  pages: 495 – 500
+  doi: 10.3303/CET1125083
+  citations-self:
+    - 'Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1'
+    - "Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 doi:10.3303/CET1870195"
+  citations-independent:
+    - "Eles A., Cabezas H., Heckl I., 2018, Heuristic algorithm utilizing mixed-integer linear programming to schedule mobile workforce , Chemical Engineering Transactions, 70, 895-900 doi:10.3303/CET1870150"
+    - 'Carvajal, Y., Corsario, G., González, M., Vereist, H. & González, E., Methodology for a synthesis and optimal design in batch plant, Afinidad, Metodología para la síntesis y diseño óptimo de plantas discontinuas, 69, 295-300, (2012).'
+- id: Hegyhati2011
+  type: article
+  title: Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling
+  abstract: 'Methods for solving batch process scheduling problems have gone through a vast development in the last 2 decades. Most of the published approaches are based on a mixed integer programming formulation. Since the difficulty of scheduling is originated from its combinatorial nature, graphs and combinatorial algorithms are more adequate to represent and solve the problem. Although, combinatorial algorithms and data structures have an enormous literature, these algorithms can not be directly applied to scheduling and further elaboration is needed. In the present work, the combinatorial nature of batch scheduling problems is analyzed. Several combinatorial algorithms are listed that can be considered for the scheduling of batch processes. Their proper adaptation is illustrated via the S-graph framework, in which the main emphasis lies on the combinatorial tools. Furthermore, Place Petri Nets and Timed Automata are also briefly described. An S-graph algorithm has been extensively compared with well-known MILP formulations.'
+  author:
+    - family: Hegyháti
+      given: Máté
+    - family: Friedler
+      given: Ferenc
+  journal: Industrial & Engineering Chemistry Research
+  year: "2011"
+  volume: "50"
+  issue: "9"
+  pages: 5169 – 5174
+  doi: 10.1007/s10098-009-0240-5
+  citations-self: []
+  citations-independent:
+    - 'Leong, Yik & Lee, Jui-Yuan & Chew, Irene. (2015). Incorporating Timesharing Scheme in Ecoindustrial Multiperiod Chilled and Cooling Water Network Design. Industrial & Engineering Chemistry Research. 55. 10.1021/acs.iecr.5b02722.'
+    - 'Francesco Rossi, Daniel Casas-Orozco, Gintaras Reklaitis, Flavio Manenti, Guido Buzzi-Ferraris; A Computational Framework for Integrating Campaign Scheduling, Dynamic Optimization and Optimal Control in Multi-Unit Batch Processes, Computers & Chemical Engineering, Available online 1 June 2017'
+    - 'Yik Teeng Leong Jui-Yuan Lee Irene Mei leng Chew; INCORPORATING TIMESHARING SCHEME IN ECO-INDUSTRIAL MULTI-PERIOD CHILLED AND COOLING WATER NETWORK DESIGN; Ind. Eng. Chem. Res., Just Accepted Manuscript; doi: 10.1021/acs.iecr.5b02722; Publication Date (Web): December 9, 2015'
+    - 'Schoppmeyer, C., Subbiah, S., De La Fuente Valdès, J.M., Engell, S.; Dynamic scheduling of shuttle robots in the warehouse of a polymer plant based on dynamically configured timed automata models; (2014) Industrial and Engineering Chemistry Research, 53 (44) pp. 17135-17154.'
+    - 'Christian Schoppmeyer, Subanatarajan Subbiah, Josè Manuel De La Fuente Valdès, and Sebastian Engell, Dynamic Scheduling of Shuttle Robots in the Warehouse of a Polymer Plant Based on Dynamically Configured Timed Automata Models, Industrial & Engineering Chemistry Research'
+    - 'Tibor Kocsis, Stéphane Negny, Pascal Floquet, Xuân Meyer, Endre Rév, Case-Based Reasoning System for Mathematical Modeling options and Resolution Methods for Production Scheduling Problems: Case representation, acquisition and retrieval, Computers & Industrial Engineering, Available online 28 September 2014, ISSN 0360-8352, http://dx.doi.org/10.1016/j.cie.2014.09.012.'
+  impact-factor: "2.237"
+- id: Hegyhati2010
+  type: article
+  title: Overview of Industrial Batch Process Scheduling
+  abstract: 'The operation of a production facility has a major effect on the efficiency; therefore it is of upmost importance to find the best possible schedule. Due to the high practical expediency, the topic of batch process scheduling has gained growing interest in the last two decades and many approaches have been published to solve a wide variety of scheduling problems. In the present work first the different type of batch scheduling problems are overviewed, then the advantages and disadvantages of the available methods for batch process scheduling are summarized.'
+  author:
+    - family: Hegyhati
+      given: Mate
+    - family: Friedler
+      given: Ferenc
+  journal: Chemical Engineering Transactions
+  year: "2010"
+  volume: "21"
+  pages: 895 – 900
+  doi: 10.3303/CET1021150
+  citations-self:
+    - Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1
+    - "Hegyhati M., 2018, Batch process scheduling with es-graph: a case study , Chemical Engineering Transactions, 70, 115-120 doi:10.3303/CET1870020"
+    - "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham"
+    - 'Hegyhati, M., F. Friedler, The role of energy consumption in batch process scheduling, 21st European Symposium on Computer Aided Process Engineering Elsevier, 29, 1979 - 1983 (2011)'
+    - 'Bertok, B., Adonyi, R., Friedler, F., Fan, L.T., Superstructure Approach to Batch Process Scheduling by S-graph Representation, (2011) Computer Aided Chemical Engineering, 29, pp. 1105-1109.'
+    - 'Hegyhati, M., T. Holczinger, A. Szoldatics, F. Friedler, Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time Chemical Engineering Transactions, Chemical Engineering Transactions, 25, 495-500 (2011).'
+    - 'Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).'
+  citations-independent:
+    - " Ning C., You F., 2017, Batch process scheduling under uncertainty using data-driven multistage adaptive robust optimization, Chemical Engineering Transactions, 61, 1567-1572 doi:10.3303/CET1761259"
+    - 'Aguirre, Adrián M., Carlos A. Méndez, Álvaro García-Sánchez, Miguel Ortega-Mier, Pedro M. Castro, General Framework for Automated Manufacturing Systems: Multiple Hoists Scheduling Solution, Chemical Engineering Transactions, 32, 1381-1386, (2013).'
+    - 'Carvajal, Y.A., Cortés, M.G., Gárciga, J.P., Suárez, E.G., Overview of batch process scheduling [Visión global sobre la planificatión de procesos discontinuos], (2011) Afinidad, 68 (553), pp. 203-209.'
+- id: Lainez2010
+  type: article
+  title: Using S-graph to address uncertainty in batch plants
+  abstract: 'Abstract Processes and markets uncertainties make batch plants a complex environment to manage production activities. Uncertainties may cause deviations and infeasibilities in predefined schedules; this may result in poor planning and inefficient utilization of materials. Consequently, the relevance of explicitly incorporating variability in the scheduling formulation in order to offer more efficient plans and robust decisions to changes has become recognized. This work addresses the batch plants scheduling under exogenous uncertainty. The most widely utilized approach to tackle this problem is stochastic programming; however its solution results in high computational expenses. From another standpoint S-graph, a graph-theoretic approach, has proved to be very efficient to deal with deterministic scheduling. In this work, the S-graph framework is enhanced so that stochastic scheduling problems can be handled. For this purpose, a LP model that is used as performance evaluator has been coupled with S-graph framework. One of the main advantages of the proposed approach is that the search space does not increase according to the number of scenarios considered in the problem. Finally, the potential of the proposed framework is highlighted through two illustrative examples.'
+  author:
+    - family: Laínez
+      given: José Miguel
+    - family: Hegyháti
+      given: Máté
+    - family: Friedler
+      given: Ferenc
+    - family: Puigjaner
+      given: Luis
+  journal: Clean Technologies and Environmental Policy
+  year: "2011"
+  volume: "12"
+  issue: "2"
+  pages: 105 – 115
+  doi: 10.1007/s10098-009-0240-5
+  citations-self:
+    - 'Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).'
+  citations-independent:
+    - 'Kopanos G.M., Puigjaner L. (2019) State of the Art. In: Solving Large-Scale Production Scheduling and Planning in the Process Industries. Springer, Cham'
+    - "李迁, et al. 基于多承包商资源共享的混凝土拌合站的动态配置研究. 预测 2 (2013): 49-54."
+    - 'Gleizer, G. A., Optimal Task Scheduling for Fieldbuses Applied to FoundationTM Fieldbus, Msc thesis, UFJR, 2013'
+    - 'Chen, Y.; Pekny, J. F. & Reklaitis, G., Integrated Planning and Optimization of Clinical Trial Supply Chain System with Risk Pooling, Ind. Eng. Chem. Res., Industrial & Engineering Chemistry Research, American Chemical Society, 2012, 52, 152-165'
+    - 'Avander, A., & Robertsson, E. (2011). Batch size policy : A case study of the production site in Hillerstorp  (Dissertation). Retrieved from http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-12270'
+    - 'Kopanos, G.; PhD thesis; Techniques for the efficient solution of Large-scale production scheduling & planning problems in the process industries.; Universitat de Polytechnica de Catalunia; 2010'
+  impact-factor: "1.120"
+- id: Hegyhati2009
+  type: article
+  title: "Practical infeasibility of cross-transfer in batch plants with complex recipes: S-graph vs MILP methods"
+  abstract: 'Multipurpose batch processes entail various operational policies that have been widely investigated in published literature. In this paper, no-intermediate-storage (NIS), zero-wait (ZW) and common-intermediate-storage (CIS) operational policies are of particular interest. In all these policies, no dedicated storage facility is available between two consecutive units. Unlike the other operational policies, these particular policies bear some subtle practical infeasibility that has gone unnoticed in literature. In essence, this infeasibility has been reported as optimal, thus assumed to be feasible, by various authors using mathematical programming techniques. It pertains to a unit transferring product to one or more units whilst simultaneously receiving feed from another, which is practically infeasible and as such need not be considered as a possible solution. This feature is particularly conspicuous in batch processes with complex recipes wherein production paths can be in opposite directions. This paper presents the unique feature of the S-graph framework to isolate cross-transfer during optimization, whereas the available mathematical programming methods inherently fail neither to detect nor to eliminate this infeasibility. A few examples taken from published literature are presented for demonstration purposes.'
+  author:
+    - family: Hegyháti
+      given: M.
+    - family: Majozi
+      given: T.
+    - family: Holczinger
+      given: T.
+    - family: Friedler
+      given: F.
+  journal: Chemical Engineering Science
+  year: "2009"
+  volume: "64"
+  issue: "3"
+  pages: 605 – 610
+  doi: 10.1016/j.ces.2008.10.018
+  citations-self:
+    - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7'
+    - 'Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1'
+    - 'Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham'
+    - 'Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants, Shaun Engelbrecht and Thokozani Majozi, Industrial & Engineering Chemistry Research Just Accepted Manuscript, doi: 10.1021/acs.iecr.7b04865'
+    - 'Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).'
+    - 'Hegyhati, M., F. Friedler, Overview of Industrial Batch Process Scheduling, Chemical Engineering Transactions, 21, 895-900 (2010).'
+  citations-independent:
+    - 'Marton Frits, Botond Bertok; Scheduling custom printed napkin manufacturing by P-graphs; Computers & Chemical Engineering, 2020,107017, ISSN 0098-1354, https://doi.org/10.1016/j.compchemeng.2020.107017.'
+    - 'CAO Jian, MU Peng, GENG Zhiqiang, ZHU Qunxiong; Research progress and application of of Superstructure Model for Industrial Systems; Journal of Chemical Industry and Engineering, doi: 0.11949/j.issn.0438-1157.20161603'
+    - 'Capón García, E.; Integrated scheduling decision making in enterprise wide optimization.; PhD thesis; Univeritat de Polytechnica de Catalunia (2011).'
+    - 'Czuczai, B., Vegyipari termelıvállalatok problémáinak optimalizálása vegyes-egészértékő programozással, PhD thesis, Budapesti Műszaki és Gazdaságtudományi Egyetem, 2009'
+  impact-factor: "2.136"
+- id: Holczinger2007
+  type: incollection
+  title: 'An automated algorithm for throughput maximization under fixed time horizon in multipurpose batch plants: S-Graph approach'
+  abstract: 'This paper presents a graph-theoretic technique for scheduling of multipurpose batch processes with the objective of maximizing throughputover a fixed time horizon. The presented technique is based on the S-graph framework which embeds the necessary scheduling information pertaining to recipes of different batches and possible resource allocation. The distinct feature of this contribution is the irrelevance of time horizon discretization which has become traditional in most mathematical programming techniques. Consequently, no presupposition of time points is required, thereby rendering the technique truly continuous in time. A comparison withtime point based techniques is conducted to demonstrate the performance.'
+  author:
+    - family: Holczinger
+      given: Tibor
+    - family: Majozi
+      given: Thokozani
+    - family: Hegyhati
+      given: Mate
+    - family: Friedler
+      given: Ferenc
+  journal: Computer Aided Chemical Engineering
+  year: "2007"
+  volume: "24"
+  pages: 649 – 654
+  doi: 10.1016/S1570-7946(07)80131-3
+  citations-self:
+    - 'Hegyhati, M., T. Majozi, T. Holczinger, F. Friedler, Practical infeasibility of cross-transfer in batch plants with complex recipes: S-graph vs MILP methods, Chemical Engineering Science, 64, 605-610 (2009).'
+  citations-independent: []

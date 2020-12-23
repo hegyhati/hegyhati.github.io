@@ -1,0 +1,230 @@
+---
+diploma:
+
+  MSc:
+
+  - student: Tamás Biczó
+    original_title: Webes interaktív megoldó lineáris programozási feladatokhoz
+    title: Interactive online solver for linear programming problems
+    course: Masters in Computer Science Engineering
+    university: Széchenyi István University
+    date: 2019.01.31.
+    grade: Excellent
+
+  - student: Zsolt Nemes
+    original_title: Reaktív ütemezési módszer S-gráf alapokon
+    title: S-graph based reactive scheduling method
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2017.01.18.
+    grade: Excellent
+
+  - student: Tamás Nyitrai
+    original_title: "“Free to play, run to win” játék Androidra"
+    title: "“Free to play, run to win” game for Android"
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2017.01.18.
+    grade: Excellent
+
+  - student: Olivér Ősz
+    original_title: Konfliktusfeloldáson alapuló ütemezési módszer kifejlesztése az
+      S-gráf keretrendszerhez
+    title: Development of a novel scheduling approach based on incompatible sets
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2016.06.15.
+    grade: Excellent
+
+  - student: Balázs Kovács
+    original_title: Grafikus felület ütemezési feladatokat megoldó szoftverhez
+    title: Graphical user interface for scheduling solver
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2016.01.20.
+    grade: Excellent
+
+  - student: László Szabó
+    original_title: Hexagon alapú, körökre osztott játékmotor
+    title: Game engine for turn-based strategy and rpg games with hexagonal layout
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2015.06.10.
+    grade: Excellent
+
+  - student: Zoltán Gulácsi
+    original_title: Interaktív grafikus felület throughput maximalizálási feladatok
+      S-gráf módszertanon alapuló megoldásához
+    title: Interactive graphical user interface for the S-graph based solution of
+      throughput maximization problems
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2014.06.11.
+    grade: Excellent
+
+  - student: Anikó Bartos
+    original_title: Mobilalkalmazás fejlesztése tarifacsomagok közötti váltás támogatásához
+    title: Mobile application to support tariff selection
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2014.06.11.
+    grade: Excellent
+
+  - student: Ferenc Tollas
+    original_title: Developement of Eclipse plug-in for programming specific tests
+    title: Developement of Eclipse plug-in for programming specific tests
+    course: Master of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2012.01.17.
+    grade: Excellent
+
+    
+  BSc:
+
+  - student: Petra Vida
+    original_title: DFA Crush - egy automataelméleti játék
+    title: DFA Crush - an automata theory game
+    course: Bachelor in Computer Science Engineering
+    university: Széchenyi István University
+    date: 2020.02.05.
+    grade: Excellent
+
+  - student: Gergő Molnár
+    original_title: Throughput maximalizálás szakaszos üzemű rendszerekben
+    title: Throughput maximization in batch production systems
+    course: Bachelor in Computer Science Engineering
+    university: Széchenyi István University
+    date: 2020.02.06.
+    grade: Excellent
+
+  - student: Olivér Dunár
+    original_title: S-gráf alapú várható profit maximalizálás sztochasztikus környezetben
+    title: Expected profit maximization in a stochastic environment with the S-graph
+      framework
+    course: Bachelor in Computer Science Engineering
+    university: Széchenyi István University
+    date: 2019.06.28.
+    grade: Excellent
+
+  - student: Balázs Szilágyi
+    original_title: Árösszehasonlító webalkalmazás hangszer vásárláshoz
+    title: Comparison shopping website for musical instruments
+    course: Bachelor in Computer Science Engineering
+    university: Széchenyi István University
+    date: 2019.01.29.
+    grade: Excellent
+
+  - student: Judit Vida
+    original_title: Egylépéses gyártási feladatok költség optimális ütemezése időzített
+      automatával
+    title: Single stage production scheduling with timed automaton
+    course: Bachelor in Business Information Science
+    university: Széchenyi István University
+    date: 2019.01.29.
+    grade: Excellent
+
+  - student: Evelin Böröndi
+    original_title: Veszprémi tömegközlekedést támogató okostelefon alkalmazás
+    title: Smartphone app for planning local transportation in Veszprém
+    course: Bachelor of Business Information Technology
+    university: University of Pannonia
+    date: 2018.01.??.
+    grade: Excellent
+
+  - student: István Decsi
+    original_title: Grafilogika megoldó rendszer
+    title: Nonogram solver framework
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2017.01.??.
+    grade: Excellent
+
+  - student: János Barta
+    original_title: Teljesítménytúra naptárt támogató adatbázis és webalkalmazás
+    title: Web application for performance hiking calendar
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2016.01.??.
+    grade: Good
+
+  - student: Máté Kertai
+    original_title: Harc a világért játék megvalósítása Hexengine alapokon
+    title: Adaptation of the “Harc a világért” table game with Hexengine
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2015.06.15.
+    grade: Good
+
+  - student: Péter Mohos
+    original_title: Nosztalgia alkalmazás Android platformra
+    title: Nostalgia application for Android
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2015.01.05.
+    grade: Excellent
+
+  - student: Gergely Koller
+    original_title: Barokk zeneszerzést gyakorló szoftver fejlesztlése
+    title: Development of a software supporting the study of baroque composing methods
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2015.01.05.
+    grade: Excellent
+
+  - student: Zsolt Ádám Nemes
+    original_title: S-gráf megoldó heurisztikus gyorsításai
+    title: Heuristic accelerations of the S-graph solver
+    course: Bachelor of Software Information Technology
+    university: University of Pannonia
+    date: 2015.01.06.
+    grade: Excellent
+
+  - student: Olivér Ősz
+    original_title: Új S-gráf alapú algoritmusok kifejlesztése automated wet-etch
+      station ütemezésére
+    title: New S-graph based algorithms for the scheduling of wet-etch stations
+    course: Bachelor of Software Information Technology
+    university: University of Pannonia
+    date: 2014.06.13.
+    grade: Excellent
+
+  - student: Dénes Papp
+    original_title: Hegedűversenyt támogató webes rendszer fejlesztése
+    title: Web based system for supporting violin competitions
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2014.01.06.
+    grade: Excellent
+
+  - student: Balázs Kovács
+    original_title: S-gráf megoldó továbbfejlesztése az automated wet-etch station
+      feladat kezelésére
+    title: Extension of the S-graph solver system to address AWS problems
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2014.01.06.
+    grade: Excellent
+
+  - student: András Éles
+    original_title: Ütemezési feladatmegoldó módszer választását támogató szoftver
+    title: Advisory system for choosing solution approach for batch scheduling problems
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2014.01.06.
+    grade: Excellent
+
+  - student: László Szabó
+    original_title: Androidról vezérelt játékkonzol-rendszer
+    title: Android based game console system
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2013.01.07.
+    grade: Excellent
+
+  - student: Tamás Hollósi
+    original_title: Izometrikus játékmotor Androidra
+    title: Isomertic game engine for Android
+    course: Bachelor of Engineering in Information Technology
+    university: University of Pannonia
+    date: 2012.06.12.
+    grade: Excellent
