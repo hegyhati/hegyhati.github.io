@@ -28,8 +28,7 @@ regular:
   university: University of Sopron
   city: Sopron
   country: Hungary
-  start: 2020
-  end: 2021
+  start: 2020  
 
 - course: Web development techniques 2
   university: University of Sopron
@@ -43,35 +42,31 @@ regular:
   city: Gyor
   country: Hungary
   start: 2019
-  end: 2020
 
 - course: Modeling and optimization in practice
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2019
-  end: 2020
 
 - course: Compilers
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
-  start: 2019
-  end: 2021
+  start: 2019  
 
 - course: Object-oriented programming and databases
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2018
-  end: 2020
 
 - course: Formal languages and automata theory
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2017
-  end: 2021
+  
 
 - course: Formal methods
   university: Szechenyi Istvan University
@@ -79,7 +74,7 @@ regular:
   country: Hungary
   start: 2016
   end: 2018
-  end: 2021
+  
 
 - course: Web technologies
   university: Szechenyi Istvan University
