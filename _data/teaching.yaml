@@ -1,46 +1,77 @@
 regular:
 
+- course: Programming basics in Python 2
+  university: University of Sopron
+  city: Sopron
+  country: Hungary
+  start: 2021
+
+- course: Basics of software development
+  university: University of Sopron
+  city: Sopron
+  country: Hungary
+  start: 2021
+
+- course: Programming basics in Python 1
+  university: University of Sopron
+  city: Sopron
+  country: Hungary
+  start: 2020
+
+- course: Decision support techniques
+  university: University of Sopron
+  city: Sopron
+  country: Hungary
+  start: 2020
+
 - course: Programming basics in Java 2
   university: University of Sopron
   city: Sopron
   country: Hungary
   start: 2020
+  end: 2021
 
 - course: Web development techniques 2
   university: University of Sopron
   city: Sopron
   country: Hungary
   start: 2020
+  end: 2020
 
 - course: Tools for modern software development
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2019
+  end: 2020
 
 - course: Modeling and optimization in practice
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2019
+  end: 2020
 
 - course: Compilers
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2019
+  end: 2021
 
 - course: Object-oriented programming and databases
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2018
+  end: 2020
 
 - course: Formal languages and automata theory
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2017
+  end: 2021
 
 - course: Formal methods
   university: Szechenyi Istvan University
@@ -48,6 +79,7 @@ regular:
   country: Hungary
   start: 2016
   end: 2018
+  end: 2021
 
 - course: Web technologies
   university: Szechenyi Istvan University
