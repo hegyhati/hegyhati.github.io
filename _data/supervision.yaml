@@ -81,6 +81,14 @@ diploma:
     
   BSc:
 
+  - student: Katalin Hadarics
+    original_title: Járműütemezési feladatok vizsgálata
+    title: Vehicle scheduling - Electric busses
+    course: Bachelor in Business Information Science
+    university: Széchenyi István University
+    date: 2021.01.26.
+    grade: Excellent
+
   - student: Petra Vida
     original_title: DFA Crush - egy automataelméleti játék
     title: DFA Crush - an automata theory game
