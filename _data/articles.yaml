@@ -382,6 +382,7 @@
     - 'Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1'
     - "Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 doi:10.3303/CET1870195"
   citations-independent:
+    - 'Éles, A., Heckl, I. & Cabezas, H. New general mixed-integer linear programming model for mobile workforce management. Optim Eng (2021). https://doi.org/10.1007/s11081-021-09597-0'
     - "Eles A., Cabezas H., Heckl I., 2018, Heuristic algorithm utilizing mixed-integer linear programming to schedule mobile workforce , Chemical Engineering Transactions, 70, 895-900 doi:10.3303/CET1870150"
     - 'Carvajal, Y., Corsario, G., González, M., Vereist, H. & González, E., Methodology for a synthesis and optimal design in batch plant, Afinidad, Metodología para la síntesis y diseño óptimo de plantas discontinuas, 69, 295-300, (2012).'
 - id: Hegyhati2011
@@ -456,6 +457,7 @@
   citations-self:
     - 'Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).'
   citations-independent:
+    - 'Éles, A., Heckl, I. & Cabezas, H. New general mixed-integer linear programming model for mobile workforce management. Optim Eng (2021). https://doi.org/10.1007/s11081-021-09597-0'
     - 'Kopanos G.M., Puigjaner L. (2019) State of the Art. In: Solving Large-Scale Production Scheduling and Planning in the Process Industries. Springer, Cham'
     - "李迁, et al. 基于多承包商资源共享的混凝土拌合站的动态配置研究. 预测 2 (2013): 49-54."
     - 'Gleizer, G. A., Optimal Task Scheduling for Fieldbuses Applied to FoundationTM Fieldbus, Msc thesis, UFJR, 2013'
