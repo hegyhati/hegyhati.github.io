@@ -1,43 +1,58 @@
 ---
 layout: default
-title:  "List of Publications"
+title:  "List of Publications & Graduated Ph.D. students"
 id: publications
 ---
 
 
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="card bg-basic">
-                <div class="card-header">
-                    <h4>Journal articles & short papers<span class="badge badge-pill badge-dark float-right">{{site.data.articles.size}}</span></h4> 
-                </div>
-                <div class="card-body">
-                    <ul class="list-group list-group-flush">
-                    {% assign articles = (site.data.articles | reverse | sort: "year") | reverse %}
-                    {% for pub in articles %}
-                        <li class="list-group-item">{% include article.html %}</li>
-                    {% endfor %}
-                    </ul>
-                </div>
+<h3 class="py-3" id="phd">Graduated Ph.D. students</h3>
+<ul class="list-group list-group-flush">
+    {% assign phds = (site.data.supervision.phd | reverse | sort: "year") | reverse  %}
+    {% for phd in  phds %}
+        <li class="list-group-item">
+            <b>{{ phd.student }}</b> - <u>{{phd.title}}</u> <br />
+            {% if phd.co-supervisor %}Co-supervised with {{phd.co-supervisor}} <br />{% endif %}
+            {{phd.school}}, {{phd.university}}, {{phd.date}} <br />
+            <i>{{phd.grade}}</i>
+        </li>
+    {% endfor %}
+</ul>
+
+<h3 class="py-3" id="publications">Publications</h3>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="card bg-basic">
+            <div class="card-header">
+                <h4>Journal articles & short papers<span class="badge badge-pill badge-dark float-right">{{site.data.articles.size}}</span></h4> 
             </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="card bg-basic">
-                <div class="card-header">
-                    <h4>Conference presentations & posters <span class="badge badge-pill badge-dark float-right">{{site.data.presentations.size}}</span></h4>
-                </div>
-                <div class="card-body">
-                    <ul class="list-group list-group-flush">
-                    <!-- assign presentationstemp = sites.data.presentations | where_exp :  "type" , "type" contains "keynote" -->
-                    {% assign presentations = (site.data.presentations | reverse | sort: "year") | reverse  %}
-                    {% for pres in  presentations %}
-                        <li class="list-group-item">{% include presentation.html %}</li>
-                    {% endfor %}
-                    </ul>
-                </div>
+            <div class="card-body">
+                <ul class="list-group list-group-flush">
+                {% assign articles = (site.data.articles | reverse | sort: "year") | reverse %}
+                {% for pub in articles %}
+                    <li class="list-group-item">{% include article.html %}</li>
+                {% endfor %}
+                </ul>
             </div>
         </div>
     </div>
+    <div class="col-lg-6">
+        <div class="card bg-basic">
+            <div class="card-header">
+                <h4>Conference presentations & posters <span class="badge badge-pill badge-dark float-right">{{site.data.presentations.size}}</span></h4>
+            </div>
+            <div class="card-body">
+                <ul class="list-group list-group-flush">
+                <!-- assign presentationstemp = sites.data.presentations | where_exp :  "type" , "type" contains "keynote" -->
+                {% assign presentations = (site.data.presentations | reverse | sort: "year") | reverse  %}
+                {% for pres in  presentations %}
+                    <li class="list-group-item">{% include presentation.html %}</li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
