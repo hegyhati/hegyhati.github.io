@@ -1,3 +1,20 @@
+- id: David2021
+  type: article
+  title: Robust Scheduling of Waste Wood Processing Plants with Uncertain Delivery Sources and Quality
+  author:
+    - family: Dávid
+      given: Balázs
+    - family: Ősz
+      given: Olivér
+    - family: Hegyháti
+      given: Máté
+  journal: Sustainability
+  year: "2021"
+  volume: "13"
+  pages: "5007"
+  ISSN: 2509-4246
+  url: " https://doi.org/10.3390/su13095007"
+  doi: 10.3390/su13095007
 - id: Osz2020
   type: article
   title: "Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach"
@@ -10,8 +27,8 @@
       given: Máté
   journal: Process Integration and Optimization for Sustainability
   year: "2020"
-  volume?: "?"
-  pages?: "??-??"
+  volume: "5"
+  pages: "31-42"
   ISSN: 2509-4246
   url: "https://doi.org/10.1007/s41660-020-00142-7"
   doi: 10.1007/s41660-020-00142-7
