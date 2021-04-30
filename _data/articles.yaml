@@ -274,20 +274,23 @@
   pages: 889 – 894
   doi: 10.3303/CET1335148
   citations-self:
-    - 'Ali, R.A.; Nik Ibrahim, N.N.L.; Lam, H.L. Conversion Technologies: Evaluation of Economic Performance and Environmental Impact Analysis for Municipal Solid Waste in Malaysia. Processes 2019, 7, 752.'
     - 'Ali, Rabiatul & Ibrahim, Nik & Lam, Hon. (2019). Conversion Technologies: Evaluation of Economic Performance and Environmental Impact Analysis for Municipal Solid Waste in Malaysia. Processes. 7. 752. 10.3390/pr7100752.'
     - 'Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 doi:10.3303/CET1761001'
     - 'Lim, C.H., Lam, H.L.; Biomass Demand-Resources Value Targeting; (2014) Energy Conversion and Management, 87, pp. 1202-1209.'
   citations-independent:
     - 'Mohammad Mojtahedi, Amir M. Fathollahi-Fard, Reza Tavakkoli-Moghaddam, Sidney Newton, Sustainable Vehicle Routing Problem for Coordinated Solid Waste Management, Journal of Industrial Information Integration, 2021, 100220,ISSN 2452-414X, https://doi.org/10.1016/j.jii.2021.100220.'
+    - 'Mohammadi Maryam et al. Performance analysis of waste-to-energy technologies for sustainable energy generation in integrated supply chains. (2020) COMPUTERS & CHEMICAL ENGINEERING 0098-1354 1873-4375 140 p. 106905'
     - 'Mirnezami, S., siadat, A., Shahabi, R. (2020). A Fuzzy Location-Allocation Problem for Sustainable Design of a Municipal Solid Waste Management Network, Journal of Quality Engineering and Production Optimization, 5(1), pp. 165-188. doi: 10.22070/jqepo.2020.5733.1166'
     - 'Ajay Singh, Solid waste management through the applications of mathematical models, Resources, Conservation and Recycling, Volume 151, 2019, 104503, ISSN 0921-3449, https://doi.org/10.1016/j.resconrec.2019.104503.'
-    - 'Asefi, H., Lim, S., Maghrebi, M. et al. Ann Oper Res (2019) 273: 75. https://doi.org/10.1007/s10479-018-2912-1'
     - 'Hossein Asefi, Shahrooz Shahparvari, Prem Chettri, Samsung Lim, Variable fleet size and mix VRP with fleet heterogeneity in Integrated Solid Waste Management, Journal of Cleaner Production, 2019, https://doi.org/10.1016/j.jclepro.2019.04.250'
     - 'Asefi, H., Lim, S., Maghrebi, M. et al., Mathematical modelling and heuristic approaches to the location-routing problem of a cost-effective integrated solid waste management, Ann Oper Res (2018), 1-36. https://doi.org/10.1007/s10479-018-2912-1'
     - 'Pintaric, Z. N., Kravanja, Z.; The Importance of using Discounted Cash Flow Methodology in Techno-economic Analyses of Energy and Chemical Production Plants; (2017) Journal of Sustainable Development of Energy, Water and Environment Systems, 5(2), pp. 163-176.'
+    - 'Šomplák R et al. Input data validation for complex supply chain models applied to waste management. (2017) CHEMICAL ENGINEERING TRANSACTIONS 1974-9791 2283-9216 56 1921-1926'
+    - 'Frattini D et al. On the effect of different configurations in air-cathode MFCs fed by composite food waste for energy harvesting. (2016) CHEMICAL ENGINEERING TRANSACTIONS 1974-9791 2283-9216 49 85-90'
+    - 'Lim Chun Hsion et al. Biomass Demand-Resources Value Targeting. (2014) ENERGY CONVERSION AND MANAGEMENT 0196-8904 87 1202-1209'
     - 'Wu, T. Y., S. L. Lim, P. N. Lim, K. P. Y. Shak, Biotransformation of Biodegradable Solid Wastes into Organic Fertilizers using Composting or/and Vermicomposting, Chemical Engineering Transactions, 1579-1584, 39, 2014'
     - 'Tan, S.T., Lee, C.T., Hashim, H., Ho, W.S., Lim, J.S., Optimal process network for municipal solid waste management in Iskandar Malaysia, Journal of Cleaner Production, 71, pp. 48-58. (2014)'
+    - 'Santibanez-Aguilara JE et al. Optimal Planning of Supply Chains for Multi-Product Generation from Municipal Solid Waste. (2014) CHEMICAL ENGINEERING TRANSACTIONS 1974-9791 2283-9216 42 55-60'
 - id: Hegyhati2013
   type: article
   title: Colorability of mixed hypergraphs and their chromatic inversions
@@ -307,10 +310,7 @@
   citations-independent:
     - 'Caro, Y., Lauri, J., Zarb, C.; Constrained colouring and σ-hypergraphs; (2015) Discussiones Mathematicae - Graph Theory, 35 (1), pp. 171-189.'
     - 'Caro, Y., Lauri, J.,Non-monochromatic non-rainbow colourings of σ-hypergraphs to the memory of Lucia Gionfriddo, (2014) Discrete Mathematics, 318 (1), pp. 96-104.'
-    - 'Caro, Y., J. Lauri, C. Zarb; Constrained colouring and σ-hypergraphs; ArXiv e-prints, arXiv:1401.1920'
-    - 'Csernenszky, A., R. R. Martin, A. Pluhár; On the complexity of chooser-picker positional games; Integers, 12 (3), 427-444 (2012).'
     - 'Cserneszky, A.; The Chooser-picker games; PhD thesis; University of Szeged, Hungary; 2011'
-    - 'Caro, Y., Lauri J.; Non-monochromatic non-rainbow colourings of σ-hypergraphs; ArXiv e-prints, arXiv:1307.6642'
   impact-factor: 0.592(2012)
 - id: Nemet2012
   type: article
@@ -334,6 +334,7 @@
   citations-independent:
     - 'Ampelli, C., Passalacqua, R., Genovese, C., Perathoner, S., Centi, G., Montini, T., Gombac, V., Fornasiero, P.; Solar energy and biowaste conversion into H2 on CuOx/TiO2 nanocomposites; Chemical Engineering
       Transactions, 35, 583-588 (2013).'
+    - 'Touš M. Waste-to-energy plant operation planning based on stochastic simulation. (2014) CHEMICAL ENGINEERING TRANSACTIONS 1974-9791 2283-9216 39 Special Issue 673-678'
 - id: Holczinger2012
   type: article
   title: Simultaneous heat integration and batch process scheduling
@@ -353,7 +354,6 @@
   citations-self:
     - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7'
   citations-independent:
-    - 'Majozi T. (2018) Augmented Heat Integration in Multipurpose Batch Plants Using Multiple Heat Storage Vessels. In: De S., Bandyopadhyay S., Assadi M., Mukherjee D. (eds) Sustainable Energy Technology and Policies. Green Energy and Technology. Springer, Singapore. https://doi.org/10.1007/978-981-10-8393-8_8'
     - 'Simbarashe R. Magege, Thokozani Majozi, A comprehensive framework for synthesis and design of heat-integrated batch plants: Consideration of intermittently-available streams, Renewable and Sustainable Energy Reviews, Volume 135, 2021, 110125, ISSN 1364-0321,https://doi.org/10.1016/j.rser.2020.110125.'
     - 'Suresh Jogwar, S.; Mete, S.; Mathpati, C.S. Scheduling of Energy-Integrated Batch Process Systems Using a Pattern-Based Framework. Processes 2019, 7, 103.'
     - 'Majozi T. (2018) Augmented Heat Integration in Multipurpose Batch Plants Using Multiple Heat Storage Vessels. In: De S., Bandyopadhyay S., Assadi M., Mukherjee D. (eds) Sustainable Energy Technology and Policies. Green Energy and Technology. Springer, Singapore, https://doi.org/10.1007/978-981-10-8393-8_8'
@@ -361,6 +361,7 @@
     - 'Nthabiseng Sebelebele, Thokozani Majozi, Heat Integration of Multipurpose Batch Plants through Multiple Heat Storage Vessels, Computers & Chemical Engineering, Available online 7 June 2017, ISSN 0098-1354,
       https://doi.org/10.1016/j.compchemeng.2017.06.007.'
     - 'Mete, S., S. S. Jogwar; A Pattern-based method for the scheduling of Energy Integrated Batch Process Networks, Proceedings of the 11th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (2016).'
+    - 'Sun L., Zou X., Dong H., Wang S., 2016, Simultaneous Optimization of Short-Term Scheduling and Heat Integration Schemes for Multipurpose Batch Plants, Chemical Engineering Transactions, 52, 355-360. DOI: 10.3303/CET1652060'
 - id: Hegyhati2011b
   type: incollection
   title: The role of energy consumption in batch process scheduling
@@ -402,6 +403,7 @@
   citations-independent:
     - 'Éles, A., Heckl, I. & Cabezas, H. New general mixed-integer linear programming model for mobile workforce management. Optim Eng (2021). https://doi.org/10.1007/s11081-021-09597-0'
     - "Eles A., Cabezas H., Heckl I., 2018, Heuristic algorithm utilizing mixed-integer linear programming to schedule mobile workforce , Chemical Engineering Transactions, 70, 895-900 doi:10.3303/CET1870150"
+    - 'Carvajal Yailet. Procedimiento para la síntesis y el diseño óptimo de plantas discontinuas de obtención de bioetanol empleando bagazo de caña de azúcar. (2013)'
     - 'Carvajal, Y., Corsario, G., González, M., Vereist, H. & González, E., Methodology for a synthesis and optimal design in batch plant, Afinidad, Metodología para la síntesis y diseño óptimo de plantas discontinuas, 69, 295-300, (2012).'
 - id: Hegyhati2011
   type: article
@@ -420,11 +422,10 @@
   doi: 10.1007/s10098-009-0240-5
   citations-self: []
   citations-independent:
-    - 'Leong, Yik & Lee, Jui-Yuan & Chew, Irene. (2015). Incorporating Timesharing Scheme in Ecoindustrial Multiperiod Chilled and Cooling Water Network Design. Industrial & Engineering Chemistry Research. 55. 10.1021/acs.iecr.5b02722.'
+    - 'Lam HL. Extended P-graph applications in supply chain and Process Network Synthesis. (2013) CURRENT OPINION IN CHEMICAL ENGINEERING 2211-3398 2 4 475-486'
     - 'Francesco Rossi, Daniel Casas-Orozco, Gintaras Reklaitis, Flavio Manenti, Guido Buzzi-Ferraris; A Computational Framework for Integrating Campaign Scheduling, Dynamic Optimization and Optimal Control in Multi-Unit Batch Processes, Computers & Chemical Engineering, Available online 1 June 2017'
     - 'Yik Teeng Leong Jui-Yuan Lee Irene Mei leng Chew; INCORPORATING TIMESHARING SCHEME IN ECO-INDUSTRIAL MULTI-PERIOD CHILLED AND COOLING WATER NETWORK DESIGN; Ind. Eng. Chem. Res., Just Accepted Manuscript; doi: 10.1021/acs.iecr.5b02722; Publication Date (Web): December 9, 2015'
     - 'Schoppmeyer, C., Subbiah, S., De La Fuente Valdès, J.M., Engell, S.; Dynamic scheduling of shuttle robots in the warehouse of a polymer plant based on dynamically configured timed automata models; (2014) Industrial and Engineering Chemistry Research, 53 (44) pp. 17135-17154.'
-    - 'Christian Schoppmeyer, Subanatarajan Subbiah, Josè Manuel De La Fuente Valdès, and Sebastian Engell, Dynamic Scheduling of Shuttle Robots in the Warehouse of a Polymer Plant Based on Dynamically Configured Timed Automata Models, Industrial & Engineering Chemistry Research'
     - 'Tibor Kocsis, Stéphane Negny, Pascal Floquet, Xuân Meyer, Endre Rév, Case-Based Reasoning System for Mathematical Modeling options and Resolution Methods for Production Scheduling Problems: Case representation, acquisition and retrieval, Computers & Industrial Engineering, Available online 28 September 2014, ISSN 0360-8352, http://dx.doi.org/10.1016/j.cie.2014.09.012.'
   impact-factor: "2.237"
 - id: Hegyhati2010
@@ -511,8 +512,11 @@
     - 'Hegyhati, M., F. Friedler, Overview of Industrial Batch Process Scheduling, Chemical Engineering Transactions, 21, 895-900 (2010).'
   citations-independent:
     - 'Marton Frits, Botond Bertok; Scheduling custom printed napkin manufacturing by P-graphs; Computers & Chemical Engineering, 2020,107017, ISSN 0098-1354, https://doi.org/10.1016/j.compchemeng.2020.107017.'
+    - 'Adamo T. Robust Batch Process Scheduling in Pharmaceutical Industries: A Case Study. (2015) International Science Indec International Journal of Mathematical, Computational, Physical, Electrical and Computer Engineering 9 7 345-348'
     - 'CAO Jian, MU Peng, GENG Zhiqiang, ZHU Qunxiong; Research progress and application of of Superstructure Model for Industrial Systems; Journal of Chemical Industry and Engineering, doi: 0.11949/j.issn.0438-1157.20161603'
     - 'Capón García, E.; Integrated scheduling decision making in enterprise wide optimization.; PhD thesis; Univeritat de Polytechnica de Catalunia (2011).'
+    - 'R Bolliger. Methodologie de la synthese des systems energetiques industriels. (2010)'
+    - 'Emhamed Abdulfatah M. Optimization of Chemical Processes Using Mathematical Programming. (2009)'
     - 'Czuczai, B., Vegyipari termelıvállalatok problémáinak optimalizálása vegyes-egészértékő programozással, PhD thesis, Budapesti Műszaki és Gazdaságtudományi Egyetem, 2009'
   impact-factor: "2.136"
 - id: Holczinger2007
@@ -535,4 +539,5 @@
   doi: 10.1016/S1570-7946(07)80131-3
   citations-self:
     - 'Hegyhati, M., T. Majozi, T. Holczinger, F. Friedler, Practical infeasibility of cross-transfer in batch plants with complex recipes: S-graph vs MILP methods, Chemical Engineering Science, 64, 605-610 (2009).'
+    - 'Hegyháti Máté et al. Addressing storage time restrictions in the S-graph scheduling framework. (2020) OPTIMIZATION AND ENGINEERING 1389-4420 1573-2924'
   citations-independent: []
