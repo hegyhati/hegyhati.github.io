@@ -1,4 +1,17 @@
 - author: Ősz, O.,  M. Hegyhati
+  title: Improving solution performance of the S-graph scheduling framework
+  conference: The 34th conference of the European Chapter on Combinatorial Optimization
+  conferenceshort: ECCO 2021
+  city: Madrid
+  country: Spain
+  date: June 10 - June 11
+  year: '2021'
+  type:
+  - oral
+  - international
+  - collaborator
+
+- author: Ősz, O.,  M. Hegyhati
   title: Energy usage minimization with the S-graph framework
   conference: Middle-European Conference on Applied Theoretical Computer Science
   conferenceshort: MATCOS-19
@@ -24,7 +37,7 @@
 
 - author: Ősz, O.,  M. Hegyhati
   title: A novel MILP model for cyclic scheduling with interlacing
-  conference: Energy usage minimization with the S-graph framework
+  conference: The 32nd conference of the European Chapter on Combinatorial Optimization
   conferenceshort: ECCO 2019
   city: St. Julian's
   country: Malta
