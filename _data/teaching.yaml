@@ -1,5 +1,11 @@
 regular:
 
+- course: Introduction to programming in JS
+  university: University of Sopron
+  city: Sopron
+  country: Hungary
+  start: 2021
+
 - course: Programming basics in Python 2
   university: University of Sopron
   city: Sopron
@@ -181,12 +187,14 @@ phd:
   city: Gyor
   country: Hungary
   start: 2017
+  end: 2020
 
 - course: Automata and formal languages
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2017
+  end: 2020
 
 - course: Methods of Practical Optimization
   university: Szechenyi Istvan University
