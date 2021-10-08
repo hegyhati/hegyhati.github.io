@@ -1,3 +1,18 @@
+- id: David2021b
+  type: incollection
+  title: Scheduling of Waste Wood Processing Facilities with Overlapping Jobs
+  author:
+    - family: Dávid
+      given: Balázs
+    - family: Ősz
+      given: Olivér
+    - family: Hegyháti
+      given: Máté
+  journal: Proceedings of the 16th International Symposium on Operational Research in Slovenia
+  year: "2021"
+  pages: "321-326"
+  ISBN: 978-961-6165-57-0
+  url: "http://fgg-web.fgg.uni-lj.si/~/sdrobne/sor/SOR'21%20-%20Proceedings.pdf"
 - id: David2021
   type: article
   title: Robust Scheduling of Waste Wood Processing Plants with Uncertain Delivery Sources and Quality
