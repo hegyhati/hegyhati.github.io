@@ -1,10 +1,24 @@
+
+- author: Dávid, B., O. Ősz,  M. Hegyhati
+  title: Scheduling of Waste Wood Processing Facilities with Overlapping Jobs
+  conference: The 16th International Symposium on Operational Research in Slovenia
+  conferenceshort: SOR '21
+  city: Bled
+  country: Slovenia
+  date: Sept 22-24
+  year: '2021'
+  type:
+  - oral
+  - international
+  - collaborator
+
 - author: Ősz, O.,  M. Hegyhati
   title: Improving solution performance of the S-graph scheduling framework
   conference: The 34th conference of the European Chapter on Combinatorial Optimization
   conferenceshort: ECCO 2021
   city: Madrid
   country: Spain
-  date: June 10 - June 11
+  date: Jun 10 - Jun 11
   year: '2021'
   type:
   - oral
