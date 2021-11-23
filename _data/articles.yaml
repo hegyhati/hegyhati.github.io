@@ -467,6 +467,7 @@
     - 'Hegyhati, M., T. Holczinger, A. Szoldatics, F. Friedler, Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time Chemical Engineering Transactions, Chemical Engineering Transactions, 25, 495-500 (2011).'
     - 'Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).'
   citations-independent:
+    - 'Szili L., Frits M., Bertok B., 2021, Accelerating the Search for Optimal Solution of Integrated Process-Network Synthesis and Scheduling, Chemical Engineering Transactions, 88, 1189-1194 DOI:10.3303/CET2188198'
     - "Mohamed Awad ,Konrad Mulrennan ,John Donovan ,Russell Macpherson ,   David Tormey ,  A  constraint  programming  model  for  makespan  minimisa-tion in batch manufacturing pharmaceutical facilities,Computers  and  Chemical  Engineering(2021),doi: https://doi.org/10.1016/j.compchemeng.2021.107565"
     - " Ning C., You F., 2017, Batch process scheduling under uncertainty using data-driven multistage adaptive robust optimization, Chemical Engineering Transactions, 61, 1567-1572 doi:10.3303/CET1761259"
     - 'Aguirre, Adrián M., Carlos A. Méndez, Álvaro García-Sánchez, Miguel Ortega-Mier, Pedro M. Castro, General Framework for Automated Manufacturing Systems: Multiple Hoists Scheduling Solution, Chemical Engineering Transactions, 32, 1381-1386, (2013).'
@@ -528,6 +529,7 @@
     - 'Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).'
     - 'Hegyhati, M., F. Friedler, Overview of Industrial Batch Process Scheduling, Chemical Engineering Transactions, 21, 895-900 (2010).'
   citations-independent:
+    - 'Szili L., Frits M., Bertok B., 2021, Accelerating the Search for Optimal Solution of Integrated Process-Network Synthesis and Scheduling, Chemical Engineering Transactions, 88, 1189-1194 DOI:10.3303/CET2188198'
     - 'Engelbrecht, Shaun & Majozi, Thokozani. (2018). Introducing the Concept of Roving Pumps in the Synthesis of Multipurpose Batch Plants. Industrial & Engineering Chemistry Research. 57. 10.1021/acs.iecr.7b04865.'
     - 'Marton Frits, Botond Bertok; Scheduling custom printed napkin manufacturing by P-graphs; Computers & Chemical Engineering, 2020,107017, ISSN 0098-1354, https://doi.org/10.1016/j.compchemeng.2020.107017.'
     - 'Adamo T. Robust Batch Process Scheduling in Pharmaceutical Industries: A Case Study. (2015) International Science Indec International Journal of Mathematical, Computational, Physical, Electrical and Computer Engineering 9 7 345-348'
