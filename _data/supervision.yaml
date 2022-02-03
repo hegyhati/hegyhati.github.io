@@ -14,6 +14,14 @@ diploma:
 
   MSc:
 
+  - student: Bernadett Schmidt
+    original_title: Erőforrás-menedzsment webalkalmazás
+    title: Project / Human Resource Management web application
+    course: Masters in Business Information Science
+    university: Széchenyi István University
+    date: 2022.02.02.
+    grade: Good
+
   - student: Tamás Biczó
     original_title: Webes interaktív megoldó lineáris programozási feladatokhoz
     title: Interactive online solver for linear programming problems
@@ -92,12 +100,20 @@ diploma:
     
   BSc:
 
+  - student: Nikolett Sós
+    original_title: Precedencia alapú MILP modellek hatékonyságának vizsgálata gyártórendszerek ütemezésében
+    title: Performance analysis of precedence-based MILP models of production scheduling problems
+    course: Bachelor in Computer Science Engineering
+    university: Széchenyi István University
+    date: 2022.02.01.
+    grade: Excellent
+
   - student: Erik Gróf
     original_title: Faipari ütemező alkalmazás
     title: Scheduling application for the wood industry
     course: Bachelor in Computer Science Engineering
     university: Széchenyi István University
-    date: 2020.06.30.
+    date: 2021.06.30.
     grade: Excellent
 
   - student: Roman Donchenko
@@ -105,7 +121,7 @@ diploma:
     title: Guide application for bicycle tours
     course: Bachelor in Computer Science Engineering
     university: Széchenyi István University
-    date: 2020.06.30.
+    date: 2021.06.30.
     grade: Good
 
   - student: Éva Csordás
@@ -113,7 +129,7 @@ diploma:
     title: Software for modeling the operation of a non-deterministic pushdown automaton
     course: Bachelor in Computer Science Engineering
     university: Széchenyi István University
-    date: 2020.06.30.
+    date: 2021.06.30.
     grade: Good
 
   - student: Patrícia Kovács
