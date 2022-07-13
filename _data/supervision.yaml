@@ -107,6 +107,14 @@ diploma:
     
   BSc:
 
+  - student: Petra Horváth
+    original_title: Élelmiszer kiszállítást optimalizáló modell készítése
+    title: Development of a food delivery optimization model
+    course: Bachelor in Business Information Sciencce
+    university: Széchenyi István University
+    date: 2022.07.04.
+    grade: Good
+
   - student: Nikolett Sós
     original_title: Precedencia alapú MILP modellek hatékonyságának vizsgálata gyártórendszerek ütemezésében
     title: Performance analysis of precedence-based MILP models of production scheduling problems
