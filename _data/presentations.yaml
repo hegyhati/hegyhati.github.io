@@ -1,3 +1,27 @@
+- author: Hegyhati M.
+  title: Systematic generation of precedence based MILP models with P-graphs for multipurpose scheduling problems
+  conference: Middle-European Conference on Applied Theoretical Computer Science
+  conferenceshort: MATCOS-22
+  city: Koper
+  country: Slovenia
+  date: Oct 13-14
+  year: '2022'
+  type:
+  - oral
+  - international
+
+- author: Ősz, O., B. Dávid, J. Garab, M. Hegyhati
+  title: Long-term plant-level scheduling with uncertainty in the plywood industry
+  conference: 10th Hardwood Conference
+  conferenceshort: Hardwood '22
+  city: Sopron
+  country: Hungary
+  date: Oct 12-14
+  year: '2022'
+  type:
+  - oral
+  - international
+  - collaborator
 
 - author: Dávid, B., O. Ősz,  M. Hegyhati
   title: Scheduling of Waste Wood Processing Facilities with Overlapping Jobs
