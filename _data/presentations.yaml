@@ -1,3 +1,14 @@
+- author: Ősz, O., M. Hegyhati
+  title: Decision Support for Investments in Freshwater Usage Minimization of Production Processes with Integrated Scheduling Methods
+  conference: "Society - Economy - Nature: Synergies in Sustainable Development"
+  city: Sopron
+  country: Hungary
+  date: Nov 3
+  year: '2022'
+  type:
+  - oral
+  - international
+
 - author: Hegyhati M.
   title: Systematic generation of precedence based MILP models with P-graphs for multipurpose scheduling problems
   conference: Middle-European Conference on Applied Theoretical Computer Science
