@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            FMK MTMT magic
+        </title>
+        <script>
+            function go() {
+                let year = document.getElementById("year").value
+                let iid = document.getElementById("institute").value
+                let url = `https://m2.mtmt.hu/api/publication?cond=publishedYear;eq;${year}&cond=institutes;inica;${iid}&cond=category.mtid;eq;1`
+                document.getElementById("url").innerHTML=url
+                document.getElementById("url").href=url
+                document.getElementById("list").src=url
+            }
+        </script>
+    </head>
+    <body>
+        <label for="year">Year:</label>
+        <select name="year" id="year" onchange="go()">
+            <option value="2023">2023</option>
+            <option value="2022">2022</option>
+            <option value="2021">2021</option>
+            <option value="2020">2020</option>
+        </select>
+
+        <label for="institute">Institute:</label>
+        <select name="institute" id="institute" onchange="go()">
+            <option value="22389">all</option>
+            <option value="19969">AMI</option>
+            <option value="22391">FAIN</option>
+            <option value="22390">FAMI</option>
+            <option value="22392">IMI</option>            
+        </select>
+        <hr />
+        <a id="url" target="_blank"></a>
+        <hr />
+        <iframe id="list"  style="width: 100%; border: 0; margin: 0; padding: 0; min-height: 100vh;"   width="100%" height="100%" ></iframe>
+
+        <script>
+            go()
+        </script>
+    </body>
+</html>
+
