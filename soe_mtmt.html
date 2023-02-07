@@ -7,7 +7,7 @@
         <script>
             function go() {
                 let year = document.getElementById("year").value
-                let iid = document.getElementById("institute").value
+                let iid = document.getElementById("organization").value
                 let url = `https://m2.mtmt.hu/api/publication?cond=publishedYear;eq;${year}&cond=institutes;inica;${iid}&cond=published;eq;true`
                 let type = document.getElementById("type").value
                 if (type.includes('scientific')) url+='&cond=category.mtid;eq;1'
@@ -29,13 +29,54 @@
             <option value="2020">2020</option>
         </select>
 
-        <label for="institute">Institute:</label>
-        <select name="institute" id="institute" onchange="go()">
-            <option value="22389">all</option>
-            <option value="19969">AMI</option>
-            <option value="22391">FAIN</option>
-            <option value="22390">FAMI</option>
-            <option value="22392">IMI</option>            
+        <label for="organization">Organization:</label>
+        <select name="organization" id="organization" onchange="go()">
+            <option value="22389">SOE</option>
+
+            <option disabled>________</option>
+            <option value="19963">BPK</option>
+            <optgroup>
+                <option value="19965">MSTI</option>
+                <option value="19966">NPI</option>
+                <option value="19967">TSZKTI</option>
+            </optgroup>
+
+            <option disabled>________</option>
+            <option value="21953">ERTI</option>
+            <optgroup>
+                <option value="21954">EVO</option>
+                <option value="21955">NO</option>
+                <option value="21956">ÖERO</option>
+                <option value="21957">ÖKO</option>
+                <option value="21958">ÜFO</option>
+            </optgroup>
+
+            <option disabled>________</option>
+            <option value="19990">EMK</option>
+            <optgroup>
+                <option value="21899">ETEGI</option>
+                <option value="22516">GKI</option>
+                <option value="22518">KTI</option>
+                <option value="22515">VVI</option>
+            </optgroup>
+
+            <option disabled>________</option>
+            <option value="22389">FMK</option>
+            <optgroup>
+                <option value="19969">AMI</option>
+                <option value="22391">FAIN</option>
+                <option value="22390">FAMI</option>
+                <option value="22392">IMI</option>
+            </optgroup>
+
+            <option disabled>________</option>
+            <option value="19983">LKK</option>
+            <optgroup>
+                <option value="22510">KNKI</option>
+                <option value="22513">LK</option>
+                <option value="22512">ÖGI</option>
+                <option value="22511">ÜTI</option>
+            </optgroup>
         </select>
 
         <label for="type">Type:</label>
