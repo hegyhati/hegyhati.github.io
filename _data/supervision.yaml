@@ -106,6 +106,13 @@ diploma:
 
     
   BSc:
+  - student: Máté Szabolcs Kiss
+    original_title: Populációgenetikai szoftver hatékonyságának növelése
+    title: Performance enhancement of a genetic clustering software
+    course: Bachelor in Business Information Science
+    university: University of Sopron
+    date: 2023.01.05.
+    grade: Excellent
 
   - student: Petra Horváth
     original_title: Élelmiszer kiszállítást optimalizáló modell készítése
