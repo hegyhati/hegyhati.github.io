@@ -130,6 +130,8 @@
   year: "2019"
   doi: 10.1007/s10696-019-09359-2
   url: "https://doi.org/10.1007/s10696-019-09359-2"
+  citations-independent:
+   - "Storcz, T.; Ercsey, Z.; Horváth, K.R.; Kovács, Z.; Dávid, B.; Kistelegdi, I. Energy Design Synthesis: Algorithmic Generation of Building Shape Configurations. Energies 2023, 16, 2254. https://doi.org/10.3390/en16052254"
 - id: Hegyhati2018c
   type: incollection
   title: Interlacing in cyclic scheduling
