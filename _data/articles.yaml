@@ -1,3 +1,19 @@
+- id: Osz2023
+  type: article
+  title: Comparison of discrete- and continuous-time models for scheduling waste wood processing facilities
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Dávid
+      given: Balázs
+    - family: Hegyháti
+      given: Máté
+  journal: Central European Journal of Operations Research
+  year: "2023"
+  pages: ""
+  ISBN: 
+  url: "https://link.springer.com/article/10.1007/s10100-023-00852-6"
+  doi: https://doi.org/10.1007/s10100-023-00852-6
 - id: David2021b
   type: incollection
   title: Scheduling of Waste Wood Processing Facilities with Overlapping Jobs
@@ -64,10 +80,10 @@
   ISSN: " 1573-2924"
   url: "https://doi.org/10.1007/s11081-020-09548-1"
   doi: 10.1007/s11081-020-09548-1
+  citations-independent:
+    - 'Szabo, Sandor. (2023). Batch Scheduling with Time Restriction and Clique Search. Mathematica Pannonica. 10.1556/314.2023.00004.'
   citations-self:
-    - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch
-      Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020).
-      https://doi.org/10.1007/s41660-020-00142-7'
+    - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7'
 - id: Osz2019a
   type: article
   title: Energy usage minimization with the S-graph framework
