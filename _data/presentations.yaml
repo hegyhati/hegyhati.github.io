@@ -1,3 +1,15 @@
+- author: Hegyhati, M., Zs. Tuza
+  title: Why implementation matters for graph algorithms?
+  conference: "Optimization and Algorithms"
+  conferenceshort: OPAL
+  city: Veszprem
+  country: Hungary
+  date: Jun 6
+  year: '2-23'
+  type:
+  - oral
+  - international
+
 - author: Ősz, O., M. Hegyhati
   title: Decision Support for Investments in Freshwater Usage Minimization of Production Processes with Integrated Scheduling Methods
   conference: "Society - Economy - Nature: Synergies in Sustainable Development"
