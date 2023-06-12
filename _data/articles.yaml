@@ -14,6 +14,8 @@
   ISBN: 
   url: "https://link.springer.com/article/10.1007/s10100-023-00852-6"
   doi: https://doi.org/10.1007/s10100-023-00852-6
+  citations-independent:
+   - "Janez PovhLidija Zadnik StirnJanez Žerovnik (2003) 60 years of OR in Slovenia: development from a first conference to a vibrant community. Central European Journal of Operations Research. 1-10. 10.1007/s10100-023-00859-z."
 - id: Hegyhati2022
   type: inproceedings
   title: Systematic generation of precedence based MILP models with P-graphs for multipurpose scheduling problems
@@ -59,6 +61,8 @@
   ISSN: 2509-4246
   url: " https://doi.org/10.3390/su13095007"
   doi: 10.3390/su13095007
+  citations-self:
+    - "Ősz, O., Dávid, B. & Hegyháti, M. Comparison of discrete- and continuous-time models for scheduling waste wood processing facilities. Cent Eur J Oper Res (2023). https://doi.org/10.1007/s10100-023-00852-6"
 - id: Osz2020
   type: article
   title: "Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach"
