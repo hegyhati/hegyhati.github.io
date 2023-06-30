@@ -1,3 +1,19 @@
+- id: Hegyhati2023
+  type: article
+  title: "Optimization with uncertainties: a scheduling example"
+  author:
+    - family: Hegyháti
+      given: Máté
+    - family: Bakon
+      given: Krisztián Attila
+    - family: Holczinger
+      given: Tibor
+  journal: Central European Journal of Operations Research
+  year: "2023"
+  pages: ""
+  ISBN: 
+  url: "https://link.springer.com/article/10.1007/s10100-023-00854-4"
+  doi: https://doi.org/10.1007/s10100-023-00854-4
 - id: Osz2023
   type: article
   title: Comparison of discrete- and continuous-time models for scheduling waste wood processing facilities
