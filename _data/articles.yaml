@@ -512,6 +512,7 @@
   pages: 895 – 900
   doi: 10.3303/CET1021150
   citations-self:
+    - "Hegyháti, M., Bakon, K.A. & Holczinger, T. Optimization with uncertainties: a scheduling example. Cent Eur J Oper Res (2023). https://doi.org/10.1007/s10100-023-00854-4"
     - Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1
     - "Hegyhati M., 2018, Batch process scheduling with es-graph: a case study , Chemical Engineering Transactions, 70, 115-120 doi:10.3303/CET1870020"
     - "Hegyháti M., Ősz O., Hatwágner M. (2018) A Study on Solving Single Stage Batch Process Scheduling Problems with an Evolutionary Algorithm Featuring Bacterial Mutations. In: Rutkowski L., Scherer R., Korytkowski M., Pedrycz W., Tadeusiewicz R., Zurada J. (eds) Artificial Intelligence and Soft Computing. ICAISC 2018. Lecture Notes in Computer Science, vol 10841. Springer, Cham"
