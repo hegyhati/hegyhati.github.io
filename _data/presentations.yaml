@@ -1,3 +1,15 @@
+- author: Hegyhati, M.
+  title: Cyclic scheduling with Timed Automata
+  conference: "Szeged WORkshop on Discrete Structures"
+  conferenceshort: SWORDS 2023
+  city: Szeged
+  country: Hungary
+  date: Nov 24
+  year: '2023'
+  type:
+  - oral
+  - international
+
 - author: Hegyhati, M., Zs. Tuza
   title: Why implementation matters for graph algorithms?
   conference: "Optimization and Algorithms"
