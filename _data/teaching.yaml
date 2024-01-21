@@ -1,5 +1,11 @@
 regular:
 
+- course: Data Structures and Algorithms
+  university: University of Sopron
+  city: Sopron
+  country: Hungary
+  start: 2023
+
 - course: Applied Mathematics and Statistics
   university: University of Sopron
   city: Sopron
@@ -20,7 +26,7 @@ regular:
 
 - course: Programming languages in data science
   university: University of Sopron
-  city: Sopron
+  city: SopronApplied
   country: Hungary
   start: 2022
 
@@ -250,12 +256,14 @@ phd:
   city: Gyor
   country: Hungary
   start: 2019
+  end: 2023
 
 - course: Scheduling of Production Systems
   university: Szechenyi Istvan University
   city: Gyor
   country: Hungary
   start: 2019
+  end: 2023
 
 
 
