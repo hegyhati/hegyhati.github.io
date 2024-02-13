@@ -96,6 +96,8 @@
   ISSN: 2509-4246
   url: "https://doi.org/10.1007/s41660-020-00142-7"
   doi: 10.1007/s41660-020-00142-7
+  citations-independent:
+    - 'Ayyad, Fatma & Shehata, Walaa & Bhran, Ahmed & Shoaib, Abeer. (2023). Optimum rescheduling of water networks for batch processes using a goal programming technique. Scientific Reports. 13. 10.1038/s41598-023-49070-9. '
 - id: Hegyhati2020
   type: article
   title: Addressing storage time restrictions in the S-graph scheduling framework
