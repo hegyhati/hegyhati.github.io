@@ -11,14 +11,68 @@
 
 <body>
     <div class="container">
-        <h1>Publications by Faculty for <select id="year" oninput="update()"><option>2021</option><option>2022</option><option>2023</option></select></h1>
+        <h1>Publications 
+            for <select id="organization" oninput="update()">
+                <option value="19962">SOE</option>
+    
+                <option disabled>________</option>
+                <option value="19963">BPK</option>
+                <optgroup>
+                    <option value="19965">MSTI</option>
+                    <option value="19966">NPI</option>
+                    <option value="19967">TSZKTI</option>
+                </optgroup>
+    
+                <option disabled>________</option>
+                <option value="21953">ERTI</option>
+                <optgroup>
+                    <option value="21954">EVO</option>
+                    <option value="21955">NO</option>
+                    <option value="21956">ÖERO</option>
+                    <option value="21957">ÖKO</option>
+                    <option value="21958">ÜFO</option>
+                </optgroup>
+    
+                <option disabled>________</option>
+                <option value="19990">EMK</option>
+                <optgroup>
+                    <option value="22517">ETEGI</option>
+                    <option value="22516">GKI</option>
+                    <option value="22518">KTI</option>
+                    <option value="22515">VVI</option>
+                </optgroup>
+    
+                <option disabled>________</option>
+                <option value="22389">FMK</option>
+                <optgroup>
+                    <option value="19969">AMI</option>
+                    <option disabled value="22391">FAIN</option>
+                    <option value="22390">FAMI</option>
+                    <option value="22392">IMI</option>
+                </optgroup>
+    
+                <option disabled>________</option>
+                <option value="19983">LKK</option>
+                <optgroup>
+                    <option value="22510">KNKI</option>
+                    <option value="22513">LK</option>
+                    <option value="22512">ÖGI</option>
+                    <option value="22511">ÜTI</option>
+                </optgroup>
+            </select>
+            in <select id="year" oninput="update()">
+                <option>2021</option>
+                <option>2022</option>
+                <option>2023</option>
+            </select>
+        </h1>
         
         <canvas class = "py-3" id="myChart" width="400" height="200"></canvas>
         
-        <table class="table table-hover py-3">
+        <table id="sub-org-table" class="table table-hover py-3">
             <thead class="table-dark">
                 <tr>
-                    <th>Faculty</th>
+                    <th>Sub-org</th>
                     <th>Scientific</th>
                     <th>Scientific Full</th>
                     <th>WOS/Scopus</th>

@@ -1,8 +1,14 @@
 
 
-function updateTable(year) {
+function updateTable(org) {
+    document.getElementById("sub-org-table").display = "none";
     document.getElementById("faculty").textContent = "";
+    document.getElementById("summary").textContent = "";
+    document.getElementById("duplicates").textContent = "";
 
+    if (org == null || !org["children"]) return;
+
+    document.getElementById("sub-org-table").display = "block";
     sum = [0, 0, 0, 0, 0, 0]; 
     getvaluesForPublications = [
         (publications) => publications["scientific"],
@@ -11,7 +17,7 @@ function updateTable(year) {
         (publications) => publications["scientific_full"] - publications["wos_scopus"],
         (publications) => publications["scientific"] - publications["scientific_full"]
     ]
-    for (faculty of data[year]["children"]) {
+    for (faculty of org["children"]) {
         var row = document.createElement("tr");
 
         facultyname = document.createElement("td");
@@ -37,12 +43,11 @@ function updateTable(year) {
     row.appendChild(sumname);
     for (let i = 0; i < 5; i++) {
         td = document.createElement("td");
-        sumvalue = getvaluesForPublications[i](data[year]["publications"]);
+        sumvalue = getvaluesForPublications[i](org["publications"]);
         td.textContent = sumvalue;
         sum[i] -= sumvalue;
         row.appendChild(td);
     }
-    document.getElementById("summary").textContent = "";
     document.getElementById("summary").appendChild(row);
 
 
@@ -55,23 +60,23 @@ function updateTable(year) {
         td.textContent = sum[i];
         row.appendChild(td);
     }
-    document.getElementById("duplicates").textContent = "";
     document.getElementById("duplicates").appendChild(row);
 }
 
 
-function updateChart(year) {
-    faculties = data[year]["children"].map(f => f["name"])
-    pub1 = data[year]["children"].map(f => f["publications"]["scientific"] - f["publications"]["scientific_full"])
-    pub2 = data[year]["children"].map(f => f["publications"]["scientific_full"] - f["publications"]["wos_scopus"])
-    pub3 = data[year]["children"].map(f => f["publications"]["wos_scopus"])
-
-    // plot pub1, pub2, pub3 with labelst faculties
-    var ctx = document.getElementById('myChart').getContext('2d');
+function updateChart(org) {
     if (myChart) {
         myChart.destroy();
     }
-    myChart = new Chart(ctx, {
+    if (org == null || !org["children"]) return;
+    
+    org["children"] = org.children.filter(f => f!=null);
+    faculties = org["children"].map(f => f["name"])
+    pub1 = org["children"].map(f => f["publications"]["scientific"] - f["publications"]["scientific_full"])
+    pub2 = org["children"].map(f => f["publications"]["scientific_full"] - f["publications"]["wos_scopus"])
+    pub3 = org["children"].map(f => f["publications"]["wos_scopus"])
+
+    myChart = new Chart(document.getElementById('myChart').getContext('2d'), {
         type: 'bar',
         data: {
             labels: faculties,
@@ -109,9 +114,9 @@ function updateChart(year) {
     });
 }
 
-function fetchPeople(year) {
+function fetchPeople(org) {
     var people = [];
-    getPersons(data[year], people);
+    getPersons(org, people);
     return people
 }
 
@@ -126,13 +131,14 @@ function getPersons(org, people) {
         }
 }
 
-function updateTopList(year) {
+function updateTopList(org) {
     toplist = document.getElementById("toplist");
-    people = fetchPeople(year);
+    toplist.textContent = "";
+
+    people = fetchPeople(org);
     people.sort((a, b) => b["publications"]["wos_scopus"] - a["publications"]["wos_scopus"]);
 
-    toplist.textContent = "";
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 20 && i < people.length ; i++) {
         item = document.createElement("li");
         item.className = "list-group-item d-flex justify-content-between align-items-center";
         item.innerHTML = `<span><span class="badge bg-primary px-2">${people[i]["publications"]["wos_scopus"]}</span> <strong  class="px-5">${people[i]["name"]}</strong></span> (${people[i]["org"]})`;
@@ -140,12 +146,28 @@ function updateTopList(year) {
     }
 }
 
+function find_organization(org, id) {
+    if (org == null) return null;
+    if (org["id"] == id) return org;
+    if (org["children"]) {
+        for (child of org["children"]) {
+            result = find_organization(child, id);
+            if (result) return result;
+        }
+    }
+    return null;
+}
+
 function update() {
     let year = document.getElementById("year").value;
-    updateChart(year);
-    updateTable(year);
-    updateTopList(year)
-    console.log(fetchPeople(year));
+    let orgid = document.getElementById("organization").value;
+    orgdata = find_organization(data[year], orgid);
+
+    console.log(orgdata)
+
+    updateChart(orgdata);
+    updateTable(orgdata);
+    updateTopList(orgdata)
 }
 
 

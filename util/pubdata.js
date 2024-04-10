@@ -16633,7 +16633,602 @@ data = {
         {
           "name": "Erd\u0151- \u00e9s Term\u00e9szeti Er\u0151forr\u00e1s-Gazd\u00e1lkod\u00e1si Int\u00e9zet",
           "id": 22517,
-          "children": [],
+          "people": [
+            {
+              "name": "Andr\u00e9si D\u00e1niel",
+              "id": 10034277,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 4,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Andr\u00e9si R\u00e9ka",
+              "id": 10052264,
+              "publications": {
+                "scientific": 1,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Bal\u00e1zs P\u00e1l",
+              "id": 10028350,
+              "publications": {
+                "scientific": 15,
+                "scientific_full": 9,
+                "wos_scopus": 1
+              }
+            },
+            {
+              "name": "Bali L\u00e1szl\u00f3",
+              "id": 10047749,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Bender Bogl\u00e1rka",
+              "id": 10053134,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Czibula Gy\u00f6rgy",
+              "id": 10076968,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 2,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Czupy Imre",
+              "id": 10002363,
+              "publications": {
+                "scientific": 6,
+                "scientific_full": 4,
+                "wos_scopus": 1
+              }
+            },
+            {
+              "name": "De\u00e1k Istv\u00e1n Gy\u00f6rgy",
+              "id": 10068211,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Folcz \u00c1d\u00e1m",
+              "id": 10027753,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Frank Norbert",
+              "id": 10010790,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 3,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "F\u00fcl\u00f6p Viktor G\u00e9za",
+              "id": 10054712,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "G\u00e1l J\u00e1nos",
+              "id": 10028509,
+              "publications": {
+                "scientific": 2,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "H\u00e9jj Botond",
+              "id": 10003964,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Hillebrand Rudolf",
+              "id": 10038842,
+              "publications": {
+                "scientific": 1,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Horv\u00e1th Anik\u00f3",
+              "id": 10027958,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Horv\u00e1th Attila L\u00e1szl\u00f3",
+              "id": 10026771,
+              "publications": {
+                "scientific": 10,
+                "scientific_full": 6,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Horv\u00e1th B\u00e9la",
+              "id": 10002388,
+              "publications": {
+                "scientific": 5,
+                "scientific_full": 5,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Horv\u00e1th Eszter",
+              "id": 10063728,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Horv\u00e1th Kitti",
+              "id": 10028349,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Horv\u00e1th S\u00e1ndor",
+              "id": 10022580,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 3,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Horv\u00e1th Tam\u00e1s",
+              "id": 10028374,
+              "publications": {
+                "scientific": 5,
+                "scientific_full": 5,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "J\u00e1ger L\u00e1szl\u00f3 Tam\u00e1s",
+              "id": 10028454,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Kap\u00f3cs-Horv\u00e1th Zs\u00f3fia",
+              "id": 10028016,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Kapocsi Gergely",
+              "id": 10071567,
+              "publications": {
+                "scientific": 1,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Kelemen G\u00e9za",
+              "id": 10047917,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 3,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Kir\u00e1ly Botond Gergely",
+              "id": 10011631,
+              "publications": {
+                "scientific": 8,
+                "scientific_full": 8,
+                "wos_scopus": 7
+              }
+            },
+            {
+              "name": "Kolosz\u00e1r J\u00f3zsef",
+              "id": 10001951,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Kondorn\u00e9 Szenkovits Mariann",
+              "id": 10026785,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Kov\u00e1cs Judit",
+              "id": 10027743,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Kov\u00e1cs Klaudia",
+              "id": 10065556,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Lakatos Ferenc",
+              "id": 10001837,
+              "publications": {
+                "scientific": 21,
+                "scientific_full": 13,
+                "wos_scopus": 2
+              }
+            },
+            {
+              "name": "Lett B\u00e9la",
+              "id": 10006429,
+              "publications": {
+                "scientific": 7,
+                "scientific_full": 6,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Major Tam\u00e1s",
+              "id": 10026886,
+              "publications": {
+                "scientific": 9,
+                "scientific_full": 9,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Marcsisin Tam\u00e1s M\u00e1t\u00e9",
+              "id": 10061285,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Marosv\u00f6lgyi B\u00e9la",
+              "id": 10002782,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Mogyor\u00f3sin\u00e9 Keser\u0171 L\u00eddia",
+              "id": 10027756,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Moln\u00e1r D\u00e9nes",
+              "id": 10034276,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Moln\u00e1r Mikl\u00f3s",
+              "id": 10023387,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Nagy D\u00e1niel",
+              "id": 10071780,
+              "publications": {
+                "scientific": 3,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Nagy Gabriella M\u00e1ria",
+              "id": 10028376,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Nagy L\u00e1szl\u00f3",
+              "id": 10029343,
+              "publications": {
+                "scientific": 2,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Palocz-Andresen Michael",
+              "id": 10001793,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 4,
+                "wos_scopus": 1
+              }
+            },
+            {
+              "name": "Papp Vikt\u00f3ria",
+              "id": 10027243,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Porcsin Alexandra",
+              "id": 10075594,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 3,
+                "wos_scopus": 1
+              }
+            },
+            {
+              "name": "Pusk\u00e1s Lajos",
+              "id": 10028453,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "R\u00e9tlaki P\u00e9ter",
+              "id": 10077078,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Rumpf J\u00e1nos",
+              "id": 10004709,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "S\u00e1fi\u00e1n Szabolcs",
+              "id": 10027988,
+              "publications": {
+                "scientific": 6,
+                "scientific_full": 6,
+                "wos_scopus": 4
+              }
+            },
+            {
+              "name": "S\u00e1rk\u00f6zy \u00c1ron",
+              "id": 10073111,
+              "publications": {
+                "scientific": 1,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Sipos Gy\u00f6rgy",
+              "id": 10002466,
+              "publications": {
+                "scientific": 7,
+                "scientific_full": 4,
+                "wos_scopus": 4
+              }
+            },
+            {
+              "name": "Stark Magdolna",
+              "id": 10008343,
+              "publications": {
+                "scientific": 2,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Szab\u00f3 Ilona",
+              "id": 10002005,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Szab\u00f3 M\u00e1rton J\u00f3zsef",
+              "id": 10028451,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Szab\u00f3 Zs\u00f3fia",
+              "id": 10034816,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Szak\u00e1losn\u00e9 M\u00e1ty\u00e1s Katalin",
+              "id": 10027094,
+              "publications": {
+                "scientific": 12,
+                "scientific_full": 7,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Szalay D\u00f3ra",
+              "id": 10027095,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "T\u00f3th Vikt\u00f3ria",
+              "id": 10027740,
+              "publications": {
+                "scientific": 6,
+                "scientific_full": 3,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Traser Gy\u00f6rgy",
+              "id": 10009833,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Tuba Katalin",
+              "id": 10027772,
+              "publications": {
+                "scientific": 13,
+                "scientific_full": 9,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Vajai D\u00e1niel",
+              "id": 10072938,
+              "publications": {
+                "scientific": 2,
+                "scientific_full": 2,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Vajda J\u00f3zsef",
+              "id": 10071526,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Varga Szabolcs",
+              "id": 10009165,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Vargovics M\u00e1t\u00e9",
+              "id": 10073099,
+              "publications": {
+                "scientific": 4,
+                "scientific_full": 4,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Velekei Bal\u00e1zs",
+              "id": 10027745,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Veperdi G\u00e1bor",
+              "id": 10008111,
+              "publications": {
+                "scientific": 0,
+                "scientific_full": 0,
+                "wos_scopus": 0
+              }
+            },
+            {
+              "name": "Vojtela Tibor",
+              "id": 10036927,
+              "publications": {
+                "scientific": 1,
+                "scientific_full": 1,
+                "wos_scopus": 0
+              }
+            }
+          ],
           "publications": {
             "scientific": 105,
             "scientific_full": 80,
