@@ -11,10 +11,12 @@
 
 <body>
     <div class="container">
-        <h1>Publications by Faculty for <select id="year" oninput="reportyear()"><option>2021</option><option>2022</option><option>2023</option></select></h1>
+        <h1>Publications by Faculty for <select id="year" oninput="update()"><option>2021</option><option>2022</option><option>2023</option></select></h1>
+        
         <canvas class = "py-3" id="myChart" width="400" height="200"></canvas>
-        <table class="table py-3">
-            <thead>
+        
+        <table class="table table-hover py-3">
+            <thead class="table-dark">
                 <tr>
                     <th>Faculty</th>
                     <th>Scientific</th>
@@ -26,10 +28,18 @@
             </thead>
             <tbody id = "faculty">
             </tbody>
+            <thead class="table-secondary" id="summary"></thead>
+            <thead class="table-warning" id="duplicates"></thead>
+        </table>
+
+        <h2>Top WOS/Scopus list</h2>
+        <ul class="list-group" id = "toplist">
+        </ul>
+
     </div>
     <script>
         var myChart = null
-        reportyear();
+        update();
     </script>
 </body>
 

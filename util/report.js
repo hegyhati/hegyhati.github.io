@@ -1,35 +1,66 @@
 
-function reportyear() {
-    let year = document.getElementById("year").value;
 
-    
+function updateTable(year) {
     document.getElementById("faculty").textContent = "";
+
+    sum = [0, 0, 0, 0, 0, 0]; 
+    getvaluesForPublications = [
+        (publications) => publications["scientific"],
+        (publications) => publications["scientific_full"],
+        (publications) => publications["wos_scopus"],
+        (publications) => publications["scientific_full"] - publications["wos_scopus"],
+        (publications) => publications["scientific"] - publications["scientific_full"]
+    ]
     for (faculty of data[year]["children"]) {
         var row = document.createElement("tr");
-        var fname = document.createElement("td");
-        var scientific = document.createElement("td");
-        var scientific_full = document.createElement("td");
-        var wos_scopus = document.createElement("td");
-        var full_not_wos_scopus = document.createElement("td");
-        var scientific_not_full = document.createElement("td");
 
-        fname.innerHTML = faculty["name"];
-        scientific.innerHTML = faculty["publications"]["scientific"];
-        scientific_full.innerHTML = faculty["publications"]["scientific_full"];
-        wos_scopus.innerHTML = faculty["publications"]["wos_scopus"];
-        full_not_wos_scopus.innerHTML = faculty["publications"]["scientific_full"] - faculty["publications"]["wos_scopus"];
-        scientific_not_full.innerHTML = faculty["publications"]["scientific"] - faculty["publications"]["scientific_full"];
+        facultyname = document.createElement("td");
+        facultyname.textContent = faculty["name"];
+        row.appendChild(facultyname);
+        
 
-        row.appendChild(fname);
-        row.appendChild(scientific);
-        row.appendChild(scientific_full);
-        row.appendChild(wos_scopus);
-        row.appendChild(full_not_wos_scopus);
-        row.appendChild(scientific_not_full);
+        for (let i = 0; i < 5; i++) {
+            td = document.createElement("td");        
+            value = getvaluesForPublications[i](faculty["publications"]);
+            sum[i] += value;
+            td.textContent = value;
+            row.appendChild(td);
+        }
 
         document.getElementById("faculty").appendChild(row);
     }
+    
+    
+    var row = document.createElement("tr");
+    sumname = document.createElement("td");
+    sumname.textContent = "SUM";
+    row.appendChild(sumname);
+    for (let i = 0; i < 5; i++) {
+        td = document.createElement("td");
+        sumvalue = getvaluesForPublications[i](data[year]["publications"]);
+        td.textContent = sumvalue;
+        sum[i] -= sumvalue;
+        row.appendChild(td);
+    }
+    document.getElementById("summary").textContent = "";
+    document.getElementById("summary").appendChild(row);
 
+
+    var row = document.createElement("tr");
+    duplicatename = document.createElement("td");
+    duplicatename.textContent = "Duplicates";
+    row.appendChild(duplicatename);
+    for (let i = 0; i < 5; i++) {
+        td = document.createElement("td");
+        td.textContent = sum[i];
+        row.appendChild(td);
+    }
+    document.getElementById("duplicates").textContent = "";
+    document.getElementById("duplicates").appendChild(row);
+}
+
+
+function updateChart(year) {
     faculties = data[year]["children"].map(f => f["name"])
     pub1 = data[year]["children"].map(f => f["publications"]["scientific"] - f["publications"]["scientific_full"])
     pub2 = data[year]["children"].map(f => f["publications"]["scientific_full"] - f["publications"]["wos_scopus"])
@@ -77,3 +108,47 @@ function reportyear() {
         }
     });
 }
+
+function fetchPeople(year) {
+    var people = [];
+    getPersons(data[year], people);
+    return people
+}
+
+function getPersons(org, people) {
+    if (org == null) return;
+    if (org["children"]) 
+        for (suborg of org["children"]) getPersons(suborg, people);
+    if (org["people"])
+        for (person of org["people"])  {
+            person["org"] = org["name"];
+            people.push(person);
+        }
+}
+
+function updateTopList(year) {
+    toplist = document.getElementById("toplist");
+    people = fetchPeople(year);
+    people.sort((a, b) => b["publications"]["wos_scopus"] - a["publications"]["wos_scopus"]);
+
+    toplist.textContent = "";
+    for (let i = 0; i < 20; i++) {
+        item = document.createElement("li");
+        item.className = "list-group-item d-flex justify-content-between align-items-center";
+        item.innerHTML = `<span><span class="badge bg-primary px-2">${people[i]["publications"]["wos_scopus"]}</span> <strong  class="px-5">${people[i]["name"]}</strong></span> (${people[i]["org"]})`;
+        toplist.appendChild(item);
+    }
+}
+
+function update() {
+    let year = document.getElementById("year").value;
+    updateChart(year);
+    updateTable(year);
+    updateTopList(year)
+    console.log(fetchPeople(year));
+}
+
+
+
+
+
