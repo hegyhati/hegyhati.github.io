@@ -52,8 +52,8 @@ data = {
               "name": "Cs\u00f3ka Gy\u00f6rgy",
               "id": 10003322,
               "publications": {
-                "scientific": 49,
-                "scientific_full": 40,
+                "scientific": 31,
+                "scientific_full": 22,
                 "wos_scopus": 6
               }
             },
@@ -61,8 +61,8 @@ data = {
               "name": "Cs\u00f3k\u00e1n\u00e9 Hirka Anik\u00f3",
               "id": 10012578,
               "publications": {
-                "scientific": 31,
-                "scientific_full": 30,
+                "scientific": 14,
+                "scientific_full": 13,
                 "wos_scopus": 2
               }
             },
@@ -97,8 +97,8 @@ data = {
               "name": "Koltay Andr\u00e1s",
               "id": 10012579,
               "publications": {
-                "scientific": 25,
-                "scientific_full": 23,
+                "scientific": 8,
+                "scientific_full": 6,
                 "wos_scopus": 1
               }
             },
@@ -122,8 +122,8 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 60,
-            "scientific_full": 49,
+            "scientific": 42,
+            "scientific_full": 31,
             "wos_scopus": 9
           }
         },
@@ -301,8 +301,8 @@ data = {
               "name": "Jagodics Anik\u00f3",
               "id": 10052008,
               "publications": {
-                "scientific": 18,
-                "scientific_full": 18,
+                "scientific": 1,
+                "scientific_full": 1,
                 "wos_scopus": 0
               }
             },
@@ -311,7 +311,7 @@ data = {
               "id": 10082152,
               "publications": {
                 "scientific": 33,
-                "scientific_full": 16,
+                "scientific_full": 15,
                 "wos_scopus": 4
               }
             },
@@ -389,8 +389,8 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 62,
-            "scientific_full": 46,
+            "scientific": 45,
+            "scientific_full": 29,
             "wos_scopus": 11
           }
         },
@@ -479,8 +479,8 @@ data = {
         }
       ],
       "publications": {
-        "scientific": 170,
-        "scientific_full": 132,
+        "scientific": 135,
+        "scientific_full": 97,
         "wos_scopus": 33
       }
     },
@@ -741,8 +741,8 @@ data = {
               "name": "Nguyen Binh",
               "id": 10047514,
               "publications": {
-                "scientific": 0,
-                "scientific_full": 0,
+                "scientific": 2,
+                "scientific_full": 2,
                 "wos_scopus": 0
               }
             },
@@ -793,8 +793,8 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 36,
-            "scientific_full": 28,
+            "scientific": 38,
+            "scientific_full": 30,
             "wos_scopus": 16
           }
         },
@@ -861,9 +861,9 @@ data = {
               "name": "B\u00e1der M\u00e1ty\u00e1s",
               "id": 10049231,
               "publications": {
-                "scientific": 10,
-                "scientific_full": 10,
-                "wos_scopus": 7
+                "scientific": 9,
+                "scientific_full": 9,
+                "wos_scopus": 8
               }
             },
             {
@@ -890,7 +890,7 @@ data = {
               "publications": {
                 "scientific": 4,
                 "scientific_full": 2,
-                "wos_scopus": 0
+                "wos_scopus": 1
               }
             },
             {
@@ -933,8 +933,8 @@ data = {
               "name": "Buga-Kov\u00e1cs Luca",
               "id": 10085841,
               "publications": {
-                "scientific": 2,
-                "scientific_full": 2,
+                "scientific": 1,
+                "scientific_full": 1,
                 "wos_scopus": 1
               }
             },
@@ -1043,7 +1043,7 @@ data = {
               "publications": {
                 "scientific": 3,
                 "scientific_full": 3,
-                "wos_scopus": 2
+                "wos_scopus": 3
               }
             },
             {
@@ -1502,7 +1502,7 @@ data = {
               "publications": {
                 "scientific": 3,
                 "scientific_full": 3,
-                "wos_scopus": 2
+                "wos_scopus": 3
               }
             },
             {
@@ -1525,9 +1525,9 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 59,
-            "scientific_full": 43,
-            "wos_scopus": 25
+            "scientific": 61,
+            "scientific_full": 45,
+            "wos_scopus": 27
           }
         },
         {
@@ -1565,9 +1565,9 @@ data = {
               "name": "B\u00e1der M\u00e1ty\u00e1s",
               "id": 10049231,
               "publications": {
-                "scientific": 10,
-                "scientific_full": 10,
-                "wos_scopus": 7
+                "scientific": 9,
+                "scientific_full": 9,
+                "wos_scopus": 8
               }
             },
             {
@@ -1576,7 +1576,7 @@ data = {
               "publications": {
                 "scientific": 15,
                 "scientific_full": 13,
-                "wos_scopus": 10
+                "wos_scopus": 11
               }
             },
             {
@@ -1612,7 +1612,7 @@ data = {
               "publications": {
                 "scientific": 5,
                 "scientific_full": 3,
-                "wos_scopus": 0
+                "wos_scopus": 1
               }
             },
             {
@@ -1664,8 +1664,8 @@ data = {
               "name": "Horv\u00e1th Norbert",
               "id": 10002812,
               "publications": {
-                "scientific": 3,
-                "scientific_full": 3,
+                "scientific": 2,
+                "scientific_full": 2,
                 "wos_scopus": 2
               }
             },
@@ -1709,7 +1709,7 @@ data = {
               "name": "Lang \u00c1gota",
               "id": 10068951,
               "publications": {
-                "scientific": 1,
+                "scientific": 2,
                 "scientific_full": 1,
                 "wos_scopus": 0
               }
@@ -1772,9 +1772,9 @@ data = {
               "name": "N\u00e9meth R\u00f3bert",
               "id": 10012246,
               "publications": {
-                "scientific": 13,
-                "scientific_full": 13,
-                "wos_scopus": 11
+                "scientific": 14,
+                "scientific_full": 14,
+                "wos_scopus": 13
               }
             },
             {
@@ -1826,8 +1826,8 @@ data = {
               "name": "Sajdik Tam\u00e1s",
               "id": 10089538,
               "publications": {
-                "scientific": 2,
-                "scientific_full": 2,
+                "scientific": 1,
+                "scientific_full": 1,
                 "wos_scopus": 0
               }
             },
@@ -1914,16 +1914,16 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 72,
+            "scientific": 73,
             "scientific_full": 62,
-            "wos_scopus": 32
+            "wos_scopus": 35
           }
         }
       ],
       "publications": {
-        "scientific": 201,
-        "scientific_full": 152,
-        "wos_scopus": 61
+        "scientific": 204,
+        "scientific_full": 154,
+        "wos_scopus": 64
       }
     },
     {
@@ -1956,8 +1956,8 @@ data = {
               "name": "Bal\u00e1zs P\u00e1l",
               "id": 10028350,
               "publications": {
-                "scientific": 34,
-                "scientific_full": 28,
+                "scientific": 15,
+                "scientific_full": 9,
                 "wos_scopus": 1
               }
             },
@@ -1965,8 +1965,8 @@ data = {
               "name": "Bartha D\u00e9nes",
               "id": 10002153,
               "publications": {
-                "scientific": 16,
-                "scientific_full": 12,
+                "scientific": 14,
+                "scientific_full": 11,
                 "wos_scopus": 4
               }
             },
@@ -1974,8 +1974,8 @@ data = {
               "name": "Berki Imre",
               "id": 10008477,
               "publications": {
-                "scientific": 21,
-                "scientific_full": 21,
+                "scientific": 2,
+                "scientific_full": 2,
                 "wos_scopus": 1
               }
             },
@@ -1983,8 +1983,8 @@ data = {
               "name": "Bidl\u00f3 Andr\u00e1s",
               "id": 10009830,
               "publications": {
-                "scientific": 36,
-                "scientific_full": 27,
+                "scientific": 19,
+                "scientific_full": 10,
                 "wos_scopus": 0
               }
             },
@@ -2082,8 +2082,8 @@ data = {
               "name": "Heil B\u00e1lint",
               "id": 10010791,
               "publications": {
-                "scientific": 20,
-                "scientific_full": 19,
+                "scientific": 3,
+                "scientific_full": 2,
                 "wos_scopus": 1
               }
             },
@@ -2091,8 +2091,8 @@ data = {
               "name": "Heilig D\u00e1vid",
               "id": 10063681,
               "publications": {
-                "scientific": 21,
-                "scientific_full": 21,
+                "scientific": 4,
+                "scientific_full": 4,
                 "wos_scopus": 1
               }
             },
@@ -2127,8 +2127,8 @@ data = {
               "name": "Horv\u00e1th Adrienn",
               "id": 10034755,
               "publications": {
-                "scientific": 36,
-                "scientific_full": 29,
+                "scientific": 17,
+                "scientific_full": 10,
                 "wos_scopus": 1
               }
             },
@@ -2181,8 +2181,8 @@ data = {
               "name": "Kov\u00e1cs G\u00e1bor",
               "id": 10009836,
               "publications": {
-                "scientific": 18,
-                "scientific_full": 18,
+                "scientific": 1,
+                "scientific_full": 1,
                 "wos_scopus": 1
               }
             },
@@ -2226,7 +2226,7 @@ data = {
               "name": "M\u00e1ty\u00e1s Csaba",
               "id": 2015522,
               "publications": {
-                "scientific": 8,
+                "scientific": 7,
                 "scientific_full": 4,
                 "wos_scopus": 2
               }
@@ -2370,7 +2370,7 @@ data = {
               "name": "Szarka L\u00e1szl\u00f3 Csaba",
               "id": 10000276,
               "publications": {
-                "scientific": 8,
+                "scientific": 9,
                 "scientific_full": 6,
                 "wos_scopus": 2
               }
@@ -2388,8 +2388,8 @@ data = {
               "name": "Vig P\u00e9ter",
               "id": 10011943,
               "publications": {
-                "scientific": 17,
-                "scientific_full": 17,
+                "scientific": 0,
+                "scientific_full": 0,
                 "wos_scopus": 0
               }
             },
@@ -2431,8 +2431,8 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 171,
-            "scientific_full": 127,
+            "scientific": 133,
+            "scientific_full": 90,
             "wos_scopus": 34
           }
         },
@@ -2441,8 +2441,8 @@ data = {
           "id": 22517,
           "children": [],
           "publications": {
-            "scientific": 133,
-            "scientific_full": 108,
+            "scientific": 105,
+            "scientific_full": 80,
             "wos_scopus": 17
           }
         },
@@ -2554,7 +2554,7 @@ data = {
               "publications": {
                 "scientific": 17,
                 "scientific_full": 16,
-                "wos_scopus": 2
+                "wos_scopus": 3
               }
             },
             {
@@ -2750,8 +2750,8 @@ data = {
               "name": "Tari Tam\u00e1s",
               "id": 10027944,
               "publications": {
-                "scientific": 15,
-                "scientific_full": 9,
+                "scientific": 16,
+                "scientific_full": 10,
                 "wos_scopus": 3
               }
             },
@@ -2775,9 +2775,9 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 86,
-            "scientific_full": 72,
-            "wos_scopus": 21
+            "scientific": 87,
+            "scientific_full": 73,
+            "wos_scopus": 22
           }
         },
         {
@@ -2889,7 +2889,7 @@ data = {
               "publications": {
                 "scientific": 17,
                 "scientific_full": 16,
-                "wos_scopus": 2
+                "wos_scopus": 3
               }
             },
             {
@@ -2986,8 +2986,8 @@ data = {
               "name": "Cs\u00e1nyi Erika",
               "id": 10075239,
               "publications": {
-                "scientific": 9,
-                "scientific_full": 6,
+                "scientific": 10,
+                "scientific_full": 7,
                 "wos_scopus": 2
               }
             },
@@ -3013,8 +3013,8 @@ data = {
               "name": "Cs\u00f3ka Gy\u00f6rgy",
               "id": 10003322,
               "publications": {
-                "scientific": 49,
-                "scientific_full": 40,
+                "scientific": 31,
+                "scientific_full": 22,
                 "wos_scopus": 6
               }
             },
@@ -3049,8 +3049,8 @@ data = {
               "name": "Folcz \u00c1d\u00e1m",
               "id": 10027753,
               "publications": {
-                "scientific": 6,
-                "scientific_full": 6,
+                "scientific": 0,
+                "scientific_full": 0,
                 "wos_scopus": 0
               }
             },
@@ -3094,8 +3094,8 @@ data = {
               "name": "Heilig D\u00e1vid",
               "id": 10063681,
               "publications": {
-                "scientific": 21,
-                "scientific_full": 21,
+                "scientific": 4,
+                "scientific_full": 4,
                 "wos_scopus": 1
               }
             },
@@ -3121,9 +3121,9 @@ data = {
               "name": "Horv\u00e1th Ida",
               "id": 10081380,
               "publications": {
-                "scientific": 2,
-                "scientific_full": 2,
-                "wos_scopus": 1
+                "scientific": 3,
+                "scientific_full": 3,
+                "wos_scopus": 2
               }
             },
             {
@@ -3571,8 +3571,8 @@ data = {
               "name": "Tari Tam\u00e1s",
               "id": 10027944,
               "publications": {
-                "scientific": 15,
-                "scientific_full": 9,
+                "scientific": 16,
+                "scientific_full": 10,
                 "wos_scopus": 3
               }
             },
@@ -3591,7 +3591,7 @@ data = {
               "publications": {
                 "scientific": 7,
                 "scientific_full": 4,
-                "wos_scopus": 2
+                "wos_scopus": 3
               }
             },
             {
@@ -3677,9 +3677,9 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 108,
-            "scientific_full": 73,
-            "wos_scopus": 20
+            "scientific": 107,
+            "scientific_full": 72,
+            "wos_scopus": 22
           }
         },
         {
@@ -3724,9 +3724,9 @@ data = {
         }
       ],
       "publications": {
-        "scientific": 448,
-        "scientific_full": 336,
-        "wos_scopus": 79
+        "scientific": 398,
+        "scientific_full": 287,
+        "wos_scopus": 81
       }
     },
     {
@@ -3871,8 +3871,8 @@ data = {
               "name": "Samir Zouhair",
               "id": 10080766,
               "publications": {
-                "scientific": 2,
-                "scientific_full": 2,
+                "scientific": 3,
+                "scientific_full": 3,
                 "wos_scopus": 0
               }
             },
@@ -3914,8 +3914,8 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 36,
-            "scientific_full": 20,
+            "scientific": 37,
+            "scientific_full": 21,
             "wos_scopus": 3
           }
         },
@@ -4035,7 +4035,7 @@ data = {
               "name": "Pankotay Fruzsina Magda",
               "id": 10055370,
               "publications": {
-                "scientific": 8,
+                "scientific": 9,
                 "scientific_full": 6,
                 "wos_scopus": 0
               }
@@ -4069,8 +4069,8 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 45,
-            "scientific_full": 23,
+            "scientific": 47,
+            "scientific_full": 24,
             "wos_scopus": 2
           }
         },
@@ -4136,8 +4136,8 @@ data = {
               "name": "Pa\u00e1r D\u00e1vid",
               "id": 10022601,
               "publications": {
-                "scientific": 9,
-                "scientific_full": 4,
+                "scientific": 10,
+                "scientific_full": 5,
                 "wos_scopus": 1
               }
             },
@@ -4579,8 +4579,8 @@ data = {
               "name": "Ganzha Dmitry",
               "id": 10076457,
               "publications": {
-                "scientific": 0,
-                "scientific_full": 0,
+                "scientific": 1,
+                "scientific_full": 1,
                 "wos_scopus": 0
               }
             },
@@ -5362,8 +5362,8 @@ data = {
               "name": "Samir Zouhair",
               "id": 10080766,
               "publications": {
-                "scientific": 2,
-                "scientific_full": 2,
+                "scientific": 3,
+                "scientific_full": 3,
                 "wos_scopus": 0
               }
             },
@@ -5398,8 +5398,8 @@ data = {
               "name": "Schaffner Michael",
               "id": 10094068,
               "publications": {
-                "scientific": 0,
-                "scientific_full": 0,
+                "scientific": 1,
+                "scientific_full": 1,
                 "wos_scopus": 0
               }
             },
@@ -5747,15 +5747,15 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 118,
-            "scientific_full": 74,
+            "scientific": 122,
+            "scientific_full": 77,
             "wos_scopus": 5
           }
         }
       ],
       "publications": {
-        "scientific": 226,
-        "scientific_full": 135,
+        "scientific": 231,
+        "scientific_full": 139,
         "wos_scopus": 18
       }
     },
@@ -5888,8 +5888,8 @@ data = {
               "name": "Simon Istv\u00e1n \u00c1goston",
               "id": 10028426,
               "publications": {
-                "scientific": 4,
-                "scientific_full": 0,
+                "scientific": 5,
+                "scientific_full": 1,
                 "wos_scopus": 0
               }
             },
@@ -5931,8 +5931,8 @@ data = {
             }
           ],
           "publications": {
-            "scientific": 33,
-            "scientific_full": 17,
+            "scientific": 34,
+            "scientific_full": 18,
             "wos_scopus": 0
           }
         },
@@ -6366,8 +6366,8 @@ data = {
         }
       ],
       "publications": {
-        "scientific": 154,
-        "scientific_full": 85,
+        "scientific": 155,
+        "scientific_full": 86,
         "wos_scopus": 3
       }
     },
@@ -6492,8 +6492,8 @@ data = {
     }
   ],
   "publications": {
-    "scientific": 1113,
-    "scientific_full": 777,
-    "wos_scopus": 179
+    "scientific": 1051,
+    "scientific_full": 714,
+    "wos_scopus": 184
   }
 }
