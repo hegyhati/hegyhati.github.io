@@ -470,6 +470,7 @@
   pages: 495 – 500
   doi: 10.3303/CET1125083
   citations-self:
+    - 'Bakon, Krisztián & Holczinger, Tibor. (2024). S-Graph-Based Reactive Scheduling with Unexpected Arrivals of New Orders. Machines. 12. 446. 10.3390/machines12070446.'
     - 'Hegyháti, M., Holczinger, T. & Ősz, O. Addressing storage time restrictions in the S-graph scheduling framework. Optim Eng (2020). https://doi.org/10.1007/s11081-020-09548-1'
     - "Osz O., Hegyhati M., 2018, An s-graph based approach for multi-mode resource-constrained project scheduling with time-varying resource capacities , Chemical Engineering Transactions, 70, 1165-1170 doi:10.3303/CET1870195"
   citations-independent:
@@ -524,6 +525,7 @@
     - 'Hegyhati, M., T. Holczinger, A. Szoldatics, F. Friedler, Combinatorial Approach to Address Batch Scheduling Problems with Limited Storage Time Chemical Engineering Transactions, Chemical Engineering Transactions, 25, 495-500 (2011).'
     - 'Hegyhati, M., F. Friedler, Combinatorial Algorithms of the S-Graph Framework for Batch Scheduling, Industrial & Engineering Chemistry Research, 50 (9), 5169-5174 (2011).'
   citations-independent:
+    - 'Bakon, Krisztián & Holczinger, Tibor. (2024). S-Graph-Based Reactive Scheduling with Unexpected Arrivals of New Orders. Machines. 12. 446. 10.3390/machines12070446.'
     - 'Beck, Anton & Knöttner, Sophie & Unterluggauer, Julian. (2022). An Integrated Optimization Model for Industrial Energy System Retrofit with Process Scheduling, Heat Recovery, and Energy Supply System Synthesis. Processes. 10. 10.3390/pr10030572.'
     - 'Szili L., Frits M., Bertok B., 2021, Accelerating the Search for Optimal Solution of Integrated Process-Network Synthesis and Scheduling, Chemical Engineering Transactions, 88, 1189-1194 DOI:10.3303/CET2188198'
     - "Mohamed Awad ,Konrad Mulrennan ,John Donovan ,Russell Macpherson ,   David Tormey ,  A  constraint  programming  model  for  makespan  minimisa-tion in batch manufacturing pharmaceutical facilities,Computers  and  Chemical  Engineering(2021),doi: https://doi.org/10.1016/j.compchemeng.2021.107565"
