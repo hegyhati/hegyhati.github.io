@@ -1,3 +1,17 @@
+- id: Kebelei2024
+  type: article
+  title: "Sawmill scheduling: an application-oriented model "
+  author:
+    - family: Kebelei
+      given: Csaba
+    - family: Hegyháti
+      given: Máté
+  journal: Acta Technica Jauriensis
+  year: "2024"
+  pages: ""
+  ISSN: "2064-5228"
+  url: "https://acta.sze.hu/index.php/acta/article/view/743"
+  doi: https://doi.org/10.14513/actatechjaur.00743 
 - id: Hegyhati2023
   type: article
   title: "Optimization with uncertainties: a scheduling example"
