@@ -1,6 +1,12 @@
 regular:
 
 - course: Data Structures and Algorithms
+  university: University of Pannonia
+  city: Veszprem
+  country: Hungary
+  start: 2025
+
+- course: Data Structures and Algorithms
   university: University of Sopron
   city: Sopron
   country: Hungary
