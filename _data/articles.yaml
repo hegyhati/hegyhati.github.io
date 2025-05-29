@@ -30,6 +30,8 @@
   ISBN: 
   url: "https://link.springer.com/article/10.1007/s10100-023-00854-4"
   doi: https://doi.org/10.1007/s10100-023-00854-4
+  citations-independent:
+   - "Optimization of Operating Room Usage, Bruna Riberio, Master thesis - Network and Information Systems Engineering, 2024, Faculty of Sciences of the University of Porto"
 - id: Osz2023
   type: article
   title: Comparison of discrete- and continuous-time models for scheduling waste wood processing facilities
@@ -256,6 +258,7 @@
   doi: 10.3303/CET1870195
   citations-independent:
     - 'Slots Start-up Synchronization with Shared Resources Dependency, Carlos G. Palacína, Carlos A. Méndezb, Cesar de Prada, CHEMICAL ENGINEERING TRANSACTIONS, VOL. 76, 2019'
+    - 'Three-phase CPLEX with quota auction mechanism for dedicated resource-constrained multi-project scheduling problem with calendar constraints, Kong Feng, Chen Kaixin, Engineering, Construction and Architectural Management, 10.1108/ECAM-07-2024-0970'
   citations-self:
     - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7'
 - id: Hegyhati2018a
