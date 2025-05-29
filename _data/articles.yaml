@@ -12,6 +12,8 @@
   ISSN: "2064-5228"
   url: "https://acta.sze.hu/index.php/acta/article/view/743"
   doi: https://doi.org/10.14513/actatechjaur.00743 
+  citations-independent:
+   - "Da Col, Giacomo & Fleiss, Philipp & Tarzariol, Alice & Teppan, Erich & Wiegelmann, Elena. (2025). A Declarative Approach to Tackle Sawmill Production Scheduling with Answer Set Programming. 10.1007/978-3-031-90341-0_23."
 - id: Hegyhati2023
   type: article
   title: "Optimization with uncertainties: a scheduling example"
