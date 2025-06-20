@@ -1,341 +1,347 @@
-regular:
-
-- course: Data Structures and Algorithms
-  university: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  start: 2025
-
-- course: Data Structures and Algorithms
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2023
-
-- course: Applied Mathematics and Statistics
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2023
-
-- course: Computer aided project planning
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2023
-
-- course: Practical optimization techniques
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2022
-
-- course: Programming languages in data science
-  university: University of Sopron
-  city: SopronApplied
-  country: Hungary
-  start: 2022
-
-- course: Optimization methods
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2022
-
-- course: Introduction to programming in JS
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2021
-
-- course: Programming basics in Python 2
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2021
-
-- course: Basics of software development
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2021
-  end: 2021
-
-- course: Programming basics in Python 1
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2020
-
-- course: Decision support techniques
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2020
-
-- course: Programming basics in Java 2
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2020  
-  end: 2020
-
-- course: Web development techniques 2
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2020
-  end: 2020
-
-- course: Tools for modern software development
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2019
-  end: 2021
-
-- course: Modeling and optimization in practice
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2019
-  end: 2020
-
-- course: Compilers
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2019  
-  end: 2021
-
-- course: Object-oriented programming and databases
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2018
-  end: 2020
-
-- course: Formal languages and automata theory
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2017
-  end: 2021
-  
-
-- course: Formal methods
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2016
-  end: 2018
-  
-
-- course: Web technologies
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2016
-  end: 2017
-
-- course: Decision support
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2016
-  end: 2018
-
-- course: Programming in C++
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2016
-  end: 2019
-
-- course: Theory of Computation
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2016
-  end: 2017
-
-- course: Combinatorial Methods
-  university: University of Pannonia
-  city: Veszprem & Szekesfehervar
-  country: Hungary
-  start: 2012
-  end: 2016
-
-- course: Discrete Event Systems
-  university: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  start: 2009
-  end: 2016
-
-- course: Compilers
-  university: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  start: 2008
-  end: 2016
-
-- course: Optimization Methods
-  university: Pazmany Peter Catholic University
-  city: Budapest
-  country: Hungary
-  start: 2008
-  end: 2015
-
-- course: Programming II. (C++)
-  university: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  start: 2007
-  end: 2011
-
-- course: Theory of Digital Computation
-  university: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  start: 2006
-  end: 2016
-
-- course: Programming I. (C)
-  university: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  start: 2007
-  end: 2009
-
-- course: Modeling of Production Systems
-  university: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  start: 2007
-  end: 2009
-
-- course: Introduction into Optimization
-  university: I. Mohamed University
-  city: Oujda
-  country: Morocco
-  start: 2012
-  end: 2016
+- title: Programming
+  description: Introductory and intermediate courses from the very basics of programming to object oriented principles via various languages depending on the target audience.
+  courses:
+    - name: Programming I (C)
+      university: University of Pannonia
+      level: B.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2007-2009
+    - name: Programming II (C++)
+      university: University of Pannonia
+      level: B.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2007-2011
+    - name: Programming (C++)
+      university: Szechenyi Istvan University
+      level: B.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2016-2019
+    - name: Object-oriented programming (C++)
+      university: Szechenyi Istvan University
+      level: B.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2018-2020
+    - name: Programming 1 (Python)
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2020-
+    - name: Programming 2 (Python)
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2021-
+    - name: Programming basics 2 (Java)
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2020-2021
+    - name: Programming languages in data science (Julia)
+      university: University of Sopron
+      level: M.Sc.
+      city: SopronApplied
+      country: Hungary
+      years: 2022-
+    - name: Introduction to programming (JS)
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2021-2023    
+    - name: Introductory programming (C++)
+      university: Copt Orthodox Cultural Center
+      level: Guest
+      city: Cairo
+      country: Egypt
+      type: 
+      years: 2018
 
 
-phd:
+- title: Software engineering
+  description: Advanced courses focusing on best practices, techniques and tools in software development, such as version control, testing, build tools, CI pipelines, containerization, etc. and supervision of week or semester long group projects in software development.
+  courses:
+    - name: Tools for modern software development
+      university: Szechenyi Istvan University
+      level: B.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2019-2021
+    - name: Basics of software development
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2021
+    - name: Project excercise
+      university: University of Pannonia
+      level: B.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2010-2015
+    - name: Hackathon week
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2022-
+    
 
-- course: Theory and practice of linear optimization
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2023
+- title: Graph theory, data structures, algorithms
+  description: Mostly foundation level courses in combinatorial, theoretical backgrounds of algorithms.
+  courses: 
+    - name: Data Structures and Algorithms
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2023-
+    - name: Data Structures and Algorithms
+      university: University of Pannonia
+      level: B.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2025-
+    - name: Combinatorial Methods
+      university: University of Pannonia
+      level: M.Sc.
+      city: Veszprem & Szekesfehervar
+      country: Hungary
+      years: 2012-2016
 
-- course: Open source tools in research
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2022
+- title: Formal languages and applications
+  description: Foundations in the theory of computation, automata theory, and its application in compiler design and systems modeling. 
+  courses:
+    - name: Theory of Digital Computation
+      university: University of Pannonia
+      level: B.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2006-2016
+    - name: Compilers
+      university: University of Pannonia
+      level: M.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2008-2016
+    - name: Discrete Event Systems
+      university: University of Pannonia
+      level: B.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2009-2016
+    - name: Formal languages and automata theory
+      university: Szechenyi Istvan University
+      level: M.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2017-2021
+    - name: Formal methods
+      university: Szechenyi Istvan University
+      level: M.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2016-2018
+    - name: Theory of Computation
+      university: Szechenyi Istvan University
+      level: M.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2016-2017
+    - name: Compilers
+      university: Szechenyi Istvan University
+      city: Gyor
+      country: Hungary
+      years: 2019-2021
+    - name: Automata and formal languages
+      university: Szechenyi Istvan University
+      level: Ph.D.
+      city: Gyor
+      country: Hungary
+      years: 2017-2020
 
-- course: Document preparation with LaTeX
-  university: University of Sopron
-  city: Sopron
-  country: Hungary
-  start: 2022
+- title: Optimization
+  description: Introductory and intermediate courses about optimization techniques. Focus is mostly on MILP modeling and practical application, but also underlying theory, and other practices, e.g., local search, genetic algorithms are also covered.
+  courses:
+    - name: Optimization Methods
+      university: Pazmany Peter Catholic University
+      level: M.Sc.
+      city: Budapest
+      country: Hungary
+      years: 2008-2015
+    - name: Modeling and optimization in practice
+      university: Szechenyi Istvan University
+      level: B.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2019-2020
+    - name: Decision support
+      university: Szechenyi Istvan University
+      level: M.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2016-2018
+    - name: Decision support techniques
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2020-2024
+    - name: Practical optimization techniques
+      university: University of Sopron
+      level: M.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2022-
+    - name: Optimization methods
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2024-
+    - name: Modeling of Production Systems
+      university: University of Pannonia
+      level: B.Sc.
+      city: Veszprem
+      country: Hungary
+      years: 2007-2009
+    - name: Introduction into Optimization
+      university: I. Mohamed University
+      level: B.Sc.
+      city: Oujda
+      country: Morocco
+      years: 2012-2016
+    - name: Theory and practice of linear optimization
+      university: University of Sopron
+      level: Ph.D.
+      city: Sopron
+      country: Hungary
+      years: 2023-
+    - name: Methods of Practical Optimization
+      university: Szechenyi Istvan University
+      level: Ph.D.
+      city: Gyor
+      country: Hungary
+      years: 2019-2023
+    - name: Scheduling of Production Systems
+      university: Szechenyi Istvan University
+      level: Ph.D.
+      city: Gyor
+      country: Hungary
+      years: 2019-2023    
+    - name: Introduction into the Modeling and Optimization of Linear Systems
+      university: University of Nottingham, Malaysia
+      level: Guest
+      city: Szemenyih
+      country: Malaysia
+      type: Collaboration visit
+      years: 2019
+    - name: Practical linear optimization
+      university: University of Girona
+      level: Guest
+      city: Girona
+      country: Spain
+      type: Erasmus Teaching visit
+      years: 2019
+    - name: Practical optimization
+      university: University of Central Lancashire
+      level: Guest
+      city: Larnaca
+      country: Cyprus
+      type: Erasmus Teaching visit
+      years: 2018
+    - name: Introduction into Linear Optimization and Scheduling
+      university: University of Akureyri
+      level: Guest
+      city: Akureyri
+      country: Iceland
+      type: EGT Teaching visit
+      years: 2017
+    - name: Introduction into Linear Optimization and Scheduling
+      university: University of Zagreb
+      level: Guest
+      city: Zagreb
+      country: Croatia
+      type: CEEPUS Teaching visit
+      years: 2016
+    - name: Introduction into optimization
+      university: ''
+      level: Guest
+      city: Rabat
+      country: Morocco
+      type: Invited course
+      years: 2013
+    - name: Process Optimisation
+      university: University of Pannonia
+      level: Guest
+      city: Veszprem
+      country: Hungary
+      type: Summer school for Process Integration and Intensification, Process Optimisation and Regional Sustainability
+      years: 2010
 
-- course: State-of-the-art IT solutions
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2017
-  end: 2020
 
-- course: Automata and formal languages
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2017
-  end: 2020
-
-- course: Methods of Practical Optimization
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2019
-  end: 2023
-
-- course: Scheduling of Production Systems
-  university: Szechenyi Istvan University
-  city: Gyor
-  country: Hungary
-  start: 2019
-  end: 2023
-
-
-
-
-irregular:
-
-- course: Introduction into the Modeling and Optimization of Linear Systems
-  type: Collaboration visit
-  where: University of Nottingham, Malaysia
-  city: Szemenyih
-  country: Malaysia
-  year: 2019
-
-- course: Practical linear optimization
-  type: Erasmus Teaching visit
-  where: University of Girona
-  city: Girona
-  country: Spain
-  year: 2019
-
-- course: Practical optimization
-  type: Erasmus Teaching visit
-  where: University of Central Lancashire
-  city: Larnaca
-  country: Cyprus
-  year: 2018
-
-- course: Introduction into Linear Optimization and Scheduling
-  type: EGT Teaching visit
-  where: University of Akureyri
-  city: Akureyri
-  country: Iceland
-  year: 2017
-
-- course: MapReduce and Hadoop
-  type: Big Data in a little country - BEST summer school
-  where: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  year: 2017
-
-- course: Introduction into Linear Optimization and Scheduling
-  type: CEEPUS Teaching visit
-  where: University of Zagreb
-  city: Zagreb
-  country: Croatia
-  year: 2016
-
-- course: MapReduce and Hadoop
-  type: Big Data in a little country - BEST summer school
-  where: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  year: 2016
-
-- course: Introduction into optimization
-  type: Invited course
-  where: ''
-  city: Rabat
-  country: Morocco
-  year: 2013
-
-- course: Process Optimisation
-  type: Summer school for Process Integration and Intensification, Process Optimisation
-    and Regional Sustainability
-  where: University of Pannonia
-  city: Veszprem
-  country: Hungary
-  year: 2010
+- title: Miscellaneous
+  description: Courses from a wide range of fields that do not fit into any of the above categories. Definitely not my forte, mostly results of happenstance. 
+  courses:
+    - name: Applied Mathematics and Statistics
+      university: University of Sopron
+      level: M.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2023
+    - name: Computer aided project planning
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2023
+    - name: Web development techniques 2
+      university: University of Sopron
+      level: B.Sc.
+      city: Sopron
+      country: Hungary
+      years: 2020
+    - name: Web technologies
+      university: Szechenyi Istvan University
+      level: B.Sc.
+      city: Gyor
+      country: Hungary
+      years: 2016-2017
+    - name: Open source tools in research
+      university: University of Sopron
+      level: Ph.D.
+      city: Sopron
+      country: Hungary
+      years: 2022-
+    - name: Document preparation with LaTeX
+      university: University of Sopron
+      level: Ph.D.
+      city: Sopron
+      country: Hungary
+      years: 2022-
+    - name: State-of-the-art IT solutions
+      university: Szechenyi Istvan University
+      level: Ph.D.
+      city: Gyor
+      country: Hungary
+      years: 2017-2020
+    - name: MapReduce and Hadoop
+      university: University of Pannonia
+      level: Guest
+      city: Veszprem
+      country: Hungary
+      type: Big Data in a little country - BEST summer school
+      years: 2016-2017
+    - name: Mathematical Foundations
+      university: Copt Orthodox Cultural Center
+      level: Guest
+      city: Cairo
+      country: Egypt
+      type: 
+      years: 2017

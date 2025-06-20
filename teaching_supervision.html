@@ -4,70 +4,31 @@ title:  "Teaching & Supervision"
 id: teaching_supervision
 ---
 
+<h3 class="py-3" id="teaching">Teaching experience</h3>
+
+I became a teaching assistant during my bachelor year at University of Pannonia. 
+Since then, I've taught regular courses at 4 Hungarian and 1 Moroccan university, and visited several other universities in Europe, Africa, Asia as a guest lecturer via Erasmus, EGT or other programs.
 
 
-<h3 id="teaching" class="p-3">Teaching experience</h3>
-
-<h4 class="p-3">Active regular courses</h4>
-
-<ul>
-  {% assign courses = site.data.teaching.regular | sort: "start" %}
-  {% for c in courses %}
-    {% unless c.end %}
-      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
-    {% endunless %}
-  {% endfor %}
-</ul>
-
-<h4 class="p-3">Past regular courses</h4>
-<ul>
-  {% assign courses = site.data.teaching.regular | sort: "end" | reverse %}
-  {% for c in courses %}
-    {% if c.end %} 
-      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-<h4 class="p-3">Active PhD courses</h4>
-
-<ul>
-  {% assign courses = site.data.teaching.phd | sort: "start" %}
-  {% for c in courses %}
-    {% unless c.end %}
-      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
-    {% endunless %}
-  {% endfor %}
-</ul>
-
-<h4 class="p-3">Past PhD courses</h4>
-<ul>
-  {% assign courses = site.data.teaching.phd | sort: "end" | reverse %}
-  {% for c in courses %}
-    {% if c.end %} 
-      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% for  category in site.data.teaching %}
+  <h4 class="py-2">{{category.title}}</h4>
+  {{category.description}}
+  <ul>
+    {% for course in category.courses %}
+      <li><b>{{course.name}}</b> [{{course.level}}] - {{course.university}} ({{course.years}}) </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 
-<h4 class="p-3" id="erasmus">Irregular courses</h4>
-<ul>
-  {% assign courses = site.data.teaching.irregular | sort: "year" | reverse %}
-  {% for c in courses %}
-      <li><b>{{ c.course }}</b> ({{c.type}})- {{c.where}}, {{c.year}}</li>
-  {% endfor %}
-</ul>
-
-
-<h3 class="p-3" id="supervision">Supervision experience with B.Sc. and M.Sc. students</h3>
+<h3 class="py-3" id="supervision">Supervision experience with B.Sc. and M.Sc. students</h3>
 
 <div class="alert alert-info" role="alert">
   If you are interested doing a diploma work under my supervision, please read <a class="alert-link" href="/diploma.html">this</a>.
 </div>
 
 
-<h4 class="p-3">M.Sc. diploma works</h4>
+<h4 class="py-2">M.Sc. diploma works</h4>
 
 <ol reversed>
   {% assign diplomas = site.data.supervision.diploma.MSc | sort: "date" | reverse %}
@@ -76,7 +37,7 @@ id: teaching_supervision
   {% endfor %}
 </ol>
 
-<h4 class="p-3">B.Sc. diploma works</h4>
+<h4 class="py-2">B.Sc. diploma works</h4>
 
 <ol reversed>
   {% assign diplomas = site.data.supervision.diploma.BSc | sort: "date" | reverse %}

@@ -39,56 +39,14 @@
 
 <h4 class="p-3" style="page-break-before: always;">Teaching experience</h4>
 
-<h5 class="p-3">Active regular courses</h5>
-
-<ul>
-  {% assign courses = site.data.teaching.regular | sort: "start" %}
-  {% for c in courses %}
-    {% unless c.end %}
-      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
-    {% endunless %}
-  {% endfor %}
-</ul>
-
-<h5 class="p-3">Past regular courses</h5>
-<ul>
-  {% assign courses = site.data.teaching.regular | sort: "end" | reverse %}
-  {% for c in courses %}
-    {% if c.end %} 
-      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-<h5 class="p-3">Active PhD courses</h5>
-
-<ul>
-  {% assign courses = site.data.teaching.phd | sort: "start" %}
-  {% for c in courses %}
-    {% unless c.end %}
-      <li><b>{{ c.course }}</b> - {{c.university}}, since {{c.start}}</li>
-    {% endunless %}
-  {% endfor %}
-</ul>
-
-<!--h5 class="p-3">Past PhD courses</h5>
-<ul>
-  {% assign courses = site.data.teaching.phd | sort: "end" | reverse %}
-  {% for c in courses %}
-    {% if c.end %} 
-      <li><b>{{ c.course }}</b> - {{c.university}}, {{c.start}}-{{c.end}}</li>
-    {% endif %}
-  {% endfor %}
-</ul-->
-
-
-<h5 class="p-3">Irregular courses</h5>
-<ul>
-  {% assign courses = site.data.teaching.irregular | sort: "year" | reverse %}
-  {% for c in courses %}
-      <li><b>{{ c.course }}</b> ({{c.type}})- {{c.where}}, {{c.year}}</li>
-  {% endfor %}
-</ul>
+{% for  category in site.data.teaching %}
+  <h5 class="py-2">{{category.title}}</h5>
+  <ul>
+    {% for course in category.courses %}
+      <li><b>{{course.name}}</b> [{{course.level}}] - {{course.university}} ({{course.years}}) </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 
 <h4 class="p-3">Supervision experience</h4>
