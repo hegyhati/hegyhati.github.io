@@ -31,6 +31,7 @@
   url: "https://link.springer.com/article/10.1007/s10100-023-00854-4"
   doi: https://doi.org/10.1007/s10100-023-00854-4
   citations-independent:
+   - "Zahira, Shaffa & Djonaedi, Emmidia & Kartika, Rachmah. (2025). Studi Proses Produksi Tinta Gravure Violet dengan Parameter Capaian Warna. JURAL RISET RUMPUN ILMU TEKNIK. 4. 148-162. 10.55606/jurritek.v4i2.5572."
    - "Optimization of Operating Room Usage, Bruna Riberio, Master thesis - Network and Information Systems Engineering, 2024, Faculty of Sciences of the University of Porto"
 - id: Osz2023
   type: article
@@ -49,6 +50,7 @@
   url: "https://link.springer.com/article/10.1007/s10100-023-00852-6"
   doi: https://doi.org/10.1007/s10100-023-00852-6
   citations-independent:
+   - "Povh, J., Zadnik Stirn, L. & Žerovnik, J. Recent theoretical and practical contributions to the OR environment and CEJOR from the perspective of SSI-SOR. Cent Eur J Oper Res (2025). https://doi.org/10.1007/s10100-025-00989-6"
    - "Janez PovhLidija Zadnik StirnJanez Žerovnik (2003) 60 years of OR in Slovenia: development from a first conference to a vibrant community. Central European Journal of Operations Research. 1-10. 10.1007/s10100-023-00859-z."
 - id: Hegyhati2022
   type: inproceedings
