@@ -30,13 +30,13 @@
       level: B.Sc.
       city: Sopron
       country: Hungary
-      years: 2020-
+      years: 2020-2024
     - name: Programming 2 (Python)
       university: University of Sopron
       level: B.Sc.
       city: Sopron
       country: Hungary
-      years: 2021-
+      years: 2021-2025
     - name: Programming basics 2 (Java)
       university: University of Sopron
       level: B.Sc.
@@ -48,7 +48,7 @@
       level: M.Sc.
       city: SopronApplied
       country: Hungary
-      years: 2022-
+      years: 2022-2023
     - name: Introduction to programming (JS)
       university: University of Sopron
       level: B.Sc.
@@ -90,7 +90,7 @@
       level: B.Sc.
       city: Sopron
       country: Hungary
-      years: 2022-
+      years: 2022-2025
     
 
 - title: Graph theory, data structures, algorithms
@@ -101,13 +101,13 @@
       level: B.Sc.
       city: Sopron
       country: Hungary
-      years: 2023-
+      years: 2023-2025
     - name: Data Structures and Algorithms
       university: University of Pannonia
       level: B.Sc.
       city: Veszprem
       country: Hungary
-      years: 2025-
+      years: 2025
     - name: Combinatorial Methods
       university: University of Pannonia
       level: M.Sc.
@@ -129,7 +129,7 @@
       level: M.Sc.
       city: Veszprem
       country: Hungary
-      years: 2008-2016
+      years: 2008-2016, 2024
     - name: Discrete Event Systems
       university: University of Pannonia
       level: B.Sc.
@@ -156,6 +156,7 @@
       years: 2016-2017
     - name: Compilers
       university: Szechenyi Istvan University
+      level: M.Sc.
       city: Gyor
       country: Hungary
       years: 2019-2021
@@ -198,13 +199,13 @@
       level: M.Sc.
       city: Sopron
       country: Hungary
-      years: 2022-
+      years: 2022-2023
     - name: Optimization methods
       university: University of Sopron
       level: B.Sc.
       city: Sopron
       country: Hungary
-      years: 2024-
+      years: 2024-2025
     - name: Modeling of Production Systems
       university: University of Pannonia
       level: B.Sc.
@@ -222,7 +223,7 @@
       level: Ph.D.
       city: Sopron
       country: Hungary
-      years: 2023-
+      years: 2023-2024
     - name: Methods of Practical Optimization
       university: Szechenyi Istvan University
       level: Ph.D.
@@ -318,13 +319,13 @@
       level: Ph.D.
       city: Sopron
       country: Hungary
-      years: 2022-
+      years: 2022-2023
     - name: Document preparation with LaTeX
       university: University of Sopron
       level: Ph.D.
       city: Sopron
       country: Hungary
-      years: 2022-
+      years: 2022-2024
     - name: State-of-the-art IT solutions
       university: Szechenyi Istvan University
       level: Ph.D.
