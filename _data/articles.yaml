@@ -117,6 +117,7 @@
   url: "https://doi.org/10.1007/s41660-020-00142-7"
   doi: 10.1007/s41660-020-00142-7
   citations-independent:
+    - 'Jui-Yuan Lee, Esmael R. Seid, Thokozani Majozi, 10 - Multipurpose Batch Plant Heat Integration via intermittently available continuous streams: additional heat storage option, Editor(s): Jiří Jaromír Klemeš, In Woodhead Publishing Series in Energy, Handbook of Process Integration (PI) (Second Edition), Woodhead Publishing, 2023, Pages 349-389, ISBN 9780128238509, https://doi.org/10.1016/B978-0-12-823850-9.00018-9.'
     - 'Ayyad, Fatma & Shehata, Walaa & Bhran, Ahmed & Shoaib, Abeer. (2023). Optimum rescheduling of water networks for batch processes using a goal programming technique. Scientific Reports. 13. 10.1038/s41598-023-49070-9. '
 - id: Hegyhati2020
   type: article
@@ -136,6 +137,7 @@
   url: "https://doi.org/10.1007/s11081-020-09548-1"
   doi: 10.1007/s11081-020-09548-1
   citations-independent:
+    - 'Jui-Yuan Lee, Esmael R. Seid, Thokozani Majozi, 10 - Multipurpose Batch Plant Heat Integration via intermittently available continuous streams: additional heat storage option, Editor(s): Jiří Jaromír Klemeš, In Woodhead Publishing Series in Energy, Handbook of Process Integration (PI) (Second Edition), Woodhead Publishing, 2023, Pages 349-389, ISBN 9780128238509, https://doi.org/10.1016/B978-0-12-823850-9.00018-9.'
     - 'Szabo, Sandor. (2023). Batch Scheduling with Time Restriction and Clique Search. Mathematica Pannonica. 10.1556/314.2023.00004.'
   citations-self:
     - 'Ősz, O., Foo, D.C.Y. & Hegyháti, M. Minimizing Freshwater Usage in Batch Process Scheduling: S-Graph Approach. Process Integr Optim Sustain (2020). https://doi.org/10.1007/s41660-020-00142-7'
@@ -517,6 +519,7 @@
   doi: 10.1007/s10098-009-0240-5
   citations-self: []
   citations-independent:
+    - 'Jui-Yuan Lee, Esmael R. Seid, Thokozani Majozi, 10 - Multipurpose Batch Plant Heat Integration via intermittently available continuous streams: additional heat storage option, Editor(s): Jiří Jaromír Klemeš, In Woodhead Publishing Series in Energy, Handbook of Process Integration (PI) (Second Edition), Woodhead Publishing, 2023, Pages 349-389, ISBN 9780128238509, https://doi.org/10.1016/B978-0-12-823850-9.00018-9.'
     - 'Lam HL. Extended P-graph applications in supply chain and Process Network Synthesis. (2013) CURRENT OPINION IN CHEMICAL ENGINEERING 2211-3398 2 4 475-486'
     - 'Francesco Rossi, Daniel Casas-Orozco, Gintaras Reklaitis, Flavio Manenti, Guido Buzzi-Ferraris; A Computational Framework for Integrating Campaign Scheduling, Dynamic Optimization and Optimal Control in Multi-Unit Batch Processes, Computers & Chemical Engineering, Available online 1 June 2017'
     - 'Yik Teeng Leong Jui-Yuan Lee Irene Mei leng Chew; INCORPORATING TIMESHARING SCHEME IN ECO-INDUSTRIAL MULTI-PERIOD CHILLED AND COOLING WATER NETWORK DESIGN; Ind. Eng. Chem. Res., Just Accepted Manuscript; doi: 10.1021/acs.iecr.5b02722; Publication Date (Web): December 9, 2015'
