@@ -290,6 +290,12 @@
 - title: Miscellaneous
   description: Courses from a wide range of fields that do not fit into any of the above categories. Definitely not my forte, mostly results of happenstance. 
   courses:
+    - name: Database Systems
+      university: University of Applied Sciences Wiener Neustadt
+      level: B.Sc.
+      city: Wiener Neustadt
+      country: Austria
+      years: 2025-
     - name: Applied Mathematics and Statistics
       university: University of Sopron
       level: M.Sc.
