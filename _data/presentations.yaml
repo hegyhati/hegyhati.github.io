@@ -1,3 +1,28 @@
+- author: Hegyhati M.
+  title: Empiric results on the achievable performance gains by he inclusion of instance-specific information in a scheduling optimizer.
+  conference: Middle-European Conference on Applied Theoretical Computer Science
+  conferenceshort: MATCOS-25
+  city: Koper
+  country: Slovenia
+  date: Oct 9-10
+  year: '2025'
+  type:
+  - oral
+  - international
+
+- author: Kebelei, Cs., M. Hegyhati
+  title: Flexibility vs. Efficiency: a Study in Sawmill Scheduling
+  conference: Middle-European Conference on Applied Theoretical Computer Science
+  conferenceshort: MATCOS-25
+  city: Koper
+  country: Slovenia
+  date: Oct 9-10
+  year: '2025'
+  type:
+  - oral
+  - international
+  - collaborator
+
 - author: Hegyhati, M.
   title: Cyclic scheduling with Timed Automata
   conference: "Szeged WORkshop on Discrete Structures"
