@@ -107,6 +107,14 @@ diploma:
     
   BSc:
 
+  - student: Kitti Ignácz
+    original_title: Túraútvonal-bejáró widget fejlesztése Garmin okosórára
+    title: Garmin widget for virtual completion of hiking trails
+    course: Bachelor in Business Information Science
+    university: University of Sopron
+    date: 2026.01.13.
+    grade: Good
+
   - student: Csaba Kebelei
     original_title: Szoftveres támogatás fűrészüzemi folyamatok ütemezéséhez
     title: Decision support software for sawmill scheduling
