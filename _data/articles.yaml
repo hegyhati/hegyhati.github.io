@@ -100,6 +100,28 @@
   ISBN: "978-961-264-248-8"
   ISSN: "ISSN 2630-371X"
   url: "http://library.ijs.si/Stacks/Proceedings/InformationSociety/2022/IS2022_Volume-I%20-%20MATCOS.pdf"
+- id: Osz2022
+  type: inproceedings
+  title: Long-term plant-level scheduling with uncertainty in the plywood industry
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Dávid
+      given: Balázs
+    - family: Garab
+      given: József
+    - family: Hegyháti
+      given: Máté
+  journal: 10th Hardwood Conference Proceedings
+  year: "2022"
+  volume: ""
+  pages: 263-270
+  ISBN: "978-963-334-446-0"
+  ISSN: "ISSN 2631-004X"
+  url: "http://publicatio.uni-sopron.hu/2525/1/Osz-Balazs-Garab-Hegyhati-10-Harwood_Proceedings.pdf"
+  doi: "https://doi.org/10.35511/978-963-334-446-0"
+  citations-independent:
+   - "Niloofar Jahani, Luc LeBel, Shuva Gautam, Wood flow management for supply and demand synchronization: A literature review, Forest Policy and Economics, Volume 186, 2026,103757, ISSN 1389-9341, https://doi.org/10.1016/j.forpol.2026.103757."
 - id: David2021b
   type: incollection
   title: Scheduling of Waste Wood Processing Facilities with Overlapping Jobs
