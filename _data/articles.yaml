@@ -1,3 +1,22 @@
+- id: Osz2026
+  type: article
+  title: Mitigating Supply Chain Disruptions in Plywood Manufacturing by Deadline Reordering
+  author:
+    - family: Ősz
+      given: Olivér
+    - family: Garab
+      given: József
+    - family: Hegyháti
+      given: Máté
+    - family: Dávid
+      given: Balázs
+  journal: Symmetry
+  year: "2026"
+  volume: 18
+  pages: "AN: 910"
+  ISBN: 
+  url: https://www.mdpi.com/2073-8994/18/6/910
+  doi: https://doi.org/10.3390/sym18060910
 - id: Hegyhati2025
   type: inproceedings
   title: Empiric results on the achievable performance gains by he inclusion of instance-specific information in a scheduling optimizer
