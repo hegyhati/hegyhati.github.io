@@ -64,6 +64,7 @@
   url: "https://acta.sze.hu/index.php/acta/article/view/743"
   doi: https://doi.org/10.14513/actatechjaur.00743 
   citations-self:
+   - "Ősz, O.; Garab, J.; Hegyháti, M.; Dávid, B. Mitigating Supply Chain Disruptions in Plywood Manufacturing by Deadline Reordering. Symmetry 2026, 18, 910. https://doi.org/10.3390/sym18060910"
    - "Kebelei, Cs. & M. Hegyhati, Flexibility vs. efficiency: a study in sawmill scheduling, Information Society - Proceedings of MATCOS 2025, Volume N, pp. 11-14, 2025, 10.70314/is.2025.matcos"
   citations-independent:
    - "Da Col, Giacomo & Fleiss, Philipp & Tarzariol, Alice & Teppan, Erich & Wiegelmann, Elena. (2025). A Declarative Approach to Tackle Sawmill Production Scheduling with Answer Set Programming. 10.1007/978-3-031-90341-0_23."
@@ -339,6 +340,7 @@
   ISSN: 2283-9216
   doi: 10.3303/CET1870195
   citations-independent:
+    - "Jean Pimentel, Michael Eder, Stephan Maier, Botond Bertók, Bálint Filep, Michael Narodoslawsky, Optimization-based decision workflow for designing regional renewable energy systems, Energy, Volume 358, 2026, 141393, ISSN 0360-5442, https://doi.org/10.1016/j.energy.2026.141393."
     - "Artificial Intelligence in Project Scheduling Management, Muhammad Faizan Khan, Master thesis - Industrial Management, 2025, School of Technology and Innovation of the University of Vaasa"
     - 'Slots Start-up Synchronization with Shared Resources Dependency, Carlos G. Palacína, Carlos A. Méndezb, Cesar de Prada, CHEMICAL ENGINEERING TRANSACTIONS, VOL. 76, 2019'
     - 'Three-phase CPLEX with quota auction mechanism for dedicated resource-constrained multi-project scheduling problem with calendar constraints, Kong Feng, Chen Kaixin, Engineering, Construction and Architectural Management, 10.1108/ECAM-07-2024-0970'
@@ -449,6 +451,7 @@
     - 'Klemeš J.J., Varbanov P.S., Lam H.L., 2017, Twenty years of pres: past, present and future – process integration towards sustainability, Chemical Engineering Transactions, 61, 1-24 doi:10.3303/CET1761001'
     - 'Lim, C.H., Lam, H.L.; Biomass Demand-Resources Value Targeting; (2014) Energy Conversion and Management, 87, pp. 1202-1209.'
   citations-independent:
+    - "Nabavi-Pelesaraei, Ashkan & Hamidinasab, Bahareh & Gagnon, Yves. (2026). Integrated waste management and energy recovery in the circular economy: An in-depth review, SWOT evaluation, and sustainable strategies. 10.1016/B978-0-443-27614-9.00003-2."
     - "Uribe, Lourdes & Andrade-Ibarra, Yael & Trejo-Ramírez, Uriel & Cuate, Oliver & Lara, Adriana. (2025). Enhancing Machinery-Aided Composting Through Multiobjective Optimization. Applied Sciences. 15. 10754. 10.3390/app151910754."
     - 'Apaydin, Ömer & Han, Gül. (2023). Analysis of Municipal Solid Waste Collection Methods Focusing on Zero-Waste Management Using an Analytical Hierarchy Process. Sustainability. 15. 13184. 10.3390/su151713184.'
     - 'Fall, A., Haas, R. (2022). Techno-Economic Assessment of Renewable Energy Potential in Cities: Case Studies of Solar Photovoltaic, Waste-to-Energy and Wind Energy. In: Fall, A., Haas, R. (eds) Sustainable Energy Access for Communities . Springer, Cham. https://doi.org/10.1007/978-3-030-68410-5_5'
@@ -599,6 +602,7 @@
   doi: 10.1007/s10098-009-0240-5
   citations-self: []
   citations-independent:
+    - 'Johannes Wloch, Marcus Grünewald, Julia Riese; Development of a methodology for heat pump-based heat integration in batch processes; Conference: The 36th European Symposium on Computer Aided Process Engineering; 2006; https://doi.org/10.69997/sct.140728'
     - 'Jui-Yuan Lee, Esmael R. Seid, Thokozani Majozi, 10 - Multipurpose Batch Plant Heat Integration via intermittently available continuous streams: additional heat storage option, Editor(s): Jiří Jaromír Klemeš, In Woodhead Publishing Series in Energy, Handbook of Process Integration (PI) (Second Edition), Woodhead Publishing, 2023, Pages 349-389, ISBN 9780128238509, https://doi.org/10.1016/B978-0-12-823850-9.00018-9.'
     - 'Lam HL. Extended P-graph applications in supply chain and Process Network Synthesis. (2013) CURRENT OPINION IN CHEMICAL ENGINEERING 2211-3398 2 4 475-486'
     - 'Francesco Rossi, Daniel Casas-Orozco, Gintaras Reklaitis, Flavio Manenti, Guido Buzzi-Ferraris; A Computational Framework for Integrating Campaign Scheduling, Dynamic Optimization and Optimal Control in Multi-Unit Batch Processes, Computers & Chemical Engineering, Available online 1 June 2017'
