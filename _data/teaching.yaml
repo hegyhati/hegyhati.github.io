@@ -1,6 +1,12 @@
 - title: Programming
   description: Introductory and intermediate courses from the very basics of programming to object oriented principles via various languages depending on the target audience.
   courses:
+    - name: Object Oriented Programming (Python)
+      university: University of Applied Sciences Wiener Neustadt
+      level: B.Sc.
+      city: Wiener Neustadt
+      country: Austria
+      years: 2026-
     - name: Programming I (C)
       university: University of Pannonia
       level: B.Sc.
@@ -46,7 +52,7 @@
     - name: Programming languages in data science (Julia)
       university: University of Sopron
       level: M.Sc.
-      city: SopronApplied
+      city: Sopron
       country: Hungary
       years: 2022-2023
     - name: Introduction to programming (JS)
@@ -67,6 +73,24 @@
 - title: Software engineering
   description: Advanced courses focusing on best practices, techniques and tools in software development, such as version control, testing, build tools, CI pipelines, containerization, etc. and supervision of week or semester long group projects in software development.
   courses:
+    - name: Software Performance Engineering
+      university: University of Applied Sciences Wiener Neustadt
+      level: M.Sc.
+      city: Wiener Neustadt
+      country: Austria
+      years: 2026-
+    - name: Software Development 2
+      university: University of Applied Sciences Wiener Neustadt
+      level: B.Sc.
+      city: Wiener Neustadt
+      country: Austria
+      years: 2026-
+    - name: Software Engineering
+      university: University of Applied Sciences Wiener Neustadt
+      level: B.Sc.
+      city: Wiener Neustadt
+      country: Austria
+      years: 2026
     - name: Tools for modern software development
       university: Szechenyi Istvan University
       level: B.Sc.
@@ -96,6 +120,12 @@
 - title: Graph theory, data structures, algorithms
   description: Mostly foundation level courses in combinatorial, theoretical backgrounds of algorithms.
   courses: 
+    - name: Data Structures and Algorithms
+      university: University of Applied Sciences Wiener Neustadt
+      level: B.Sc.
+      city: Wiener Neustadt
+      country: Austria
+      years: 2026-
     - name: Data Structures and Algorithms
       university: University of Sopron
       level: B.Sc.
