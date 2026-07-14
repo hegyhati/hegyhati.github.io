@@ -107,6 +107,30 @@ diploma:
     
   BSc:
 
+  - student: Philipp Molnar
+    original_title: "gmpl-tex: Design and Development of a GMPL to LaTeX Converter Based on Design Science Research"
+    title: "gmpl-tex: Design and Development of a GMPL to LaTeX Converter Based on Design Science Research"
+    course: Bachelor in Informatics
+    university: University of Applied Sciences Wiener Neustadt
+    date: 2026.08.25.
+    grade: Good
+
+  - student: Seda Kocaman
+    original_title: Design und Entwicklung einer Desktop-Anwendung für Nonogramme, basierend auf Human-Centered Design, Design Science Research und ISO 9241-210
+    title: Design and development of a Nonogram desktop application, based on human-centered design, design science research and ISO 9241-210
+    course: Bachelor in Informatics
+    university: University of Applied Sciences Wiener Neustadt
+    date: 2026.07.07.
+    grade: Good
+
+  - student: Patrick Speiser
+    original_title: Entwicklung und Evaluation eines verteilten Lösungssystems für Nonogramme
+    title: Development and evaluation of a distributed solver for Nonograms
+    course: Bachelor in Informatics
+    university: University of Applied Sciences Wiener Neustadt
+    date: 2026.07.07.
+    grade: Excellent
+
   - student: Kitti Ignácz
     original_title: Túraútvonal-bejáró widget fejlesztése Garmin okosórára
     title: Garmin widget for virtual completion of hiking trails
